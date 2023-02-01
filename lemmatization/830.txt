@@ -1,0 +1,5 @@
+Bonjour , 
+
+ je ne voir pas comment nous pouvoir savoir que il y avoir deux tri possible à savoir 0 pourcent et 19 pourcent . je avoir en effet trouver 19 pourcent en utiliser Excel mais comment pouvoir nous trouver 0 pourcent ? car diviser par 0 pourcent être impossible .. 
+ je vous remercier de avance , 
+ Eugénie 

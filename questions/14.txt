@@ -1,0 +1,11 @@
+Bonjour,
+
+J'ai résolu l'exercice de manière différente et obtient la même réponse, à 0,01 près.
+Par ailleurs, je ne comprends pas comment vous calculez la rentabilité du marché. Où avons-nous vu ça dans les vidéos ? J'ai des notes sur la rentabilité espérée, s'agit-il de synonyme? En effet, je vois que dans la résolution, vous calculez la prime de risque du marché sur base de la rentabilité du marché alors que dans les vidéos, on a appris à la calculer sur base de la rentabilité espérée.
+Aussi, pourquoi, dans le cadre de cet exercice calculer la rentabilité du marché et la prime de risque du marché?
+
+Merci pour vos explications.
+Alice
+
+Merci pour votre réponse.
+Alice

@@ -1,0 +1,10 @@
+Bonjour,
+Pour la question 1 et la question  3,  j'ai rencontré le même problème.
+Ce sont deux situations dans lesquelles l'emprunt et donc la dette est estimée comme étant sans risque et où la prime de risque est négligeable.
+
+La manière dont je comprend l'énoncé est que rd = 0.
+Cependant lorsqu’on résout les exercices, ce rd correspond à chaque fois au taux sans risque et je ne comprend pas pourquoi il en est ainsi.
+
+Merci d'avance pour votre aide.
+
+Mathieu

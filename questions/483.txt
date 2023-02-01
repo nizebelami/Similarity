@@ -1,0 +1,13 @@
+Bonjour, 
+Dans l'explication, on mets un **-** comme suit:
+5000=1000*(1**-**1,06^-N) / 0,06. 
+Puis, on isole  N > logarithmes népériens. Ceci nous donne -N=ln0,7/ln1,06, soit N=6,12. 
+Dans les vidéos, il est précisé que ça devrait être ... (1**+**1,06^-N)
+Avec Excel, je procède comme suit : =LN(F1/F2*F3+1)/LN(1+F3) = 4,5026
+F1= 5000
+F2 = 1000
+F3= 6%
+
+Dans aucun cas j'arrive à 7. Pouvez-vous, svp, m'éclairer?
+J'ai surement compris quelque chose de travers et je suis bloquée pour tous les excercises de rentes constantes où la durée est l'inconnu. 
+Merci de votre aide!

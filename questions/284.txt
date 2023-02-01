@@ -1,0 +1,7 @@
+Bonjour, 
+
+Pourriez-vous m'expliquer le raisonnement de cette question afin d'obtenir la réponse de 15 millions?
+
+je calcule la formule de la rente perpétuelle: 2 M/ 5% = 40 millions étant donné que l'énoncé précise que la rente est versée tout les 3 ans, je pensais diviser les 40 M/ 3 ans ce qui donne 13,33 M + 2 M (versé en t0) ce qui donne un résultat de 15,33 M.
+
+Merci pour votre aide.

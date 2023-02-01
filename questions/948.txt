@@ -1,0 +1,5 @@
+Bonjour,
+Dans l'exemple sur le retour sur le prix et la rentabilité, vous présentez des données d'analyse qui viennent du site finance.yahoo.com.
+Y-a-t'il d'autres analyses financières accessibles en ligne et gratuites (j'imagine qu'un certain nombre d'analyse sont payantes).
+Si c'est le cas, les analyses financières sont elles souvent simiaires ou des différences importantes peuvent être observés ?
+Merci

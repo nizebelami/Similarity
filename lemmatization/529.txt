@@ -1,0 +1,12 @@
+dans le question 5 nous avoir comme réponse , 
+
+  =( -0.5 ^ 2 * 18%^2 plus 1.5 ^ 2 * 38%^2 plus 2*(-0.5)*1.5 * 18%*38%*42%)^0.5 = 53.84 pourcent 
+
+ de où venir le ( 42 pourcent ) ^0.5 ? 
+
+ je suppose que ce être le Sigma Ri , rj mais comment on l' obtenir ? 
+ parce qu' obtenir un version avec un exposant cela ne ressemble pas à ce qui avoir être voir dans le cours . 
+
+ merci beaucoup 
+
+ Guillaume 

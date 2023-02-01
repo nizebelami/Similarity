@@ -1,0 +1,9 @@
+Bonjour,
+
+j'ai calculé le TAEG en utilisant exactement la même manière qui a été utilisé dans l'avant-dernière vidéo. Mon VF = 800(1+5,85%)^15/12 et je l'ai mis égal a 775 et puis j'ai trouvé 11,33% comme TAEG. Est-ce que cette réponse est faute ou juste?
+
+Merci, 
+
+Bien à vous, 
+
+Justine

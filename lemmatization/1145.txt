@@ -1,0 +1,12 @@
+bonjour monsieur 
+
+ pour le question 3 je arrive exactement à le même réponse que vous sauf que je passer par un autre méthode , j’ aimer savoir si lui être bon 
+
+ mon raisonnement être celui-ci 
+
+  - je calcule le rcp avant changement de levier comme vous le faite , rcp=3,7 pourcent 
+  - je calcule le coc avec le formule de cmpc ( sans fiscalité ) avec un levier de 0,81 , j’ obtenir 2,49 pourcent comme vous : 
+   3,7%*(1/1,81)+1%*(0,81/1,81)= 2,49 pourcent 
+  - a partir de ce coc , je tire le nouveau valeur de rcp , avec le nouveau levier 
+    0,5*rcp+0,5 * 10%=2,49 pourcent et je trouve rcp=3,98 pourcent comme vous 
+  - ensuite le reste être exactement comme vous le faite avec le nouveau bêta qui être 0,597 de où le augmentation de 10 pourcent 

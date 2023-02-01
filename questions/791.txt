@@ -1,0 +1,11 @@
+Bonjour,
+
+Dans le calcul du CF de la question 3 on inclut pas le montant de l'investissement (CF = * * * * ) tandis que dans la question 4, l'investissement est inclus dans le calcul (CF = * * * * ).
+
+Est-ce que c'est parce que dans la question 3 le montant de l'investissement doit-être libéré avant le début de l'exploitation?
+
+D'avance merci pour votre réponse.
+
+Bonne soirée,
+
+Sophie

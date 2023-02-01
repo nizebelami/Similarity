@@ -1,0 +1,3 @@
+Bonjour,
+Dans ce projet Monsolini, vous prenez en compte l'investissement sous la forme de charge en dotation en amortissement dans le calcul de RN.
+Soit, mais pourquoi n'avez-vous pas suivi la même démarche dans la question 4 du quizz de la leçon 8 ? Dans ce quizz, vous ne prenez pas en compte les montants investis à chaque période pour le calcul du RN, par contre vous prenez en compte ces montants pour le calcul des CF ? Cette partie n'est pas très claire de mon point de vue. Bien cordialement,

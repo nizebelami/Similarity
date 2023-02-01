@@ -1,0 +1,1 @@
+dans le explication de le résolution de le prémièr question , je avoir constater que le taux de croissance être prendre en compte seulement dans le calcule de le VAN de projet b mais pas de projet a. je er pas bien saisir pourquoi vous l' avoir ignorer dans le projet a et prendre en compte dans le projet b. 

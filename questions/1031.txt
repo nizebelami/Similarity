@@ -1,0 +1,21 @@
+Bonjour, 
+
+J'ai bien pris note de vos explications pour la question 4. Néanmoins, j'ai deux questions : 
+
+- Pour le calcul du prix de l'actif financier "Balanced", pourriez-vous expliquer comment résoudre de manière écrite l'équation afin de trouver 1/3 pour X et 2/3 pour Y  : 
+
+500*X + 600*Y = 567
+
+500*X + 400*Y = 433
+
+- Enfin, ma seconde question concerne la prime de risque calculée dans la réponse de l'exercice. Pour ma part, j'ai effectué le même raisonnement que dans la vidéo sur la prime de risque à savoir :
+
+Je calcule la rentabilité espérée soit : (((567- 463)/463)*100)*0,5 + (((433-463)/463)*100)*0,5 = 11,23 – 3,24 = 7,99 %
+Prime de risque : 7,99% - 2,25% = 5,74%
+Cette méthode est-elle correcte et valable à chaque fois ? 
+
+Merci de votre réponse.
+
+Mathéo 
+
+Bien à vous

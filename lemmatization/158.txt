@@ -1,0 +1,1 @@
+Bonjour , je ne comprendre pas comment on passer de le valeur de titre en t4 à le valeur de titre en t0 . pouvoir vous me expliquer le raisonnement svp ? merci 

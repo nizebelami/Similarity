@@ -1,0 +1,7 @@
+Bonjour,
+
+Je ne discerne pas bien pourquoi pour cette question nous utilisons la formule de la VA soit FX(1-(1+r)^n/r alors que dans l'exemple de la vidéo avec l'exemple de la constitution d'épargne de 50000€ (Calcul de la durée de la rente), nous utilisons la formule FX((1+r)^n-1/r.
+
+Je ne comprends pas la différence entre la question 7 et l'exemple vù au cours. Pouvez-vous m'en dire  plus?
+
+Merci d'avance!

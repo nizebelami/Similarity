@@ -1,0 +1,18 @@
+Bonjour,
+
+Je ne sais pas si ce forum est encore actif mais au cas où ce serait le cas, voici ma question.
+
+Est-ce que mon raisonnement est correct : 
+Pour savoir à combien s'élève le capital -retraite nécessaire pour assurer une rente de 18 termes de 12 000€, je calcule cette rente. Année 0 = 67 ans. 
+J'obtiens comme VA 155 045,5328
+
+Je calcule ensuite la VA de cette somme en t=0 (30 ans), en divisant par (1+3,75%)^37
+
+Ensuite je calcule le CF en divisant le résultat par (1-(1,375^-37))/3,75%)
+
+Est ce que ce raisonnement est correct ? Pourquoi est-ce que je n'obtiens pas le bon résultat ?
+
+Merci à vous
+
+Bien à vous,
+Virginie Paret

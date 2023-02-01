@@ -1,0 +1,10 @@
+Bonjour , 
+
+ pour comprendre où l' on avoir pouvoir faire un erreur , être -ce possible de avoir le détail de calcul suivant s' il vous plaire ? 
+ Espérance(R_CIG)=2.00 pourcent 
+ ecart - type(R_CIG)=3.61 pourcent 
+ et surtout de le Covariance(R_CIG , r_bcg)=0.000875 . 
+
+ grand merci de avance , 
+
+ Nicolas 

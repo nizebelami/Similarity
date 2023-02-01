@@ -1,0 +1,3 @@
+pouvoir vous me donner le différence entre le règle de décision classique et le règle de décision inverser ? quand falloir il appliquer le règle de décision inverser ? je pose ce question car dans le plupart de cas de exercice , il être souvent dire que en se baser sur le tri , il être impossible de appliquer ni le règle de décision classique ni le règle de décision inverser . 
+
+ merci 

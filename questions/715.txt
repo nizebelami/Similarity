@@ -1,0 +1,8 @@
+Bonjour, 
+
+Pour la question 9, je ne comprend pas bien le raisonnement pour vérifier le risque du portefeuille (18%*1,6667), pouvez-vous expliciter le raisonnement ? 
+
+Merci d'avance. 
+
+Bien à vous, 
+Arnaud

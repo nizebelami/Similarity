@@ -1,0 +1,6 @@
+Bonjour,
+
+Dans la solution, on indique que le TRI du projet 2 est de 5% mais j'obtiens 9% ([2180-2000]/2000). Avec cette valeur, le projet 2 aurait donc une VAN positive (COC = 6%) et ce serait alors les projets 1,2 et 4 qu'il faudrait choisir... La solution contient-elle une erreur ou ai-je loupé quelque chose?
+
+D'avance merci,
+Michaël

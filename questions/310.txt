@@ -1,0 +1,3 @@
+Bonjour, 
+Dans la vidéo sur le résultat net (11:36) je ne comprends pas pourquoi l'on calcule la perte de chiffre d'affaires liée à l'effet de cannibalisation sur base du CA du nouveau produit. Si l'effet de cannibalisation se fait au détriment du produit classique, pourquoi ne pas calculer les 5% sur base du CA "classique" et diminuer le CA "nouveau produit" avec cette variation ? merci. 
+Timothée

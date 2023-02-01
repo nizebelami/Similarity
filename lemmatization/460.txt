@@ -1,0 +1,17 @@
+je avoir bien voir le correctif pour le question . pourquoi on pouvoir pas procéder comme suivre : 
+
+ taux mensuel : 5.7 sur 12 = 0,475 pourcent 
+
+ on regarde le VF de 800 à le fin de le emprunt de 15 mois avec un taux mensuel de 0.475 pourcent 
+
+ 800 x ( 1 plus 0.475 pourcent ) ^15 = 858.93 
+
+ Il y avoir 25 euro de frais donc le montant mettre à disposition être de 775 
+
+ taeg = 858.93 / 775 - 1 = 0.108 = 10.8 pourcent 
+
+ il y avoir sans doute un erreur dans mon raisonnement parce que on n' arrive pas au même résultat , 
+
+ merci pour votre aide , 
+
+ Guillaume 

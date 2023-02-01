@@ -1,0 +1,4 @@
+Bonjour, 
+
+Je ne comprends pas pourquoi dans l'exemple de Monsolini les frais de R&D de 50 000 euros dépensés en t=0 (considérés comme irrécupérables que le projet soit entrepris ou non) sont comptabilisés dans le calcul du résultat net à endettement nul ainsi que dans le calcul du CF alors que dans la première question du quizz formatif relative au projet d'un commerçant en déco et design, il ne faut pas comptabiliser en t=0 les 20 000 euros investis préalablement a l'analyse de faisabilité du projet. 
+D'avance merci pour votre retour.

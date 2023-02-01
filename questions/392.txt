@@ -1,0 +1,1 @@
+Je ne comprend pas le calcul de la VAN totale qui reste identique dans le cas où il y a un emprunt. Quelqu'un peut il me détailler ce que représente les 2 gros termes ?

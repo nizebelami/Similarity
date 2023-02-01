@@ -1,0 +1,3 @@
+Bonjour,
+Pourriez-vous expliquer brièvement la façon d'utiliser excel pour tracer le graphique de la TRI?
+L'équation 0=10000000+2000000-((1-(1+tri)^-20))/tri donne 2 solutions, peut-on s'en contenter?

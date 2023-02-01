@@ -1,0 +1,11 @@
+Bonjour Madame, 
+
+Je ne comprends pas le long calcul de la résolution. Puis-je avoir un détail concernant le développement du long calcul. 
+
+Aussi, je ne comprends pas pourquoi nous avons un exposant 0.5 pour le calcul de la volatilité (Variance exposant 0.5)
+
+Merci beaucoup, 
+
+Bien à vous 
+
+Mylène

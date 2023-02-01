@@ -1,0 +1,2 @@
+Bonjour,
+Je ne comprends pas le calcul du taux de croissance réalisé dans cet exercice. En effet, d'après la correction l'on prend 14% pour le calcul initial alors que l'investissement ne peut se faire sans avoir diminuer le dividende, Pourquoi ne pas avoir utilisé 12% qui est la demande des actionnaires?

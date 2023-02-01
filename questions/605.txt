@@ -1,0 +1,15 @@
+Bonjour,
+
+je me permets de vous contacter au sujet de la question 1 du quiz de la leçon 14.
+J'ai bien réussi les 3 premières étapes.
+en revanche, je ne comprends pas comment calculer le CF de l'année 6: pourquoi doit-on diviser le CF actualisé par (10.36%-5%)?
+
+enfin, même avec ce CF de l'année 6, je n'aboutis pas au même résultat de la VAN (la somme des 5 CF calculés au point 3 me donnant -1399.66). (j'ai bien actualisé chaque CF avec le COC calculé au point 2).
+
+Pourriez-vous m'expliquer votre raisonnement?
+
+Je vous en remercie par avance.
+
+Cordialement,
+
+Caroline

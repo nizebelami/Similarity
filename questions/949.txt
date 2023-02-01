@@ -1,0 +1,7 @@
+Bonjour,
+
+Concernant la Q3 du quizz, pour le calcul de la VAN, vous indiquez qu'il faut additionner l'investissement et le CF pour ensuite diviser le total par 1,15%. Or, sauf erreur de ma part, nous sommes en t=0 quand on réalise l'investissement avant de l'exploitation en t=1; donc comment sommer des flux qui n'ont pas la même date pour cela que j'ai actualiser uniquement le CF1.
+
+Ensuite, pour le calcul de la VAN, ma compréhension était que  l'investissement étant de 3M en t=0, et l'amortissement de 2M en t=1, on a donc un amortissement supplémentaire à faire en t=3 de 1M ; car dans le cours, on indique que pour le calcul de la VAN du projet, on doit toujours considérer toutes les années du projet, donc j'ai induis qu'il fallait également prendre en compte une troisième année pr tenir compte de la dernière part de l'amortissement. 
+
+Merci d'avance pour les éclaircissements.

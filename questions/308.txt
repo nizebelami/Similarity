@@ -1,0 +1,3 @@
+Bonjour,
+Il faut retraiter les amortissements pour calculer les cash flow, mais qu'en est-il des provisions, qui sont également des charges sans sortie de ressources ?
+Merci

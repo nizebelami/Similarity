@@ -1,0 +1,4 @@
+Bonjour, 
+comment comprendre le taux d'actualisation d'un actif ? 
+Dans le cours, il est dit : lorsqu'un actif est risqué, le taux d'actualisation qu'il faut utiliser pour calculer sa VA est égale au rf + Prime sans risque. 
+Dès lors, peut-on dire que le taux d'actualisation correspond à la rentabilité espérée? Merci d'avance.

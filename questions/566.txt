@@ -1,0 +1,1 @@
+Je souhaite obtenir la valeur du TEG en utilisant la fonction d'excel "Valeur cible"  mais j'éprouve quelques difficultés.  Pouvez-vous m'aider ?

@@ -1,0 +1,4 @@
+Bonjour,
+Je suis parvenu à trouver le taux d'intérêt sur 3 ans par rapport à la somme de 150 000, mais j'ai dû y aller par deux fois car je ne parvenais pas à trouver la bonne formule pour avoir la bonne réponse.
+Pouvez vous m'éclairer sur la bonne formule pour calculer le taux d'intérêt sachant la VF et la VA?
+Cordialement.

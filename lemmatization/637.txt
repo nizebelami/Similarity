@@ -1,0 +1,4 @@
+Bonjour , 
+ je ne comprendre pas comment être obtenir le remboursement par annuité constant , ainsi que par amortissement constant . 
+ je avoir travailler dans excel et je avoir exactement le même raisonnement , mais pas le même réponse . pour le 2 , je avoir un résultat de 41 euro de trop et je ne voir pas de où provenir mon erreur . 
+ merci 

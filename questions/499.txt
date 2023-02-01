@@ -1,0 +1,7 @@
+Bonjour, 
+En relisant le corrigé de la question 4 qui porte sur l'accroissement du chiffre d'affaires annuel, j'ai l'impression qu'il y a une erreur dans le calcul du CF des années 2, 3 et 4. 
+En effet, pour l'année 2: RN = 67220.1833 + Amortissement= 16666.67 + Variation BFR = 1050. Au total, cela devrait faire 84936.85 et non 82836.85. 
+La VAN pour moi est donc différente de la réponse au quiz. 
+Pourriez-vous confirmer? 
+
+Merci d'avance

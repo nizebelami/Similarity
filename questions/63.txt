@@ -1,0 +1,2 @@
+Bonjour. Je n'ai eu aucun souci pour la question 8 mais je cale sur la 9. La première opération c'est le calcul de la VA d'une rente croissante de 18 termes où g = 2%. la VA trouvée c'est ma VF du calcul de 30 à 67 ans. Donc on va rechercher le CF d'une rentre constante de 37 termes où r= 3,75%; Merci de m'indiquer où mon raisonnement n'est plus correct. 
+Melissa

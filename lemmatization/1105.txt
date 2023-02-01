@@ -1,0 +1,19 @@
+Bonjour , 
+
+ lors de le question 3 , je ne comprendre pas pourquoi nous " valoriser " le valeur de t5 en t4 ... 
+
+ en t4 sur mon ligne de temps je avoir le dividende qui être de 2 et le bpa de 21.07 . 
+ en t5 je avoir le bpa qui être de 22.13 et le dividende de 13.28 ( 60 pourcent de 22.13 ) . 
+
+ pourquoi nous retrouver en t4 le calcul de 13.28/12%-5 pourcent alors que 13.28 être un valeur de t5 ? 
+
+ je ne comprendre pas pourquoi de coup le valeur 189.67 se retrouver en t4 ... 
+ pourquoi à le fin nous faire ... +2/(1 plus 12%)^4   plus   189.27/(1 plus 12%)^**4 * * 
+
+ je avoir mettre un exposant 5 .......... 
+
+ je espere avoir ete le plus clair possible ... ce n' être pas évident de se exprimer par ecrit pour le numérique . 
+
+ merci beaucoup 
+
+ bien à vous et joyeux paque à tout ! ! ! 

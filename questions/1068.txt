@@ -1,0 +1,3 @@
+Bonjour,
+
+Est-il toujours nécessaire de faire une représentation graphique pour mettre en évidence les problèmes liés au TRI ou y a t'il possibilité de les prévoir sans passer par le graphique (ex : 2 valeurs de TRI possibles) ? Cordialement Louis

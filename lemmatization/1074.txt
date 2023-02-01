@@ -1,0 +1,14 @@
+Bonjour 
+
+ je avoir deux préoccupation . 
+
+ le créance client 
+ le créance client être un dette que un client devoir et qui aller probablement être payer . or dans le calcul de CF , on le extrait de résultat net . en cas de paiement , comment le flux aller être retraiter ? 
+
+ le variation de bfr 
+ dans le pratique , en cas de variation négatif de BFR , cela vouloir dire que ce être de cash qui reste dans le caisse . Idem pour un créance client . 
+ quand le variation de bfr être négatif , on ajoute le montant au résultat net . est ce le cas ? 
+
+ de avance merci . 
+
+ zagré 

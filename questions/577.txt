@@ -1,0 +1,12 @@
+Bonjour,
+
+Merci pour ce cours. Excusez-moi de poster ma question dans la discussion générale : je ne sais pour quelle raison le fil de discussion ne s'affiche pas dans la page dédiée aux questions sur le quizz du chapitre 2. Ma question concerne le troisième exercice, dont je rappelle ici l'énoncé :
+
+> Pour meubler votre premier appartement, vous avez emprunté de l'argent à vos parents. Selon les termes convenus à l'époque, vous devez encore leur rembourser 1000€ à la fin de cette année et 1500€ à la fin des deux années suivantes. Depuis lors, votre situation professionnelle s'est améliorée et vous vous interrogez sur l'opportunité de rembourser vos parents anticipativement. 
+Sachant que votre compte d'épargne rapporte du 2% par an, quel est le montant unique et équilibré par lequel vous pourriez rembourser votre dette (en euros, arrondis à 2 décimales) ?
+
+Je ne comprends pas pourquoi la réponse proposée (3835,63€) est exacte : il s'agit bien de la valeur actuelle des 4000€ pour le protagoniste, mais peut-être que les parents n'ont pas un compte d'épargne à 2%, mais à, par exemple, 1% (ce n'est pas dit dans l'énoncé). Si leur épargne est à 1% par exemple, les 3835,63€ maintenant ne leur permettront pas de retrouver leurs 4000€ au bout des trois ans. 
+Est-ce que je fais erreur ?
+
+Bonne journée
+Léo Z.

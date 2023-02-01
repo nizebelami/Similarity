@@ -1,0 +1,5 @@
+j'ai du mal à comprendre le calcul du risque.
+
+sachant que le risque du marché est de 11%, et le risque d'emprunt nul, j'aurais calculé le risque global en faisant 11%*33333/20000 = 18%
+
+comment arrive-t-on à 30 % ?

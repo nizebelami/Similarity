@@ -1,0 +1,6 @@
+Bonjour , 
+
+ je ne comprendre pas comment vous calculer le covariance ? je avoir faire 8,91%*3,61 pourcent = 0.00321651 ( et pas 0.000875 ) 
+ ensuite , je ne comprendre pas pourquoi vous avoir utiliser le écart type dans le formule de σ ^2 ( rp ) . moi je penser que σ ^2(rbcg ) = le variance BCG = 0,00793 et pas le écart type parce que je voir le écart type juste comme un σ et pas au carré comme dans le formule . 
+
+ merci et bien à vous , Justine 

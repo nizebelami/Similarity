@@ -1,0 +1,16 @@
+Bonjour,
+
+J'ai des doutes quant à la façon de procéder. Selon moi il faudrait:
+
+- Calculer le taux mensuel équivalent au TAE de 5,75%
+
+- Puis: Calculer le CF correspondant à l'emprunt initial
+
+- Puis: Calculer le SRD après 10 ans (120 mois)
+
+- Puis: Multiplier ce SRD par 3%
+
+Est-ce correct?
+
+Merci,
+Tommy

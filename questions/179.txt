@@ -1,0 +1,11 @@
+Bonjour,
+
+Je ne comprends pas les résultats proposés pour la question 4 : calculer la Prime de risque de l'actif balanced. Je ne trouve mon résultat dans aucune des propositions.
+
+Le taux d'intérêt sans risque n'est pas dit? Est-ce normal? 
+
+Pour information je commence par définir le prix de l'actif Balanced à T=0 en contexte AOA. Ensuite je détermine la rentabilité en conjoncture + et -, et ainsi de suite jusqu'à calculer la Prime de risque.
+
+Merci de bien vouloir me communiquer un élément pour m'aider.
+
+Cordialement

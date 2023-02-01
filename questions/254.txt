@@ -1,0 +1,14 @@
+Bonjour,
+
+Si j'ai bien compris, la formule à appliquer pour le calcul de la durée d'une rente est la suivante:
+
+N x ln (1+r) = ln [ (1+r) x  montant VF/montant de la rente] et donc:
+N= ln [ (1+r) x  montant VF/montant de la rente] / ln (1+r) 
+
+Correct? Car en appliquant cette formule je n'arrive pas à trouver le résultat n=35 comme illustré dans la vidéo.
+
+Merci pour votre aide.
+
+Bonne journée,
+
+Tommy

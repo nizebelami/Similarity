@@ -1,0 +1,2 @@
+bonjour , dans l'exercice 5 je trouve pas la meme valeur pour le taux réel , pouvez vous m'expliquer comment avez vous fait pour trouver cette valeur de taux : 1.97%
+moi j'ai fait ce calcul :  2000/(1+r)+2000/(1+r)^2 +15000/(1+r)^3 = 53000 et merci

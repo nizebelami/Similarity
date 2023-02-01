@@ -1,0 +1,7 @@
+Bonjour , 
+
+ quand je rentre le dernier équation à résoudre avec le logarithme dans Excel pour trouver n : LN ( 95844.88/850 * 0.267%-1 ) / LN ( 1 plus 0.267 pourcent ) ) , Excel me indique que il y avoir un erreur de type # nombre mais je ne parvenir pas à trouver lequel ... 
+
+ mon encodage être il mauvais ? pouvoir vous me éclairer s' il vous pler ? 
+
+ je vous remercier de avance pour votre réponse . 

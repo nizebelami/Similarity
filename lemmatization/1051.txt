@@ -1,0 +1,3 @@
+Bonjour , 
+ pouvez vous me expliquer pourquoi on pouvoir utiliser un taux mensuel proportionnel ( 0.475 pourcent ) pour calculer un valeur actuel ( mensualité ) sur 15 mois alors que il me sembler que pour ce opération , il falloir utiliser un taux effectif ? 
+ je vous remercier 

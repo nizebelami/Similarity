@@ -1,0 +1,9 @@
+Bonjour,
+
+Ce qui parait intéressant dans la formule XIRR() (ou TRI.PAIEMENTS() ), c'est que l'on semble pouvoir ainsi lever la contrainte de l'espacement annuel des flux (liée à la fonction IRR()  ), condition rarement remplie avec des projets d'actifs réels.
+
+Quel serait le calcul détaillé (éventuellement formule cible pour solver) qui permet d'expliciter comment la fonction XIRR() fonctionne sur ces flux irréguliers ?
+
+Merci,
+
+BV

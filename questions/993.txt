@@ -1,0 +1,7 @@
+Bonjour Marie-Ange,
+
+Je ne comprends pas pourquoi dans l'exercice 3 nous valorisons le titre en t=4 alors que nous utilisons les informations concernant le modèle de croissance constante de t=5 ? Pourquoi ne calculons nous pas la valorisation des titres en t=5 (avec le modèle de Shapiro ). je ne comprends donc pas pourquoi La valeur du titre en t=0 devrait s'établir à 123.23=2/1.12^3+2/1.12^4+189.67/1.12^4 et non en t=5 à 110.34=2/1.12^3+2/1.12^4+189.67/1.12^5.
+
+merci d'avance pour vos explications
+
+Bien à vous

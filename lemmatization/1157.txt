@@ -1,0 +1,11 @@
+Bonjour , 
+
+  1 - quiz : question 1 
+
+ Pourriez vous me préciser le raison pour lequel le prix de le action au t=1 se calcul comme suivre : * * * ( 2,8 plus 50)/1,10 ^ 1 * * * et non ( * * * 2,8 plus 50)/1,10 ^ 2 * * * ? 
+ puis je en conclure que ce être par ce que l' on parle de vf dans 1 an de le action à lequel lui aller être vendre ? 
+
+ 2 - quiz : question 2 
+ = > personnellement , pour le prix de le action avec le nouveau élément , je obtenir   93,63euro pour le calcul suivant " = 2,5/(12%-9,33 pourcent ) " . être il possible que il y avoir un erreur dans le quiz ? 
+ = > pourquoi falloir il utiliser le anc . taux de rendemement exigé ( 14 pourcent ) et non le nouveau ( 12 pourcent ) dans le calcul de taux de croissance futur ? 
+ taux dont le calcul être le suivant : =( 1 - 33,33%)****14%***=9,33 pourcent 

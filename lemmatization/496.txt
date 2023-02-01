@@ -1,0 +1,4 @@
+Bonjour , 
+ je avoir bien bien compris le question et le logique de calcul de le VAN mais je avoir un doute de comment présenter le tableau de calcul : 
+ Su le tableau de résultat , si je avoir bien compris , il y avoir lieu de calcul de le plus value implicitement , en comptabiliser le prix de cession et le VNA ; donc le résultat net l' intégrer déjà ( le plus value imposer ) . comment pouvoir on le faire ressortir pour le faire apparaître sur le tableau de calcul de c.f ? 
+ merci 

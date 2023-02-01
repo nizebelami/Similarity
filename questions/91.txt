@@ -1,0 +1,17 @@
+Bonjour,
+
+Comme souvent, je n'aborde pas le problème comme dans la réponse donnée, mais cette fois-ci je n'arrive pas au même résultat.
+
+Mon raisonnement doit donc être erroné mais je ne perçois pas où.
+
+1) calcul du TAE pour TAP = 5,70% et k = 12 (intérêts mensualisés) = 5,85%
+
+2) je ramène ce TAE à un équivalent sur 15 mois qui est la durée du prêt : pour r=5,85% et n=1,25 (15 mois = 1,25 an) j'obtiens 7,37%
+
+3) afin d'avoir la VF de mon crédit j'applique alors ces 7,37% aux 800 € = 858,92 €
+
+4) Pour finalement obtenir TAEG = 858,92 / 775 - 1 = **10,83 %**
+
+Je ne tombe pas loin de la bonne réponse, mais j'ai à la fois du mal à comprendre ce qui est faussé dans mon raisonnement, et le raisonnement pour obtenir la bonne réponse (j'avoue avoir peur de me décourager, dommage à ce stade mais il me reste encore les emprunts à rattraper pour seulement passer le quiz avant demain soir...à ce rythme j'ai peur de ne pas avoir le temps)
+
+Merci d'avance pour vos lumières !

@@ -1,0 +1,5 @@
+Bonjour, 
+
+Je ne comprends pas pourquoi il faut tenir compte de l'augmentation du BFR en t=1 et en t=5 dans le calcul des CF  alors que le BFR est constant pour les t= à 1,2,3,4 et 5? 
+Merci, 
+Julie

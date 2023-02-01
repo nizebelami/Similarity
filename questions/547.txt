@@ -1,0 +1,8 @@
+Slt.
+
+Désolé de poster ce message ici.
+
+Je n'arrive pas à comprendre la question 4 du dernier quizz formatif (Taux zéro coupon) ni à trouver la réponse (-10.05%).
+Pour une obligation zéro-coupon, il n'y a pas de versement de coupon donc pas d'intérêt, n'est-ce pas? Pourquoi parle-t-on maintenant de taux zéro coupon? 
+
+Merci

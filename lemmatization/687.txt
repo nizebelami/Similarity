@@ -1,0 +1,6 @@
+Bonjour , 
+
+ dans le vidéo " prix et rentabilité " minute 6:52 , pourquoi on avoir écrire p(t=0 ) = 100.03 eur alors que dans le énoncé le valeur nominal de le obligation romania être égal à 1000 eur de où p(t=0 ) = 1000.3 eur ? 
+ PS : je avoir faire le calcul et je avoir trouver le même tra que celui trouver par Isabelle . 
+
+ merci de avance . 

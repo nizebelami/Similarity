@@ -1,0 +1,12 @@
+Bonjour 
+
+ je avoir un question je ne comprendre pas pourquoi mon raisonnement être faux : 
+
+ - je calcule le tae ( 1 plus 0.057/12)^12)-1 = 5.85 pourcent 
+ - je calcule le taux à le fin de 15 mois 800*(1 plus 0.0585)^(15/12 ) = 858,92 
+ - je calcule mon taeg ( 858.92/775)-1 = 10.82 pourcent 
+
+ je ne comprendre pas où être le biais . 
+ être il possible de me aider ? 
+
+ Cordialement 

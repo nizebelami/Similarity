@@ -1,0 +1,6 @@
+Bonjour,
+Pourriez vous m'expliquer comment vous construisez le graphique en nuage de points a savoir :
+Comment obtenir les rentabilités en excédent du taux sans risque ?
+Comment obtenir la valeur des points de la droite ?
+Cordialement
+Anne Bigot

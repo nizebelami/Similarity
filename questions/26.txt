@@ -1,0 +1,3 @@
+Je suis un peu perdu sur le prime de risque de l'actif A et le calcul à 62%
+J'ai essayé de refaire le calcuel avec 0.5% de -100 et 0.5% de 224, mais je ne trouve pas 62%
+comment faire?

@@ -1,0 +1,8 @@
+Boonjour à toutes et à tous,
+Quelqu'un sait-il comment calculer le rendement du marché à partir des informations fournies ? 
+J'ai déjà calculé:
+- la rentabilité espérée de A et B
+- la valeur de C et sa rentabilité espérée
+Si je me rapporte au 1 La loi du prix unique > Quiz formatif > Question 5, on calculait le taux sans risque depuis une obligation sans risque.
+Ici, elle n'est pas là donc comment faire?
+Merci de votre aide !

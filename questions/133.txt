@@ -1,0 +1,4 @@
+Bonjour,
+Pour les questions 2 et 3 du chapitre 6 vous dites dans la solution : " Le COC est < au TRI mais..."
+Ne faut-il pas pourtant dans ces deux cas inverser le critère de sélection et avoir plutôt TRI < COC ou bien j'ai mal compris?
+Merci d'avance pour votre réponse.

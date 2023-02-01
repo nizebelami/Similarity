@@ -1,0 +1,5 @@
+Bonjour , 
+ pour calculer le valeur de un somme dans un an ( en y appliquer le taux de intérêt ) le dame dans le vidéo utilise systématique le opération ( 1 plus 3 pourcent ) . pourquoi pas juste " 3 pourcent " ? pourquoi le 1000€+3 pourcent se transforme en 1000(1 - 3 pourcent ) ? 
+ pour calculer le valeur actuel de 1000 euro " dans un an " , le opération être 1000/(1 - 3 pourcent ) . pourquoi pas 1000 - 3 pourcent ? et pourquoi le résultat être 971 euro et pas 970 ( 1000 - 30 ) ? 
+ je être conscient que ce question être sans doute très basique , mais autant commencer sur de bon base , si je beugue déjà sur cela . 
+ merci de avance ! 

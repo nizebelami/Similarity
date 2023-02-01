@@ -1,0 +1,3 @@
+Bonjour
+
+Comment détermine t-on la part des intérêts composés sur la valeur future d'un montant placé sur n période?

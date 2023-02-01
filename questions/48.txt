@@ -1,0 +1,7 @@
+Pour le second calcul (celui qui sert à déterminer le taux trimestriel, j'ai appliqué votre calcul d'intervalle de capitalisation (slide où y'a "annuel, semestriel, mensuel, quotidien et seconde"). 
+
+Donc après avoir déterminé le taux effectif annuel à 6,17% d'un TAP à 6% sur une base mensuelle, j'ai fais le calcul suivant: 
+
+(1+6,17%/12)^12-1 =6,31%. 
+Pourquoi cela n'est-il pas bon ? 
+Merci de votre aide.

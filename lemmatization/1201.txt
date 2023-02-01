@@ -1,0 +1,3 @@
+Bonjour , je vous contacte via le forum de cours car je bloque sur le logique plutôt " mathématique " de le réponse . dans le question l' on demande si l' on rajoute 1an par rapport à le question précédent qui porter sur le rente perpétuel . ( le réponse être de * * * * * * * ) . intuitivement , si l' on rajoute 1an nous avoir , 1200000€+12000€= 1212000€. mais en utiliser le formule et en considérer que n tendre toujours vers le infini , alors nous réutiliser le même formule : CF/(r - gramme ) et donc dans ce cas nous être retomber sur 1200000€. dès lors , je me demande si ce deux réponse avoir avoir de sens ? 
+
+ merci de avance . 

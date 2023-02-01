@@ -1,0 +1,7 @@
+Bonjour, 
+
+Je ne comprends pas, pourquoi dans les calculs des VA, le coût des machines est intégré dans le calcul avec un signe positif, et pas un avec un signé négatif (puisqu'il s'agit d'un investissement au t=0) ? 
+
+Merci et bonne journée.
+
+Louison

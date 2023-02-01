@@ -1,0 +1,4 @@
+Bonjour,
+Je n'ai pas compris pourquoi on fait les calculs (CF, VAN, etc.) sur 5 ans, et non 4, alors que l'énoncé parle d'un CA sur 4 ans.
+Pourriez-vous m'expliquer?
+Merci d'avance

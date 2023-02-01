@@ -1,0 +1,5 @@
+bonjour,
+Avant de poser ma question j'aimerais bien de vous remercier pour ce MOOC et je suis très content de le suivre.
+
+ma question est de savoir dans la réalité comment déterminer le COC d'un projet afin de l'évalue (pour calculer sa VAN).
+merci d'avance.

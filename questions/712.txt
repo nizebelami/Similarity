@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans la réponse détaillée de la question 1, cette équation **830*(1+5%)/(10,36%-5%)=16244** est fausse, en effet: **830*(1+5%)/(10,36%-5%)=16259**
+
+Cordialement.

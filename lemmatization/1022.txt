@@ -1,0 +1,4 @@
+Bonjour , 
+ je vouloir comprendre comment être nous parvenir à obtenir 18,45 pourcent comme taux de intérêt . 
+ en effet , si nous n' avoir pas le possibilité de utiliser un fichier Excel , quel formule nous permettre de trouver ce taux ? le graphique être assez approximatif . 
+ merci de avance pour votre réponse . 

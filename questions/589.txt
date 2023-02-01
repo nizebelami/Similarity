@@ -1,0 +1,19 @@
+Bonjour, 
+J ai de nouveau des interrogations.
+
+1/ je n arrive pas a comprendre la formule que vous utiliser dans la solution.
+
+2/ j ai calculer les VA, je les ai cumule pour avoir la VAN
+
+3/ apres j ai essaye de calculer le(s) IRR avec goal seek comme dans les autres exercices.....mais je n'y arrive pas, du moins je n'arrive pas aux memes resultats que vous.
+
+Avez vous une expliquation de la solution a la question 5 plus detaillee, pour que je puisse 
+comparer si mes VA sont correcte, puis si ma VAN est juste et enfin comment trouver ces IRR. 
+
+les explications detaillee sont importantes pour moi car quand je ne trouve pas la bonne solution , l explication me permet de veriifier si mes calcules sont justes ou faux, si la formule utilisee est juste ou fausse etc.....j apprends et comprends petit a petit quelle reflexion adopter pour aboutir au resultat. 
+
+J avoue que "les finances" est un sujet assez nebuleux, c est un defis pour moi, et ce n est pas sans mal que je suis vos cours. et meme si je fais faux a vos questions (ce qui arrive souvent et heureusement qu l on a droit a deux essais), mais que je comprends comment arriver au resultat (grace a vos explications dans la solution) et bien je suis super contente.
+
+dans l attente de votre solution plus detaillee
+
+carole

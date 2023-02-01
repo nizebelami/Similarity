@@ -1,0 +1,6 @@
+Bonjour , 
+
+ je ne comprendre pas le q5 . je avoir reprendre le tableur donner précédemment et remplacer par le valeur de le exercice mais je ne trouve pas le mem chose . 
+ en reprendre le formule donner : van(r)=-10 plus 1 sur r*(1-(1+r)^(-20))-0.1 / r   je ne comprendre pas non plus le calcul de le VAN ici . pouvoir vous m’ éclairer ? 
+
+ merci 

@@ -1,0 +1,1 @@
+Bonjour, pour le calcul j'otient comme résultat 137070 et non pas 137083.82

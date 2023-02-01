@@ -1,0 +1,1 @@
+Pour résoudre la question 5 du Quiz, j'ai du essayer toutes les options pour pouvoir déduire la vraie réponse. Y -a-t-il un moyen plus rapide de résoudre une equation du type 150000=190000/(1+x)^3? pour avoir le taux d'intérêt sans avoir a essayer toutes les options?

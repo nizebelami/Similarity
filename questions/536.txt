@@ -1,0 +1,27 @@
+Bonjour,
+
+Tout d'abord, merci pour ce MOOC et vos vidéos très intéressantes et enrichissantes.
+
+J'ai plusieurs questions sur cette section consacrée aux emprunts:
+
+1) Vous avez introduit 4 types d'emprunts en vous appuyant sur un exemple directeur. Je constate que si je totalise tous les CF, j'obtiens:
+
+a) 25526 € pour un remboursement total in fine
+
+b) 25000 € pour un remboursement in fine
+
+c) 23200 € pour un remboursement par amortissements constants
+
+d) 23095 € pour un remboursement par annuités constantes
+
+=> J'ai cru comprendre qu'il ne fallait pas ajouter des sommes qui surviennent en des temps différents. Cependant, dans un bilan/sur mon relevé de compte en banque, c'est bien ces sommes qui vont apparaître. **Quel est donc l'emprunt le plus intéressant? Comment comparer ces différents modes de remboursement?**
+
+2) Vous abordez à plusieurs reprises l'idée de refinancement (vidéo "exemple un peu plus compliqué", questions 2, 3 et 4). A chaque fois, cependant, la durée de refinancement court sur la durée restante de l'emprunt initial (sauf question 2 où il faut justement déterminer la durée du refinancement). 
+
+Dans la vidéo "exemple un peu plus compliqué": la durée totale du prêt initial est de 20 ans. Au bout de 5 ans, se pose la question de refinancement qui va porter sur 15 ans. Ce qui nous permet de comparer le CF_refinancement et le CF_prêt_initial. **Comment savoir si ce refinancement "vaut le coût" si la durée de refinancement n'est pas de 15 ans mais 10 ans par exemple et si le CF_refinancement est différent de CF_prêt_initial (cf. question 2)?**
+
+3) Dans la section sur les taux, vous indiquez que le TAEG est utile pour comparer différentes opérations de financement. **Comment calculer ce TAEG pour la question 5?**
+
+D'avance, merci pour votre aide!
+
+Shifumy.

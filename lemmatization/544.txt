@@ -1,0 +1,8 @@
+Bonjour , 
+
+ Pourriez vous me expliquer le manière de déterminer le bêta ? 
+ je comprendre plus /- le numérateur mais pourquoi le volatilité reprendre au dénominateur n' être pas au carré ? 
+
+ ce leçon et le suivant ne être pas évident de tout , de autant que il n' y avoir avoir que très peu de exemple dans le vidéo ... 
+
+ merci de avance 

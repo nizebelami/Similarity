@@ -1,0 +1,4 @@
+Bonjour, 
+Dans la variante de l'exemple du calcul de la rente sur 30 ans à un taux de 2.75%, pourquoi ne pas directement appliquer la formule de VF avec N = 31? C'est quand même plus rapide que de calculer VF de t = 34 a t= 64 qui engendre un nouveau VF auquel on rajoute un 3000 Eur. 
+
+Merci d'avance pour la réponse.

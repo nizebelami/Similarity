@@ -1,0 +1,7 @@
+Bonjour,
+Je pense avoir compris le principe pour calculer le fond risqué de l'Exercice 5.
+J'ai 2 questions:
+- question 1: comment fait on pour identifier les % de chaque flux pour en déduire celui du fond risqué? Comment faire pour déduire la solution: 100%Obligation, 25%actif A, - 25%actif B? J'ai cherché longtemps mais pas trouvé la solution
+- question 2: j'ai encore du mal à comprendre concrètement pourquoi cette moyenne pondérées de chacun doit donner le résultat de l'autre. Même si on parle d'AOA j'ai du mal à le comprendre concrètement. Qu'est ce que cela veut dire ?
+
+Merci par avance.

@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans la solution à la question 5 pour le calcul du replacement des coupons perçus vous donnez une formule raccourcie qui évite d'élever à la puissance les facteurs de capitalisation tous lpour chaque année. En effet au lieu  d'écrire 15.30%= 3+(3+1.01)^4+(3*1.01)^3+...+(3*1.01) vous donnez comme solution abrégée: 15.30%=3%*((1+1%)^5-1)/1%. Je sais que se sont des connaissances purement mathématiques mais cela me serait très utile de comprendre le cheminement entre les 2 formules.
+
+Merci par avance

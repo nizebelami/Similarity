@@ -1,0 +1,11 @@
+Bonjour , après avoir calculer le VAN de projet " repassage " , mon réponse n' être pas correct ( premier validation ) . pourtant , pour calculer le VAN de ce projet : 
+ - je avoir calculer le profit générer par le investissement par an à le base de 52 semaine 
+ - je avoir additionner le valeur sans actualisation ( le prix de mon investissement ) plus le flux futur actualisé à le date de t=0 
+
+ je avoir aussi essayer de transformer le tae en tpp mais je ne voir pas le raison pour quel je devoir travailler à le base de mois ... 
+ Can you giv me avoir hint please ? est mon raisonnement correct ou pas ? 
+
+ merci de avance pour votre indice .. bon weekend , 
+ post-scriptum bravo pour l’ énoncé :) 
+
+ Simona Brezanova 

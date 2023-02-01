@@ -1,0 +1,14 @@
+Bonjour
+
+J'ai deux préoccupations. 
+
+Les créances clients
+Les créances clients sont des dettes que des clients doivent et qui vont probablement être payées. Or dans les calculs des CF, on les extraits du résultat net. En cas de paiement, comment les flux vont être retraités?
+
+La variation du BFR
+Dans la pratique, en cas de variation négative du BFR, ça veut dire que c'est du cash qui reste dans les caisses. Idem pour des créances clients.
+Quand la variation du BFR est négative, on ajoute le montant au résultat net. Est ce le cas?
+
+D'avance merci.
+
+Zagré

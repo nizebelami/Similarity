@@ -1,0 +1,10 @@
+Bonjour,
+
+Dan l'expression ci-dessous, sommes-nous obligés de devoir faire une somme de ces 10 expressions à la calculette ou bien existe-t-il une formule pour le faire en une expression ?
+![math fi][1]
+Merci d'avance.
+
+Adil
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1585824687320721473954.png

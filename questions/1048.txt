@@ -1,0 +1,4 @@
+Bonjour, 
+Je n'arrive pas pas comprendre la différence entre le taux par période équivalent et le taux proportionnels. On a deux calculs pour calculer l'inéret par période? 
+rn = (1+r)^1/n et (1+TAP/K)^K -1 ?
+Je suis un peu perdue.

@@ -1,0 +1,2 @@
+Bonjour , j aimer savoir ou être le probleme dans mon raisonnement de calcul de tae . 
+ je avoir calculer le interêt chaque année ; ensuite je le avoir capitaliser à le année 4 en prendre en compte le taux de chaque année . je avoir sommer mon flux pour avoir le vf à le année 4 . de là j avoir dégager un taux de interet ( vf - va / va ) sur 4 et en appliquer le formule je avoir trouver son équivalent annuel . falloir il passer autrement ? 

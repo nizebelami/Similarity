@@ -1,0 +1,6 @@
+Bonjour,
+
+J'ai un soucis de compréhension de la résolution. Dans le cas d'une épargne, comme l'a été précisé dans une vidéo, on travaille avec la VF. Pour trouver l'annuité, on divise la VF par la VF unitaire. Dans l'exercice 8, le raisonnement était le même sauf que (mise à part l'étape supplémentaire où on trouvé la VA au moment de la retraite) pour trouver l'annuité, on a divise la VA en t=0 (quand on a 30 ans) par la VA unitaire. Alors qu'à la théorie il était dit que dans un cas d'épargne on travaillait avec la VF.  Peut-être ai-je mal compris la théorie ?
+
+Merci d'avance
+Bien à vous

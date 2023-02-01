@@ -1,0 +1,22 @@
+Bonjour , 
+
+ 1 . je me embrouille lors de calcul de cmpc lorsque un levier cible être imposer ( v_d / vc_cp ) . 
+ en reprendre le formule de calcul de cmpc en prendre compte de le endettement , soit : 
+
+  CMPC = r_D*V_D/(V_D+V_CP ) plus r_CP*V_CP/(V_CP+V_D )   -   v_d/(v_d+v_cp)*r_d*t_i 
+
+  je me demander : devoir je remplacer le valeur de V_D et de v_cp par leur valeur réel ( e : 1 milliard pour VD et 3 milliard pour v_cp ) , ou bien par le valeur de levier cibl ( e : si le levier valoir 2 , alors je remplacer V_D/(V_D+V_CP ) par 2/3 ) ? 
+
+  je vous remercier de avance de votre aide . 
+
+ 2 . autre question concerner le calcul de cmpc , dans le cas où le rentabilité de le actif ( r_actif ) n' être pas connaître , mais que le coût de capital propre ( r_cp ) être fournir . le formule suivant est-ell dès lors de application : 
+
+  CMPC = r_D*V_D/(V_D+V_CP ) plus r_CP*V_CP/(V_CP+V_D ) - V_D/(V_D+V_CP)*r_D*t_IS 
+
+  ou bien devoir on " modifier " le r_cp par : 
+
+  r_cp = r_actif plus ( r_actif - r_D)*Levier où r_actif être le r_cp donner ? 
+
+  je vous remercier de avance ! 
+
+ bien cordialement 

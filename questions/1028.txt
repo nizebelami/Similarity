@@ -1,0 +1,7 @@
+Bonjour, 
+
+Je ne comprends pas pourquoi nous divisons 50000/1000 lors de la résolution de l'exercice cherchant à trouver N. 
+
+Merci pour votre aide. 
+
+Mathilde Coton

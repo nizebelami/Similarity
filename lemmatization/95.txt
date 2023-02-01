@@ -1,0 +1,4 @@
+Bonjour , 
+
+ je commencer par calculer le taux mensuel équivalent au tae donner . je calcule ensuite le montant de le rente pour un année ( ce qui me donne f ) et je applique le formule de un rente perpétuel f / r. merci de me dire où mon raisonnement n' être pas correct . 
+ merci 

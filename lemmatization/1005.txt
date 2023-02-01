@@ -1,0 +1,6 @@
+Bonjour , 
+
+ je me interroger sur le notation de taux de change entre deux devise . si l' on cherche le valeur d'1EUR en usd et que cela valoir par exemple 1,5 usd , ne falloir il pas écrire par 1,5 usd sur eur à le place de 1,5 eur sur usd ? 
+ ( pour moi , 1,5 eur sur usd se lire 1,5 eur pour 1 usd ) 
+
+ merci pour votre réponse 

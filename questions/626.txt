@@ -1,0 +1,1 @@
+Dans cette vidéo on utilise la rente unitaire. Je ne vois pas d'oùt vient cette formule ((1+7%)^18-1)/7%. Et je ne comprends pas non plus pourquoi on l'utilise dans le calcul pour trouver les versements annuels ?

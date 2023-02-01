@@ -1,0 +1,5 @@
+Bonjour , 
+
+ comment résoudre le premier partie de le question 5 ? je avoir utiliser un formule dans Excel qui donne -50.000 plus le somme de va de flux futur . chaque flux être diviser par ( 1 plus r)^n . r être le cellule variable . 
+
+ le solveur ne me donne aucun solution . 

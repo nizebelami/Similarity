@@ -1,0 +1,6 @@
+Bonjour, 
+
+Pouvez-vous m'expliquer comment trouve t on dans le 2eme scenario "(Vd/(Vd+Vcp))=1/3" et pour l'autre 2/3 ?
+Au début je pensais qu'on divisait par deux comme le levier était de 1 et qu'on trouvait 0.5 et 0.5 mais là je ne comprends pas et on explique pas dans la vidéo..
+
+Merci d'avance

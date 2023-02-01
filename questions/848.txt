@@ -1,0 +1,5 @@
+Bonjour, 
+Pourriez-vous m'expliquer la différence entre : 
+a)  Vd (valeur de la dette) et,  rd (cout de la dette),
+b) Vcp (valeur capitaux propres) et rcp (coût capitaux propres) 
+Le taux d'endettement est égale à la valeur de dette ou au coût de la dette?

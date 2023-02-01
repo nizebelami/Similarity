@@ -1,0 +1,9 @@
+Bonjour,
+
+J'ai eu une petite incertitude sur la question 1.
+Dans l'énoncée, il est indiqué que l'investissement A génère des CF à l'infini mais rien n'est indiqué pour l'investissement B.
+Je n'étais certains donc si il fallait ou non considérer l'équation associée aux conditions infinies pour l'investissement B.
+
+Est ce que c'est sous entendu quelque part ?
+
+Merci.

@@ -1,0 +1,2 @@
+bonjour,
+je débute le cours et j'ai une question à propos du taux d'intérêt pour calculer des flux monétaires dans le temps : est-ce la même chose que l'inflation?

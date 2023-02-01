@@ -1,0 +1,12 @@
+Bonjour , 
+
+ pour rappel , voici le énoncé : " pour meubler votre premier appartement , vous avoir emprunter de le argent à votre parent . selon le terme convenir à le époque , vous devoir encore leur rembourser 1000 euro à le fin de ce année et 1500 euro à le fin de deux année suivant . depuis lors , votre situation professionnel se être améliorer et vous vous interroger sur le opportunité de rembourser votre parent anticipativement . 
+ savoir que votre compte de épargne rapporte de 2 pourcent par an , quel être le montant unique et équilibré par lequel vous pouvoir rembourser votre dette ( en euro , arrondi à 2 décimale ) ? " 
+
+ question : je estime que lorsque l' on parle de " rembourser encore son parent à le fin de ce année " , nous être toujours en t=0 et non en t=1 car le consigne indiquer que le paiement se effectuer en fin de année . 
+
+ de coup , tout mon calcul être fausser , y compris le remboursement de 1500€. 
+
+ Pouvez vous me aider à mieux démarrer ce exercice svp ? 
+ merci , 
+ Julie 

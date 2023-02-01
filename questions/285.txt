@@ -1,0 +1,7 @@
+Bonjour,
+
+Pourriez-vous indiquer la méthode pour faire passer comme il se doit les éléments à gauche et à droite afin d'isoler N (en plus d'étapes que ce qui n'est affiché et sans l'aide du solveur). 
+
+Calcul : 5000=(1000/0.06)*(1-1.06^-x)
+
+Merci.

@@ -1,0 +1,6 @@
+Bonjour , 
+
+ je rencontre le difficulté avec le résolution de équation pour définir le teg nécessaire pour le calcul de taeg . quelqu’ un pouvoir me expliquer comment résoudre le équation pour avoir le résultat 0.88 pourcent ? ( ->TEG mensuel égal au montant emprunté net de frais et le va de mensualité futur , donc : 775=55.38*((1-(1+teg)^-15)/teg ) . 
+ merci de avance , 
+
+ Simona 

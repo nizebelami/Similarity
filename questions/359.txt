@@ -1,0 +1,5 @@
+Bonjour, 
+
+En essayant de résoudre les exercices du test prépa au dernier test certificatif, je rencontre un problème lors de la résolution de l'exercice 4. J'ai essayé de comparer le TRA de l'obligation à l'origine avec les nouveaux taux en pondérant par le poids des obligations. J'ai aussi actualisé 100% par les taux maturité 2.4.6 pour obtenir le prix un an après pour comparer avec le prix actuel des obligations. Rien n'y fait... Pourriez-vous m'aiguiller vers la méthode de résolution adaptée?
+
+Bonne journée

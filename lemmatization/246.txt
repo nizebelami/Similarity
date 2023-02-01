@@ -1,0 +1,8 @@
+Bonjour , 
+
+ dans le video sur le calcul de le prime de risque , pour trouver le prix de troisième fonds , on avoir par habitude de faire le prix de le obligation sans risque - le prix de deuxième fonds et ensuite on calculer le rentabiliser selon le différent conjoncture . et pour finir , on calculer le prime de risque de marché . 
+ mais je ne comprendre pas pourquoi on avoir pas soustraire ici , mais on plutôt faire cela " si on regarde le flux générer par le 3èm actif , on pouvoir se apercevoir que il pouvoir être répliquer en investissant 1/3 dans le actif sans risque et 2/3 dans le fonds indice " . pourquoi ce 1/3 et 2/3 ? 
+
+ merci , 
+
+ bien à vous , 

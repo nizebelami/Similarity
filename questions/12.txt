@@ -1,0 +1,7 @@
+Bonjour,
+
+Dans l'explication de la réponse, lorsque l'on calcule la rentabilité de l'actif risqué on fait 180/(1+r)=157,89 et on isole r, on trouve ainsi 14%. On dit aussi dans la correction que r est le taux d'actualisation. Rentabilité de l'actif risqué et taux d'actualisation sont-ils synonymes?
+De plus, j'ai travaillé la seconde leçon sur la valeur du temps, et r est toujours considéré comme le taux d'intérêt, d'ailleurs le calcul 180/(1+r)=157,89 permet, selon moi, de trouver le taux d'intérêt pour lequel l'actualisation de 180 vaut 157,89. Donc, tout est confus dans ma tête ! D'où ma deuxième question: calculer la rentabilité de l'actif risqué renvient-il à calculer le taux d'intérêt ?
+
+Merci d'avance pour vos explications !!!
+Alice

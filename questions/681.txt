@@ -1,0 +1,1 @@
+Bonjour à la question 3, peut on considérer que si la deuxième machine a une durée de vie de 4ans, il est nécessaire d'en acheter une nouvelle à t5 ce qui donnera des couts de maintenance (à actualiser) à T6 et T7? Peut-on dès lors comparer les deux VAN après 7 ans pour les deux machines?

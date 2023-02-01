@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans ce chapitre 1, on parle abondamment du "taux d'intérêt". Dans le langage courant, le taux d'intérêt est un concept lié au remboursement des emprunts car il faut bien rétribuer le prêteur pour le service offert.
+
+Or, dans ce chapitre, le taux d'intérêt est aussi appliqué au concept de "1000 euros d'aujourd'hui correspondent à 1030 euros demain en présence d'un taux d'intérêt de 3 %". Faut-il dès lors considérer ce taux d'intérêt comme le taux de l'inflation (le pain coutera par exemple 3 % plus cher donc j'ai besoin de plus d'argent) ?

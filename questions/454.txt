@@ -1,0 +1,9 @@
+Bonjour, 
+
+Dans cette vidéo un exemple d’épargne avec une indexation a été donné. Toutefois, le résultat obtenu diffère de ce que j’ai recalculé. 
+L’exemple était sur la valeur finale d’un flux de 3000€ indexé à du 2% avec un taux d’intérêt de 2,75% pour 30 termes. 
+Le montant calculé s’élève à 178 096,06= (3000*26,31*(1+2,75%)^30 
+De mon côté j’obtiens 178 113,57 
+Pouvez vous m’éclairer? 
+
+Merci bonne soirée

@@ -1,0 +1,9 @@
+Bonjour, 
+
+Je ne parviens pas à calculer le TRI de : 
+VAN = -150000 + 31500/(8%-2%) = 375000€  —>  TRI = 23%
+J’obtiens systématiquement 21%. 
+
+Pourriez-vous développer votre calcul svp ? 
+
+Merci.

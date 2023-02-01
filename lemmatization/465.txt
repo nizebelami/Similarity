@@ -1,0 +1,3 @@
+Bonjour , 
+
+ pour le question 3 , mon excel pour 20.000 x 2.71 ^ 8 pourcent me donne 21.660 , .... pq le réponse est-ell 21.666 ? est -ce parce que je n' avoir pas prendre tout le décimale de e ? 

@@ -1,0 +1,3 @@
+Bonjour, 
+Dans les données de l'exercice, le nombre d'années du projet est 4 ans. Mais dans la vidéo de la solution j'ai trouvé que le nombre d'années pratiquer pour l’étude est 5 . ET c'est la même chose pour la deuxième partie de l'exercice, 3 a été remplacé par 4.
+Puis-je savoir d'où vient cette différence ?

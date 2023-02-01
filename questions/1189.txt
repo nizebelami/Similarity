@@ -1,0 +1,2 @@
+Bonjour,
+J'ai des difficultés à comprendre le calcul du prix du fond balanced au t0. Comment obtenir ce rapport de 1/3 du fond sans risque? Dans l'exemple exposé au cours, il me semble que le prix de l'actif B defensif s'obtenait en soustrayant l'obligation à l'actif indicé. Est ce que ce calcul diffère selon la nature de l'actif? Merci d'avance pour votre aide

@@ -1,0 +1,3 @@
+Bonjour,
+
+Mon message va peut-être sembler un peu répétitif mais en lisant les discussions précédentes, je n'ai pas trouvé la réponse qui me rassure. Si nous regardons l'exercice 3, avec un investissement initial de 3M euros, cet investissement n'est pas tenu compte pour le calcul du CF mais bien pour celui de la VAN. Par contre, pour la question 4, on tient compte de l'investissement initial pour calculer le CF. Pourquoi dans un cas tenir compte de l'investissement initial comme faisant partie du CF et dans un autre cas non? Je pensais que cela avait trait au fait que l'on parlait d'incrémental mais apparemment non... D'avance merci pour la réponse.

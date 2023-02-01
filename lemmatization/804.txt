@@ -1,0 +1,5 @@
+Bonjour , 
+
+ dans le exemple consister à trouver le cash flow CF de un rente annuel pour atteindre un valeur futur de 60 000 euro au bout de 18 an , Isabelle utilise le calcul de le VF de un rente unitaire soit 34 euro pour ensuite déterminer   le CF nécessaire pour atteindre 60 000 . pour cela , lui divise 60 000 par 34 . 
+
+ je avoir de mal à comprendre le évidence de ce relation entre le deux et pourquoi diviser un vf par un autre permettre de obtenir un cash flow . pourriez vous me éclairer ? merci ! 

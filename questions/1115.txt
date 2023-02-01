@@ -1,0 +1,7 @@
+Bonjour,
+
+Je ne comprends pas pourquoi dans la deuxième approche de l'estimation du bêta on utilise une prime de risque du marché moyenne de 4,33% et non celle originalement obtenue soit 5,31%. Je crois comprendre que le taux sans risque retenu pour la prime de risque est celui lu chaque mois depuis 2010 et non le taux sans risque final de 0,79%.... Dans ce cas on aurait pu aussi bien utiliser ce taux de risque moyen pour la première approche non ? 
+
+Cordialement, 
+
+Louis

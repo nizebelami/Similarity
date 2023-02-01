@@ -1,0 +1,1 @@
+Bonjour , peut on pour calculer le prime de risque de le actif risquer en utiliser le méthode ( valeur t1- valeur t0 ) /valeur t1   au lieu de rentabilité - taux sans risque . le réponse me semble similaire . 

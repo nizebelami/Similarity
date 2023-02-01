@@ -1,0 +1,2 @@
+Bonjour,
+Pourquoi le coefficient de corrélation entre l'actif sans risque et le fonds risqué est de 0? Merci beaucoup!

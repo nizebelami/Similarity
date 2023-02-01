@@ -1,0 +1,1 @@
+J'ai du mal à faire la représentation graphique de la courbe de la van et des taux d'intérets qui permettent d'identifier celui qui annule la van en obtenant le TRI. SVP de m'expliquer sur quoi on se base pour le calculer?

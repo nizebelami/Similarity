@@ -1,0 +1,7 @@
+Bonjour, 
+
+Je ne comprends pas comment trouver le TAE de 5,13% pour l'illustration : un placement de 100€ avec capitalisation en continu des intérêts au taux de 5% peut donc rapporter au max 1051,27€.
+
+J'ai bien compris comment trouver la valeur max mais pas la manière de trouver le TAE,
+
+Si quelqu'un pouvait m'éclairer, merci

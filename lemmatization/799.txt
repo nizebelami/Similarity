@@ -1,0 +1,11 @@
+Bonjour , 
+
+ le un de élément de le exercice 4 être un tap à 15 pourcent avec remboursement mensuel . 
+
+ je ne comprendre pas pourquoi on pouvoir " simplement " utiliser un tpp de 15%/12 dans le calcul de actualisation . en effet , dans le leçon 4 vidéo 7 , il être indiquer " le tap ne devoir pas être utiliser comme taux de actualisation quand on ne travaille pas en base annuel , il falloir le convertir en tae " . pour ce exercice 4 , je avoir donc calculer un tae et ensuite un taux mensuel r1/12 ; taux que je avoir utiliser pour le calcul de DRA . 
+
+ Visiblement ce être incorrect mais je avoir beaucoup de difficulté à comprendre le réflexe à avoir lorsque le énoncé parler de TAP . je ne comprendre pas bien ce que cela implique concrètement . mon compréhension de tap être que il se agir de un autre mécanisme financier ( intérêt simple à le place de composé ) que le taux " classique " à intérêt composer qui implique de modalité de remboursement différent au long de le année ( par exemple dans le cas de un emprunt ) mais qui , au final de un année , représenter le même montant de intérêt que un emprunt à intérêt composer . on pouvoir donc , moyenner le adaptation de taux , passer de le un à le autre dans le exercice . 
+
+ pouvez vous me éclairer ? 
+
+ Cordialement 

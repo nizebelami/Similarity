@@ -1,0 +1,7 @@
+Bonjour Marie-Ange,
+
+Dans la vidéo 6, il est expliqué que le cout du capital = taux sans risque + prime de risque
+Comment trouver le taux sans risque dans la réalité? 
+Par ailleurs, dans quel cas utiliser le coût du capital? Est-il différent du cout d'opportunité du capital?
+Merci beaucoup,
+Clara

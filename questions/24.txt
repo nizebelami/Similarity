@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans l'énoncé, on stipule "vous souhaitez un complément de revenus de 12000€ par an à partir de 67 ans". Si je comprends bien, à l'âge de 67 ans et donc t=0 pour la partie "complément de revenus", la personne touche directement 12000 euros (et pas apd 68 ans). Il me semble que le personne va recevoir 18+1 fois la rentre de 12000 euros et non 18 fois. Ne faudrait-il pas ajouter 12000 à 155045,53 pour obtenir la VF du montant épargné à l'âge 67 ans?
+
+D'avance merci,

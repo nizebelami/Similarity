@@ -1,0 +1,2 @@
+Bonjour 
+ pour le calcul de le van en fonction de taux de actualisation ( 1%-8 pourcent ) . je avoir refaire le calcul à plusieurs reprise ( avec tableur et directement ) et je trouve que le VAN se annule uniquement un seul fois entre 5 et 6 pourcent sur le graphique . en regarder le formule que vous avoir présenter dans le réponse pour calcul de le van je n' avoir pas bien compris le fait que vous actualiser le flux entrer ( et sortir ( 1 m et 0.1 m ) en diviser uniquement sur r et pas sur ( 1+r)^anner ! . merci pour votre éclaircissement 

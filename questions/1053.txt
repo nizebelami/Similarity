@@ -1,0 +1,7 @@
+Bonjour,
+
+J'ai entré le calcul : (1-(1+0,0041)^-240)/0,0041 dans ma calculatrice. J'obtiens : 152,5449731 Or dans la vidéo, la réponse obtenu est 152,94. Je rencontre la même chose lors de la variante de cet exemple (1-(1+0,0041)^-180) / 0,0041 = 127,1241604 or dans la vidéo, le résultat est 127,39. Et ensuite : (1-(1+0,0025)^-180) / 0,0025 = 144,8054715 or dans la vidéo, le résultat est 145,21. Pourriez-vous m'expliquer pourquoi je n'obtiens pas la même chose ? 
+
+Et ensuite, CF = 150 000 / 152,94 = 980,7767752 ~=~ 980,78 = CF Or, dans la vidéo, CF = 980,75 Je ne comprends pas très bien comment les résultats sont obtenus dans la vidéo.
+
+Merci

@@ -1,0 +1,2 @@
+Bonjour, merci beaucoup pour cette leçon supplementaire. Ma préoccupation est la suivante : Comment obtenir les coefficients de correlation  utilisés dans la partie "portefeuilles optimaux en pratque" car j'ai constaté sur le tableur qu'il n'ont pas été calculé et je n'ai pas réussi à les obtenir sur le site Yahoo finance ( il en est de même pour les covariances).
+Merci.

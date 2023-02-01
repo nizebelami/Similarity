@@ -1,0 +1,11 @@
+Bonjour , 
+
+ je venir de terminer l’ exercice no. 4 mais il y avoir quelque chose qui ne marche pas . 
+
+ au début je recevoir   800 euro moins 25 euro qui correspondre au frais de dossier , ça valoir dire que j’ avoir 775 euro en t=0 . ensuite je pouvoir   calculer le CF pour un rente constant et le teg pour faire le balance au temps 0 et j’ arrive à le bon réponse . cependant ,   quand j’ examine le valeur au bout de 15 mois , je n’ arrive pas trouver l’ équilibre . 
+
+ le vf de 800 euro ( avec 5.7 pourcent TAP ) être 858.93€. le vf de 775 euro ( avec le teg trouver auparavant ) être 883.97 euro , donc il y avoir un différence de 25.04 euro que devoir correspondre à le capitalisation de frais de dossier . malheureusement , je ne trouve comment capitaliser le frais de façon qu’ on avoir   le valeur futur net égal à zéro . 
+
+ quelque chose à faire ? 
+
+ Best ! 

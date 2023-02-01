@@ -1,0 +1,11 @@
+Bonjour Marie-Ange et la communauté d'apprenants,
+
+J'ai une remarque relative au choix sur l'hypothèse faîte sur le calcul de la VAN, c'est-à-dire sur la décision de prendre le modèle de rentes perpétuelles.
+En état, effectivement le projet brasserie possède une VAN supérieure à celle du projet Déco shop.
+Mais si l'on regarde l'évolution de la VAN de ces deux projets, celle du projet Déco shop reste supérieure à celle du projet brasserie jusqu'à la 58ième année.
+
+Sans prôner pour les investissements à court terme, est-ce réaliste pour une entreprise qui souhaite choisir le projet à la VAN la plus grande de faire son choix sur un horizon aussi long même si pour un état évidemment, cela devrait l'être.
+
+Bien cordialement,
+
+François

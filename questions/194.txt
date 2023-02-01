@@ -1,0 +1,6 @@
+Bonjour, 
+
+J'ai fait la question 4 du quizz et je n'ai pas compris la réponse car pour moi les intérêts correspondait à la différence entre la VF et VA lors d'une capitalisation. Du coup, je n'ai pas compris la formule VFn = F *(1+n*r). A quoi sert elle? et quelle est la différence avec VFn = F * (1+r)^n ? 
+
+Je trouve le cours très intéressant. 
+Merci

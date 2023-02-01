@@ -1,0 +1,5 @@
+Je ne comprends toujours pas comment déterminer le prix de l'actif en fonction du prix de l'obligation sans risque et le fond indicé.
+
+Comment faut-il déterminer quelle proportion du prix de l'actif est sans risque et quelle proportion ne l'est pas?
+
+J'ai eu beau lire l'explication je n'y arrive pas.

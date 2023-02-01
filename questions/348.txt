@@ -1,0 +1,4 @@
+Bonjour,
+
+Àla première question du quizz j'obtiens bien 9546,21 dans mon tableau d'ammortissement Excel. Cependant, je n'obtiens pas 0 en SRD fin de période (20), mais ce chiffre là : -4,63842297904193E-10
+Ma VA après les 20 périodes retombent bien quant à elle à 200000.

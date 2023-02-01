@@ -1,0 +1,5 @@
+Bonjour, dans le problème 2 concernant le TRI, lorsque on a 2 taux de TRI on dit qu'on est dans l'impossibilité d'utiliser la règle de décision, cependant quand je remplace le TRI par 0% dans l'équation de la VAN l'équation est irréalisable , Donc je ne comprend pas comment on trouve une VAN de 0 avec un TRI de 0%.
+![][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1646575129949138858228.png

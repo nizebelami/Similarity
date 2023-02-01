@@ -1,0 +1,4 @@
+Bonjour Marie-Ange,
+Pourriez-vous me clarifier d'ou vient la formule en cellule B8 du fichier .xls pour le calcul de la valeur de l'obligation? 
+Merci d'avance,
+CHARLES

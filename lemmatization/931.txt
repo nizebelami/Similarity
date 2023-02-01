@@ -1,0 +1,4 @@
+Bonjour , 
+ dans le vidéo de théorème de séparation , je ne comprendre pas très bien le calcul de VAN ( Anémone ) , en effet par définition le VAN être : va ( flux entrant ) - va ( flux sortant ) , alors que dans le calcul indiquer il n' y avoir aucun soustraction ? je avoir avoir tendance avoir calculer ( 100/1.1 ) - 100 
+ merci 
+ Charles 

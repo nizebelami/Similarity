@@ -1,0 +1,5 @@
+Bonjour,
+Voilà, encore une fois, sur le quiz certifcatif, j'ai échoué à 1 question. Comme pour le quiz certificatif 1. Cette fois-ci, c'est sur la question n°6 où il faut tenir compte de la valeur terminale du projet. Manifestement, mon approche n'est pas la bonne : j'ai essayé différentes options pour tenter d'inclure cette hypothèse, mais je ne suis jamais arrivé à un résultat suffisamment proche des options proposées en résultat.
+Alors voilà, comme cette notion de valeur terminale a été abordée plus que sommairement dans le cours, pouvez-vous expliciter comment la prendre en compte en pratique ?
+Déjà sur le quiz certiificatif, malgré ma demande, je n'ai pas eu de pistes pour comprendre la démarche à suivre sur la question des prêts/emprunts multiples. 
+Sachez que c'est très frustrant, et même très décourageant, de rester sur un échec sans pouvoir progresser. Aussi, un exemple de prise en compte d'une valeur terminale de projet serait le bienvenu. Bien cordialement,

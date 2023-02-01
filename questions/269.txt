@@ -1,0 +1,6 @@
+Bonjour,
+
+Je ne comprends vraiment pas comment on arrive aux sommes : 8219,8807, 13870.
+Selon moi, sur base d'un tableau d'amortissements, on prenait les intérêts de chaque année et on les multipliait à 20% (pour la déductibilité). Ensuite, on sommait tous les nombres obtenus par cette multiplication et sachant bien que pour chaque année c'est 1200 MAX ! 
+Pouvez-vous m'aiguiller ? Car je ne comprends vraiment pas la question (où vous voulez en venir) et ne comprends vraiment pas la résolution !
+ Merci !

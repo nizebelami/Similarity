@@ -1,0 +1,3 @@
+bonsoir , 
+ jusque à présent , je trouver le quiz assez clair , mais sur ce 2 dernier question , et ici en particulier sur le question 5 de quiz , je avoir de mal à adhérer à le logique : le VAN de 3000 avoir être calculer avec un taux de actualisation de 1,97 pourcent * * sans prendre en compte le inflation**. 
+ = > dans le mesure où on ne prendre pas en compte le gain / perte de pouvoir de achat devoir à le inflation , il me semble que précisément ce 1,97 pourcent être un * * taux nominal * * et non un taux réel !   pouvez vous me éclairer sur votre logique ? cordialement , 

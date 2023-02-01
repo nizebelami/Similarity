@@ -1,0 +1,13 @@
+Rebonjour , 
+
+ pour le question 7 , falloir il calculer le premier coupon en tenir compte de jour déjà écouler (= 365 - 89 ) ? si oui , devoir nous postuler que il falloir multiplier le 3 pourcent de premier coupon par 0,75 ou 0,25 ? quand au second coupon , celui qui arrive dans 89 jour , on devoir le capitaliser en le multiplier par 0,75 ? 
+
+ quant à autre , on le capitalise normalement en année à partir de t=2 ? je ne voir pas trop comment faire avec ce histoire de 89 jour , dans le cours , nous avoir avoir voir avec 6 mois et on se trouver en t=2 ... 
+
+ Puis , le prix être égal à CF actualiser au taux 4.24 pourcent ( le TRA ) ? 
+
+ vraiment désolé pour tout ce question , mais voir que monsieur Platten avoir spécifier en cours que il ne falloir pas hésiter à poser notre question , donc je en profite car , bien que je avoir relire le théorie , je avoir encore beaucoup de mal avec le bloc 3 ... 
+
+ de avance , merci pour tout , 
+
+ VLB 

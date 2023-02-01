@@ -1,0 +1,3 @@
+Ma question peut paraître bête mais dans l'exemple plus compliqué (à 3 min 18 sec) comment fait-on exactement pour passer d'une valeur de 152.94 à 980.75 ?
+
+Merci d'avance

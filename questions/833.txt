@@ -1,0 +1,7 @@
+Bonjour,
+
+1) Si on a P0 = 45, P1 = 32, et qu'un dividende est tombé avant P1, soit D0 = 2.15, comment expliquez vous que g = 4% (g valable à temps 0) soit encore utilisé pour passé de P0 à P1, alors que ce devrait être logiquement ce g1 (à tps +1) que l'on recherche ?
+
+2) Si le cours des actions chute de 45 à 32, alors ceux qui ont investi à P0 ont perdu 28% de leur investissement. Pourquoi le ROI n'est pas égale à -0.28 ? Cela aurait pu permettre de calculer g comme g=1-d*ROI avec d = 2.15/45=4,78%, donc g=(1-(2.15/45))*-0.28 = -0.266 = -27% ?
+
+Merci beaucoup d'avance

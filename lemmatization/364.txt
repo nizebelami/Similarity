@@ -1,0 +1,7 @@
+Bonjour , 
+
+ je ne comprendre pas pourquoi 10,75 pourcent correspondre au cmpc et pas au coût de capital propre . nous utiliser de habitude ( dans le exercice de le leçon précédent ) le droite de medaf et le beta pour trouver le coût de capital propre . ensuite , nous appliquer ce rcp dans le calcul de cmpc avant impôt qui être : ( ( vcp/(vd+vcp))*rcp ) plus ( ( Vd/(Vd+Vcp))*rd ) pourquoi être -ce que nous n' appliquer pas ce formule dans ce cas - ci ? 
+
+ je avoir déjà poser le même question dans un commentaire de un autre question de ce type qui avoir être poser mais n' avoir pas de réponse depuis un semaine , je me permettre de réécrire à nouveau mon question . 
+
+ merci de avance pour votre réponse 

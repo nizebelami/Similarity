@@ -1,0 +1,16 @@
+Bonjour , 
+
+ le exemple de problème 1 de tri n' être pas à proprement parler un emprunt . 
+
+ pour un emprunt , l' on concevoir clairement intuitivement que , plus le taux être bas , plus ce être avantageux . 
+ mais il pouvoir toujours se comparer à un coc appliquer sur le même flux , et si celui-ci être plus élevé que le taux de le emprunt , on avoir un VAN positif ( correct ? ) . 
+
+ je pouvoir concevoir que le coc dans ce cas , dans le cadre de un projet de entreprise , être lier à le rémunération espérer de capital propre ( de où le ' leverage ' , je pense ) ou bien , je suppose , à le rentabilité espérer ( inclure le risque ) spécifique de projet étudier . 
+
+ je en vien dès lors à le question essentiel comment définir ce COC ? dans le cas de le exemple , plus précisément , quel pouvoir être le élément de base pour établir le coc ( de 10 pourcent en le occurrence ) ?   car le réponse de création de valeur dépendre précisément autant de ce coc que un donnée de flux de projet ( qui définir le tri , qui n' être ici que un référence ... ) . 
+
+ je savoir que cela être approfondir plus tard , mais dans ce exemple , certain indication aider certainement à un meilleur compréhension intuitif , plutôt que ' mathématique ' . 
+
+ merci à vous , 
+
+ BV 

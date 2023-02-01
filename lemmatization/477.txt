@@ -1,0 +1,38 @@
+résultat 
+
+
+
+
+
+
+
+ 95844.9= 
+ 850(1−(1 plus 0.267)−n ) 
+ 0.267 
+
+ n∈r 
+ ⇓ 
+ 95844.9=850(1−(1 plus 0.267%)−n)/0.267 pourcent n∈r ⇓ 
+
+
+ faux 
+ faux 
+
+  
+  
+ 
+  
+  
+    
+ solveur de equation 
+
+
+
+
+     
+
+ résolution de un équation 
+
+ Equation(s ) à résoudre 
+ 95844.88=850*(1-(1 plus 0.267%)^-n)/0.267 pourcent 
+ inconnu n 

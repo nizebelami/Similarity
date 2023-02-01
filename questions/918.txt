@@ -1,0 +1,12 @@
+Bonjour,
+Je souhaiterai une précision sur la question 8 du quizz, à savoir sur le calcul du complement de revenu pour la retraite.
+Dans l'énoncé, on verse une annuité F pendant 37 ans (de t=31 ans à t=67 ans), puis de t=68 ans à t=85 ans, on en retire un complément de retraite de 12000 EUR.
+
+Les dépots (F) sont donc capitalisés jusqu'au temps t=67 ans, où on aurait un capital C.
+
+Ma question étant : Pendant la période de retraite, le capital C est-il toujours capitalisé ? 
+C'est à dire, on aurait pour t=68ans : capital restant = C*(1+r)-12000*(1+r), puis pour t=69ans : capital restant = C*(1+r)^2-12000*(1+r)^2-12000*(1+r), jusqu'à t=85 ans ?
+
+Ou le "capital retraite" amassé C n'est plus sujet à capitalisation à partir du versement de la retraite.
+Le résultat final devrait être différent dans les deux cas.
+Merci pour votre réponse !

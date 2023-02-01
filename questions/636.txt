@@ -1,0 +1,5 @@
+Bonjour,
+
+Comment résoudre la première partie de la question 5? J'ai utilisé une formule dans Excel qui donne -50.000 + la somme des VA des flux futurs. Chaque flux étant divisé par (1 + r)^n. r étant la cellule variable.
+
+Le solveur ne me donne aucune solution.

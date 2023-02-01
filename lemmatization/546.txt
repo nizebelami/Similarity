@@ -1,0 +1,4 @@
+Bonjour , 
+ je ne parvenir pas à trouver le cf . falloir il bien soustraire de CA - coût de ventes(810000 ) , le coût de dettes(450.000 ) et le coût de capital propre ( 500.000 ) , soustraire le variation bfr ( 97000 ) et ajouter le amt ( 150000 ) et soustraire 500000 ( inv . ) en1 ? 
+
+ * * * grâce aux information de tableau , on pouvoir déterminer le cf de projet ; on obtenir le suite de CF de le année 0 à 5 : -3000 ; 15 ; 600 ; 681 ; 119 ; 830 * * * 

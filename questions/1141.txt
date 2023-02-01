@@ -1,0 +1,9 @@
+Bonjour,
+
+Est-il possible d'avoir une volatilité d'un titre qui soit inférieur à la rentabilité éspérée de ce dernier ?
+
+Si c'est le cas et si la différence entre les deux est supérieure au taux sans risque ceci devrait représenter une opportunité d'arbitrage ?
+
+Cordialement,
+
+Simo

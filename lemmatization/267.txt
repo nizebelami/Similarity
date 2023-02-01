@@ -1,0 +1,7 @@
+je avoir refaire plusieurs fois le exercice et je tombe toujours sur le même réponse , qui n' être visiblement pas le bon . mon raisonnement : 
+ 1 . calcul de cf de prêt de 30 an = 1x4x,42 euro 
+ 2 . pv de celui - ci = srd = 18X3XX,77 euro 
+ 3 .   je ajoute le 3000 euro et calcule le cf de prêt de 20 an = 1X08,51 
+ 4 . je faire le différence de CF = 2X3,73 euro 
+ 5 . pv ( va ) de celui - ci = un réponse qui figure dans le possibilité mais qui n' être pas le bon . 
+ je ne comprendre pas où je faire le erreur ? je être bloquer . merci de avance . 

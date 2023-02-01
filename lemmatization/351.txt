@@ -1,0 +1,22 @@
+Bonjour , 
+
+ je ne retrouve nul part dans le cours le formule qui être utiliser dans le explication de le réponse à ce question : 
+
+ votre société être endetter à hauteur de 25 pourcent de total de passif et son dette pouvoir raisonnablement être estimer comme être sans risque . le beta de action de le entreprise être actuellement estimer à 0.68 . par ailleurs , selon le dernier estimation , le taux sans risque être proche de 2 pourcent et le rendement attendre de marché dans son globalité être de 7 pourcent . 
+
+ si votre société être soumettre à un taux d’ imposition de 40 pourcent , quel être son cmpc après impôt ? ( en pourcent , arrondi à 2 décimale ) 
+
+
+ 4.35 pourcent correct 
+ 5.37 pourcent 
+ 4.55 pourcent 
+ aucun réponse n' être correct 
+ explication 
+ le premier chose à faire être de déterminer le rentabilité exiger par le actionnaire sur le action au moyen de le droite de medaf : Rcp=2%+0.68*(7%-2%)=5.40 pourcent . on pouvoir ensuite calculer le cmpc après impôt : cmpc=5.4%*0.75 plus 0.25 * 2%*(1 - 40%)=4.35 pourcent . 
+
+ pour le rcp je n' avoir voir dans le cours que le formule suivant : rcp = r actif plus ( r actif - r d ) x vd / vcp  
+ pour le cmpc je n' avoir pas ce formule ci non plus mais celui là : cmpc après impôt = vcp / VD+VCP x rcp plus vd / VD+VCP x rd - VD / VD+VCP x rD x taux de impôt 
+
+ Pourriez vous me expliquer le formule utiliser dans le résolution ? 
+
+ de avance merci . 

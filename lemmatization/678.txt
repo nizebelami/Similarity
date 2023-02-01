@@ -1,0 +1,15 @@
+Bonjour , 
+
+ dans le solution de le question 4 , il y 2 élément que je n' avoir pas compris : 
+
+ - pourquoi le coût direct de vente annuel n' être pas adapter au ca au temps t ? ne devoir on pas appliquer le formule suivant : coût direct de vente en t = 50%*ca en t * ( 1 plus 5%)^(t-1 ) ce qui donner : ! [ mon Excel][1 ] 
+ je avoir faire ce hypothèse car le énoncé précise " * le coût direct de vente représenter environ 50 pourcent de ca . * " . je avoir donc adapter mon coût de vente en t au ca en t. 
+ - pourquoi augmente te on chaque terme de bfr ( Stocks , créance client , dette fournisseur ) de 2 pourcent comme cela être proposer dans le solution et quel élément de le énoncé de le question 4 implique ce manipulation ? 
+
+ en vous remercier de avance pour le aide apporter , 
+
+ Cordialement , 
+
+ Jan CANTAERT 
+
+   [ 1 ] : https://edxuploads.s3.amazonaws.com/15528201974345627.png 

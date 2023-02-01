@@ -1,0 +1,3 @@
+Bonjour, 
+Pour l'exemple du jeune couple, lorsque je fais le calcul de 34xCF=60 000 moi je trouve le CF=1 764,71 (au lieu de 1764,78 dans la vidéo) pareille lors du calcul de la variante où je trouve 1 605,14 (au lieu de 1 605,18 comme dans la vidéo) pour 37,38xCF=60 000.
+C'est possible de m'éclairer car je ne vois pas très bien l'erreur pourquoi. Merci

@@ -1,0 +1,2 @@
+Bonjour,
+J'aimerais avoir l'éclaircissement sur l'utilisation des formules de valeurs actuelles car dans les quiz formatifs 2 la question 2 et le quiz formatif 3 question 4, les énoncés sont presque similaires. je suis arrivé à résoudre juste parce que c'est la lecon en cours, alors imagine si on se retrouve dans une situation (dans la vie courante par exemple ), A quant ou dans quelles conditions peut recourir à l'une des formules d'actualisation de flux (CF=F/((1-(1+r)^N)/r) et CF=F/(1+r)^N),  afin de déterminer le montant à verser?

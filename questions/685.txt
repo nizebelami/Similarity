@@ -1,0 +1,9 @@
+Bonjour,
+
+Je ne comprend pas pourquoi la canibalisation n'impacte pas le coût des ventes comme dans l'exemple vu dans la dernière vidéo. Ici dans la résolution de la vidéo le coût des ventes est gardé tel quel alors que dans la vidéo on a pris en compte le fait que vendre moins de quantité de l'ancien produit allait faire diminuer le coût des ventes.
+
+Est-ce un point qui était évoqué dans l'enoncé que je n'ai pas vu ou compris?
+
+Merci d'avance pour votre réponse.
+
+Bien à vous

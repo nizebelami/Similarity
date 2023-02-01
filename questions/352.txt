@@ -1,0 +1,2 @@
+1 ° comment la VAN s'annule avec la formule au taux 0% ? quand j'applique la formule , il m'indique une erreur
+2 ° vous avez retiré les milliers dans la formule, seulement quand on garde les milliers, la VAN ne s'annule pas au même taux ?

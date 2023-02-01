@@ -1,0 +1,1 @@
+comment pouvoir on calculer le teg avoir partir un proposition de taeg sans utiliser excell ? formule ? 

@@ -1,0 +1,3 @@
+Bonjour, lors de la résolution de la question 10, j'ai utilisé une formule : VF = ((1+r)^n - (1+g)^n)/ r - g. Peut-elle être utilisée comme formule de substitution à votre méthode de calcul? 
+Bien à vous,
+ Arthur Gigounon

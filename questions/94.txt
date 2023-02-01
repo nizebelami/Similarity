@@ -1,0 +1,11 @@
+Bonjour,
+
+Je n'arrivais pas à retrouver le résultat final combien même j'avais bien fait les calculs intermédiaires.
+
+D'après la réponse, c'est parce que je calculais l'économie faite au remboursement (donc en VF) en multipliant les mensualités par le nombre d'échéances restantes (240) dans les 2 cas pour enfin en faire la soustraction.
+
+C'est ce qui me semblait le plus intuitif car au final ceux sont bien ces montants qu'on aura payé et donc cette économie que l'on fera !?!
+
+Dès lors, la question n'aurait-elle pas dûe explicitement indiquer que l'avantage doit se calculer en VA ? ou doit on comprendre que systématiquement,  si pas précisé, on se positionne en VA (même si dans ce cas, je reste convaincu que le réel avantage, la réelle économie correspond à la différence de VF....si on calculait par rapport à un taux d'inflation c'était discutable, mais ici c'est le taux de la banque, combien même il doit inclure l'inflation) ?
+
+A noter que je ne parle pas des frais de 3 000 € que je déduisais de l'avantage au final car payé en une fois...c'est vrai que de ce fait je déduisais les 3000 € payé à l'instant t0 (VA) d'une différence correspondant à t240 (VF) mais là encore ne s'agissant pas d'un taux d'inflation (calcul de VAN) et les 3000 € n'étant pas intégré dans les prêts, il m'était intuitif de les décompter tels quels....

@@ -1,0 +1,11 @@
+Bonjour !
+
+Dans la vidéo **Le CMPC** il est dit qu'il faut prendre la valeur de marché des capitaux propres (CP) pour déterminer le coût des CP d'une entreprise endettée. En quoi l'utilisation de la valeur de marché des CP est préférable à leur valeur comptable ? 
+
+Vous donnez : capitalisation boursière **=** nombre d'actions **x** prix de marché d'une action 
+
+Une entreprise qui met en bourse seulement une partie de son capital, mettons une société dont le capital est composé/divisé en 100 actions et qui décide d'en placer seulement 60 en bourse, quel nombre faut-il utiliser pour calculer la capitalisation boursière - 60 ou 100 ?  
+Comment peut-on connaître le nombre d'actions misent sur le marché (bourse) par rapport au total d'actions qui composent le capital d'une entreprise cotée ?  
+Quand la presse parle des "actions en circulation" (outstanding shares), faut-il comprendre 60 ou 100 ? 
+
+Merci

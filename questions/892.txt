@@ -1,0 +1,7 @@
+Bonjour,
+
+En suivant bien le cours et en appliquant les formules, je n'y arrive pas à avoir les mêmes réponses que vous au sujet de l'écart-type de chaque fond.
+
+Pouvez-vous donner plus de détails sur le calcul des écart-types ?  Sans pour autant effectuer le calcul sur excel.
+
+Merci d'avance

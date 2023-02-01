@@ -1,0 +1,13 @@
+Bonjour, 
+
+Je ne comprends pas pourquoi, dans la question 1, nous partons des 10,75% afin de calculer le CMPC après impôt. 
+
+En effet, il me semble que la droite du MEDAF nous donne le rCP et non le COC ? 
+
+Et donc, par la suite, utiliser la formule du CMPC ? (VD/(VD+VCP) * rD + VCP/(VD+VCP) * rCP) 
+
+Merci.
+
+Bien à vous, 
+
+Valentine

@@ -1,0 +1,10 @@
+Bonjour, 
+
+Dans la vidéo sur l'impact du temps, vers la 14ème minute, nous sommes sur un tableau récapitulatif. 
+Je n'arrive pas à calculer le prix et le cours lorsque nous nous situons à N =  9(-) et 9(+). 
+
+Pour N= 9(-), je calcule avec la formule un prix de 100 (j'actualise à t=9) et un CC de 5 (365 jours/365 jours x 5% = 5). Donc selon ces données, le cours devrait être de 95, et pas de 100 comme dans la réalité.
+
+J'arrive à le comprendre en réfléchissant au fait qu'à N=9-, le coupon n'est pas encore détaché ; et l'inverse à 9+ mais est-il possible de m'éclairer sur la résolution mathématique ? 
+
+Un grand merci !

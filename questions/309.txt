@@ -1,0 +1,4 @@
+Bonjour,
+
+Sauf erreur de ma part ou mauvaise compréhension, je n'arrive pas à trouver l'IP d'un projet sur base de la formule : IP= VAN/(CF/(1+r)^t si je reprends le premier exemple de la vidéo VAN= -150000+31500/(8%-2%)=375000 et que j'applique littéralement la formule je fais : 375000/(31500/(1+0,08) j'obtiens un IP de 12.
+Comment faire le calcul ? Merci.

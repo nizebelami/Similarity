@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans la question 7, la réponse indique qu'on obtient l'équation suivante : -N = ln 0,7 / ln 1,06 et j'aimerais savoir comment on obtient le 0,7 ?
+
+En effet, en me basant sur la formule de la vidéo, j'obtiens plutôt ln (1,06)n = ln (1 +  0,06 . 5) et donc N = ln 1,30/ln 1,06. Ce qui me fait obtenir la réponse de 4,33 et donc une erreur.

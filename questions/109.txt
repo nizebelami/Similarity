@@ -1,0 +1,11 @@
+Bonjour, après avoir calculé la VAN du projet "repassage", ma réponse n'est pas correcte (1er validation). Pourtant, pour calculer la VAN de ce projet:
+- j'ai calculé le profit généré par l'investissement par an à la base de 52 semaines
+- j'ai additionné la valeur sans actualisation (le prix de mon investissement) + les flux futures actualisés à la date de t=0
+
+J'ai aussi essayé de transformer le TAE en TPP mais je ne vois pas la raison pour quelle je devrais travailler à la base de mois... 
+Can you give me a hint please? Est mon raisonnement correcte ou pas?
+
+Merci d'avance pour vos indices.. Bon weekend,
+P.S. bravo pour l’énoncé :)
+
+Simona Brezanova

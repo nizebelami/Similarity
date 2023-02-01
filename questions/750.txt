@@ -1,0 +1,7 @@
+Bonjour,
+
+Dans la 2ème partie de l'exercice de la vidéo 'Exemple un peu plus compliqué', pouvez-vous expliquer comment vous obtenez 127,39?
+SRD = 980,75 * 127,39
+
+Merci
+Bonne soirée

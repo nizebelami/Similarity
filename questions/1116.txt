@@ -1,0 +1,13 @@
+Bonjour,
+
+J’imagine que l’hors de l’émission, l’état ou l’entreprise émettrice a en face des milliers d’acheteurs potentiels ... la négociation pourrait être compliquée.
+Pourriez-vous SVP m’expliquer comment se déroule réellement la négociation des titres obligataire au moment de l’émission sur le marché primaire ?
+
+
+Je suppose que la prime de risque et le taux sans risque pourraient aider à mettre d’accord tous les acheteurs sur à peu près le même prix. Mais comment ça se déroule concrètement, comment vont-ils se mettre d’accord pour choisir le taux sans risque par exemple?    
+
+Concernant le calcule du prix de revente ou d’acquisition (à t>0): Puisque le risque de défaut est toujours présent et il se peut qu'il ait évolué, pourquoi est-ce que prime de risque n'est pas recalculée ?
+
+Cordialement,
+
+Simo

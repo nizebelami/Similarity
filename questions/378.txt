@@ -1,0 +1,1 @@
+pourriez m'expliquer pourquoi dans le calcule de la rente croissante quiz n°9 l'exposant est positif -> VA (67) alors que dans le quiz précèdent (n°8) celui-ci est négatif. je voudrais établir une cohérence qui m'échappe pour l'instant.

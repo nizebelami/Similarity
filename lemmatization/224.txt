@@ -1,0 +1,14 @@
+Bonjour , 
+
+ je avoir avoir un difficulté à calculer le cf , il avoir falloir que je corriger à partir de le explication de quizz car : 
+
+ * * 1 . le variation de bfr de le année 1 : je l' avoir récupérer le année 6 . * * Est -ce que se n' être pas nécessaire dans ce cas car déjà prendre en compte le année suivant comme le bfr n' être pas constant ou être -ce pour un autre raison qui me échappe ? 
+
+ * * 2 . calcul de cmpc après impot :* * je avoir bien calculer le espérance de rendement par le droite de medaf pour obtenir 10.75 pourcent mais qui dans le leçon représente le cout de capital propre et non de actif réel puisque le entreprise être endetter . 
+ - je avoir donc opérer comme suivre pour cmpc après impots=25/35 * 10.75%+10/35 * 4.5%-(10/35 * 4.5%*30%)=8.58 pourcent 
+
+ * * 3 . après correction de 2 point ci dessus , mon calculatrice ne trouve pas le même réponse que vous pour le cf6 ! ! * * ! je obtenir 16 259.32 sur le calculatrice et 16267 sur excel ( plus preci ) alors que vous 4 . on devoir aussi déterminer le cf de le année 6 qui nous permettre de évaluer le " valeur terminal " de projet à l ' année 5 ( va de CF futur ): 830*(1 plus 5%)/(10,36%-5%)=16244 ! ! ce qui me faire un VAN final de 7604 ! 
+
+ je me permettre de vous envoyer mon feuille excel par le mail donner à un autre participer si vous avoir le gentillesse de vérifier et me dire ce qui ne aller pas ainsi que sur le point ci dessus . 
+
+ merci par avance 

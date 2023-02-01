@@ -1,0 +1,3 @@
+Je suis un peu dépassé par un point de l'énoncé :
+
+On parle de 150€ de frai de dossier, à l'ouverture du dossier. Et dans l'exercice on calcule la VF sur 3000, et pas sur 2850. Ca me parrait bizarre qu'un organisme paie des intérêts sur de l'argent qu'elle reçoit en paiement et à l'ouverture du dossier.

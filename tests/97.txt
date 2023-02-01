@@ -1,0 +1,1 @@
+Bonjour, Est-ce qu'on peut expliquer comment calculer les amortissements dégréssifs et les amortissements variables?

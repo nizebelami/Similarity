@@ -1,0 +1,4 @@
+Bonjour,
+J'ai bien bien compris la question et la logique du calcul de la VAN mais j'ai un doute de comment présenter le tableau de calcul:
+Su le tableau de Résultat, si j'ai bien compris, il y a lieu de calcul de la +value implicitement, en comptabilisant le prix de cession et la VNA; donc le Résultat net l'intègre déjà (la +value imposée). Comment peut-on la faire ressortir pour la faire apparaître sur le tableau de calcul des C.F?
+Merci

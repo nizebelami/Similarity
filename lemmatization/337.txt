@@ -1,0 +1,2 @@
+au niveau de correctif de le question 4 , je pense que il y avoir un inverse dans le chiffre de corrélation entre Alpha et gamma et bêta et gamma . pouvoir vous me dire si ce être effectivement le cas . sinon , comment cela se faire il qu' on prendre le corrélation alpha - gamma pour le partie avec le covariance bêta-gamma ? 
+ bien à vous , 

@@ -1,0 +1,4 @@
+Comment arrive-ton au résultat de 35 dans l'exemple de la vidéo sur le calcul de la durée de la rente en utilisant la fonction ln sur la calculette ? 
+N x ln 1.02 = ln (1+2% x 50) 
+N = 35, 00 
+à 4:40 min.

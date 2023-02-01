@@ -1,0 +1,9 @@
+bonjour,
+je pense qu'il y a un soucis pour la note
+
+4 bonnes reponses sur 5 et seulement 60%
+
+![note][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1530645295731473.jpg

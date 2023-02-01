@@ -1,0 +1,11 @@
+Bonjour,
+
+Pour le calcul de la volatilité du portefeuille, nous utilisons dans la formule la volatilité de chaque fonds. Or, la volatilité représente l'écart type et non la variance.
+
+Dès lors, je me demande pourquoi, dans le calcul de la volatilité du portefeuille, nous utilisons 4.02% et non pas 4.02%^2 ? Puisque dans la formule de la variance pour N titres, nous devons utiliser la variance. 
+
+Merci pour votre aide,
+
+Bien à vous.
+
+Lindsay Mercatoris

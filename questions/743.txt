@@ -1,0 +1,2 @@
+T=0 : -1000 , T=1 : ? 
+Pour résoudre T=1 -> 1000(1+3%) = 1030. Pourquoi enlève t-on la pondération négative de T=0 ?

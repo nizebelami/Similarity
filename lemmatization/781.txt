@@ -1,0 +1,5 @@
+bonsoir , 
+
+ en résoudre le problème comme expliquer dans le vidéo , je n' avoir pas trouver -nxln(0.7 ) mais plutôt -nxln(1.06 ) car en transformer le équation sous forme linéaire je avoir trouver le formule suivant : -nxln(1.06 ) = ln ( 1 plus 6%x5 ) . est-il possible de avoir de plus ample explication car je être perdre . 
+
+ merci 

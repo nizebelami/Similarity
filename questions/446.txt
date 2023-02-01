@@ -1,0 +1,6 @@
+Bonjour,
+   J'ai raté 2 questions dans ce Quiz (Question 5 et 8). La Question 5 tout simplement parce que je n'ai pas bien compris que les résultas étaient en millions d'euro.
+ Cependant, concernant la question 8, il y a eu peut-être une mauvaise interprétation de ma part à ce niveau :"vous souhaitez un complément de revenus de 12000€ par an à partir de 67 ans". Donc d'après ma logique, les 12000€ étaient perçus dès l'âge de 67 ans, ce qui pour moi s'apparentait à des annuités de début de période. Donc le 1er calcul de la valeur actuelle à 67 ans j'ai obtenu 167045.53€ tout simplement parce que j'ai ajouté 12000€ perçus à 67 ans. Pouvez-vous m’éclaircir sur cette partie svp? 
+
+Merci et Bien à vous.
+Arsène KENGNE

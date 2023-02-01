@@ -1,0 +1,10 @@
+Concernant la vidéo s'intitulant "Les problèmes potentiels du TRI", je ne parviens pas a comprendre le raisonnement du second problème évoqué.
+Le solveur nous un TRI de 18,38% qui est donc supérieur au COC (10%). 
+
+Vous nous signalez par la suite qu'on pourrait être tenté d'accepter la proposition car le TRI > COC mais dans ce cas bien précis le premier flux étant positif (la prime de signature) le schéma de raisonnement ne doit pas être inversé ? a savoir : j'accepte la proposition si TRI < COC ?
+
+dans ce cas je ne comprends pas en quoi l'exemple pose problème car 18,38% est bien supérieur à 10% et donc l'offre est rejetée d'après cette règle.
+
+merci d'avance pour votre éclaircissement et pour le temps accordé à ma réponse,
+
+Alexandre.

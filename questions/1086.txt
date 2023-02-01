@@ -1,0 +1,5 @@
+Bonjour, j'ai un peu de mal à comprendre la logique que vous appliquez sur la question 3.
+Pourquoi considérez vous que les 1000 euros représente l'année 1 et pas l'année 0 alors que l’énoncé ne donne pas la date de l'emprunt?
+
+Deuxième question: 
+Vu que l’énoncé ne stipule pas que la dette devait subir les fluctuations d'un taux. pourquoi appliquer le taux d’intérêt de la banque à une dette dont les sommes des remboursements fixées au départ?

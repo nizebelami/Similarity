@@ -1,0 +1,14 @@
+Chères professeurs,
+
+Pourriez-vous m'expliquer l'impacte que va avoir l'estimation dans  la fonction TRI.PAIEMENTS sur Excel ? J'ai réalisé la formule en omettant le 10% et j'obtiens le même résultat.
+
+![Fonction TRI.PAIEMENTS][1]
+
+  [1]: https://edxuploads.s3.amazonaws.com/161504616592587537284.png
+
+
+Dans les calculs où il faut le mettre, est-ce que ce pourcentage sera toujours donné dans l'énoncé ?
+
+Merci d'avance pour votre aide,
+
+Margaux Malarme

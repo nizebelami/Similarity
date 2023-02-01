@@ -1,0 +1,13 @@
+Bonjour,
+J'ai essaye de reprendre votre exemple de calcul de beta pour Michelin (exemple donné dans la mise a jour des données) et je n'arrive pas à avoir vos chiffres pour le resultat de la covariance et du beta bien que j'ai repris les données de yahoo finances sur la meme periode que vous.
+J'obtiens : 
+Cov(ML.PA, N100) = 0,001334627
+var(N100) = 0,001401146	
+Beta ML.PA	0,952525696
+
+Pourriez vous partager votre feuille excel ?
+
+D'ailleurs, quelle valeur prenez vous pour a 01/12/2016 ? je ne retrouve pas ces chiffres sur yahoo. 
+
+Merci pour votre aide,Cordialement
+Anne Bigot

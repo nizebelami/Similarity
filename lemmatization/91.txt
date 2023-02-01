@@ -1,0 +1,17 @@
+Bonjour , 
+
+ comme souvent , je n' aborde pas le problème comme dans le réponse donner , mais ce fois - ci je n' arrive pas au même résultat . 
+
+ mon raisonnement devoir donc être erroné mais je ne percevoir pas où . 
+
+ 1 ) calcul de tae pour tap = 5,70 pourcent et k = 12 ( intérêt mensualiser ) = 5,85 pourcent 
+
+ 2 ) je ramener ce tae à un équivalent sur 15 mois qui être le durée de prêt : pour r=5,85 pourcent et n=1,25 ( 15 mois = 1,25 an ) je obtenir 7,37 pourcent 
+
+ 3 ) afin de avoir le VF de mon crédit je applique alors ce 7,37 pourcent à 800 euro = 858,92 euro 
+
+ 4 ) pour finalement obtenir taeg = 858,92 / 775 - 1 = * * 10,83 pourcent * * 
+
+ je ne tombe pas loin de le bon réponse , mais je avoir à le fois de mal à comprendre ce qui être fausser dans mon raisonnement , et le raisonnement pour obtenir le bon réponse ( je avoue avoir peur de me décourager , dommage à ce stade mais il me reste encore le emprunt à rattraper pour seulement passer le quiz avant demain soir ... à ce rythme je avoir peur de ne pas avoir le temps ) 
+
+ merci de avance pour votre lumière ! 

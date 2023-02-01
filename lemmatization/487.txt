@@ -1,0 +1,3 @@
+Bonjour , 
+
+ dans le calcul de tri , on avoir 0 = -150000 plus ( 31500/(8%-TRI ) ) et on trouve un tri de 23 pourcent " simplement " en résoudre ce équation à un inconnue . néanmoins , en isolant tri , je n' obtenir pas 23 pourcent , pouvoir vous développer le raisonnement ? 

@@ -1,0 +1,19 @@
+Bonjour, 
+
+Je reposte, car je n'arrive plus avancer dans la résolution des quizz et je n'arrive pas comprendre comment faire les calculs du TRI ! 
+
+Je comprends qu'il est le taux qui va nous permette d'avoir une VAN nulle, mais je ne comprends pas la formule que l'on nous a mise dans la vidéo.
+
+0 (van) = la somme des CF (CF/1+TRI)   alors que l'on cherche le TRI justement....
+
+J'imagine que c'est tout simple, j'ai visionné au moins 3h de résolution d'équation sur youtube, mais je n'arrive pas à une l'appliquer.  (je pensais que pour sortir le TRI d'une équation, il fallait faire l'opération inverse pour le faire changer de côté.... mais je n'y arrive pas... est-ce que quelqu'un a une vidéo ou une astuce pour ce genre d'équation, car toutes les vidéos que j'ai regardé sont des équations simples et ne m'aide pas)
+
+Par exemple, dans la vidéo "Les projets mutuellement exclusifs", dans le chapitre 7, Isabelle nous donne les résultats du TRI en disant qu'il suffit de remplacer VAN par 0 et le COC par le  TRI........ une banale équation en R, que je n'arrive pas à résoudre et ça me rend dingo.....
+
+J'adore tout ce cours et je suis frustré au plus haut point d'être bloqué par une simple équation....... j'ai visionné des tonnes de vidéo sur youtube, sans en trouver une qui me permette de résoudre cette banale équation..... 
+
+Voilà, j'espère qu'une bonne âme aura une solution à me proposer.... 
+
+Merci d'avance....
+
+PS Je repose la question sur les correctifs des quizz certificatifs, serait-il possible d'avoir les corrections par mail vu que l'on ne peut pas l'avoir online à cause d'EDX ?

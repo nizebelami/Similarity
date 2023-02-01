@@ -1,0 +1,1 @@
+salut. j'ai réellement un problème, par ce que mes calculs sont voisins aux résultats donnés alors que j'utilise les mes même formules proposées dans les exercices. donc je me demande si ce ne sont pas les arrondis à 2 décimale que je maitrise pas?

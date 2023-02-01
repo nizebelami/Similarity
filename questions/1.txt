@@ -1,0 +1,5 @@
+J'ai répondu correctement a certaines questions alors que le système a rejeté mes réponses tout en les croisant au rouge. Quand j'ai appuyé sur l'affichage du résultat après avoir croché une autre réponse proche, j'ai pu constater que la vraie réponse était seule que j'ai choisie et refusée en premier lieu. Merci de bien vouloir vérifier pour nous afin d’éviter toute éventuel échec  des Quiz.
+
+Bien a vous,
+
+JR

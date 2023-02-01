@@ -1,0 +1,9 @@
+Bonjour,
+
+J'ai résolu l'exercice 7 mais dans le développement pour trouver le n et utiliser le Ln: j'obtiens Ln -0.7/ln 1.06.
+Ce qui  n'est pas possible.
+Est ce que quelqu'un aurait le développement de  l'équation au complet.
+je pars de      5000  = 1000 ( 1-(1+6%)^-n) /6% comme dans les videos.
+
+D'avance merci, 
+Bonne soirée

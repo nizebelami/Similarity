@@ -1,0 +1,16 @@
+Bonjour,
+
+La VAN d'un emprunt est effectivement : 0.  Ceci parce que l'on prend le COC = Taux de la Banque ... (car le même risque ... ?) ?
+Donc, l'appel au financement par la banque n'affecte pas la décision d'investir.
+
+Mais je ne peux m'empêcher effectivement, aussi de me référer au 'théorème de la séparation' de la leçon 1.
+Est-ce exact dans ce contexte ? 
+A noter que, vu que le comportement de la sœur de José n'est pas selon les principes de la finance, ce financement éventuel, lui, affecterait bien la VAN (positivement, en fait ...) ? 
+
+Mais, malgré cela, il y aurait un sérieux risque de 'cash flow' à faire face, ce qui n'est pas la cas du financement par la banque ...
+
+Mes considérations sont-elles valables ?
+
+Merci,
+
+BV

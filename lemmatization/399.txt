@@ -1,0 +1,5 @@
+bonjour , 
+
+ le formule indiquer pour calculer le valeur futur de un montant capitaliser me pose problème en ce qui concerne le expression de taux de intérêt . 
+ par exemple , si je vouloir connaître le VF de 1000 euro placer à 5 pourcent dans 3 an et que je applique le formule indiquer dans le cours VFn = f*(1+r)n en exprimer le taux de intérêt en pourcentage , cela donne : 
+ 1000(1+**5%**)3= 2250 , alors que en calculer 1000(1+**0,05**)% on obtenir le bon résultat ( 1157 ) . pouvoir vous me éclairer ? 

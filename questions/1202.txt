@@ -1,0 +1,3 @@
+Bonjour, 
+
+J'ai utilisé la formule de la VF pour trouver le flux et je trouve la bonne réponse. Est ce que je peux utiliser cette formule ou je dois utiliser la formule de la VA?

@@ -1,0 +1,10 @@
+Bonjour, 
+
+Question I. J'aimerais savoir pourquoi dans l'exemple du cours de la leçon 4, vidéo 8, pour le TAEG à déterminer et calculé sur base annuelle aussi longtemps que la capitalisation des intérêts et mensuelle?  à mon niveau je me demande,  comme la capitalisation est mensuelle peut on travailler avec le TMEG (taux mensuel effectif global)? sachant que pour répondre à une question on vérifie pour voir le type de capitalisation (annuelle, mensuelle……..).
+Un autre aspect, le TAEG qu'on va trouver va nous permettre d'égaliser 2850 = 3281.42/(1+TAEG) après le calcul le TAEG est de 15,14% après verification 2850 ne correspond pas à (3281.42/(1+15.14%) qui donne 2795.2). Mais par ailleurs en travaillant avec le TMEG je trouve l'équilibre comme suit
+TME= (1+9,38%)^(1/12)-1 =  0.75% => 2850 = 3000*(1+0.75%) => 2850=3022.5 ainsi en le taux qui va égaliser ces montants on trouve :
+2850 = 3022.5/(1+TMEG) => TMEG = 6,05%; après verification je trouve que 2850 =3022.5/(1+6.05%) donc 2850 = 2850. 
+Qu'allons nous consideré dans cet exemple, le TAEG de 15.14% ou celui que j'ai calculé (TMEG) de 6.05%.
+Question II. Dans la situation de l'exemple ci-haut peut on dire que le TAEG augment ou diminue ?
+
+Merci.

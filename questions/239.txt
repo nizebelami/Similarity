@@ -1,0 +1,2 @@
+"Si on regarde les flux générés par le 3ème actif, on peut s'apercevoir qu'ils peuvent être répliqués en investissant 1/3 dans l'actif sans risque et 2/3 dans le fonds indicé."
+Comment détermine t'on les proportions 1/3 et 2/3 ?

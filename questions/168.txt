@@ -1,0 +1,11 @@
+Bonjour, 
+
+Pour définir la rentabilité du porte-feuille sur l'année, je détermine les rentabilités de chacune des obligations et j'effectue ensuite la somme pondérée des rentabilités.
+
+Pour définir la rentabilité des obligations, je détermine le prix dans un an P1 et je détermine la rentabilité par (P1-P0)/P0. Je définis P1 pour chacune des obligations (pourcentage) de la manière suivante : P1 = 100/(1+r)^T   avec r la rentabilité de 2; 4 et 6 ans respectivement et T 2; 4 et 6 respectivement.
+
+Par cette méthode, j'obtiens une rentabilité de -10,28% ... ce qui est différetn des -10,05% annoncé. Pourriez-vous me dire où mon raisonnement fait défaut?
+
+D'avance merci.
+
+Romain

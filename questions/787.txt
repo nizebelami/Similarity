@@ -1,0 +1,7 @@
+Pour la question 4(bien que je l'ai faite correcte), mais je n'ai pas compris la première affirmation " sur un horizon de 3 ans, le projet est rentable au taux de 15%), comment 15%?
+car si on suit les consignes, on calcule une VA des flux générés sur 3 ans (puisque le plafond mensuel est de 800 euros, donc à partir du mois 20, le flux devient constant 800 euros) et donc la VA des flux est la suivante: 325 x ((1-((1+5%)/(1+1.25%))^19)/(1.25%-5%) + 800 x (1-(1+1.25%)^(-17))/1.25% = 
+18 251.60 euros, ainsi la valeur moyenne de flux sur 3 ans est de 6083.87 euros donc le rendement est (6083.87-5000)/5000= 21,7%
+
+Merci d'avance.
+
+Abir ELTAIEF

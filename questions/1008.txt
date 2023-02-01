@@ -1,0 +1,7 @@
+Bonjour,
+
+Etant donné que nous sommes en AOA dans la question 4 comment faire pour retrouver "intuitivement" la répartition de l'investissement du 3e actif dans le fond indicé et le fond sans risque ? La manière d'aller répartir sur les autres actif me parait trop aléatoire... vous auriez une méthode pour la déterminer de manière systématique ?
+
+Merci d'avance. 
+
+Bonne journée !

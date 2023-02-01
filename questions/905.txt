@@ -1,0 +1,9 @@
+Bonjour, 
+
+Merci pour ce premier module à la fois théorique et pratique.
+Les illustrations et le quiz permettent de rapidement s'assurer que les notions ont été comprises.
+
+À ce sujet, je ne comprends pas bien comment trouver les pondérations d'un actif dont on ne connait pas le prix (t=0) avec les données d'un ensemble d'autres actifs (t=1), et ce dans le but final de trouver son prix de non-arbitrage. Existe-t-il une formule/équation qui fonctionne de façon certaine plutôt que tâtonner ? 
+
+Merci d'avance pour votre réponse à cette question,
+Alice. C

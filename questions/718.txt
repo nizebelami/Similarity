@@ -1,0 +1,11 @@
+Bonjour Mme Parmentier,
+Je fais un petit retour aux premières leçons!
+Dans les explications de la réponse à la 4e question, je ne comprends pas à quoi correspond le flux espéré à savoir 500.
+
+Pour le fonds balanced, on indique que le CF en T1, si la conjoncture est favorable, sera de 567 et, si la conjoncture est défavorable, le CF sera de 433.
+Alors, à quoi correspond le flux espéré de 500? Si c'est une "simple" moyenne, pourquoi le prend-t-on comme élément pour déterminer la rentabilité de l'actif, et donc pour la prime de risque, etc.
+
+Il y a quelque chose qui n'est pas clair pour moi avec ce chiffre de 500. Pouvez-vous m'expliquer?
+
+Merci d'avance,
+Sophie

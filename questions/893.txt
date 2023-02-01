@@ -1,0 +1,10 @@
+bonjour, 
+je ne comprends pas la formule CMPC après impots utilisé dans cet exercice. A vrai dire son application tel que dans l'explication ressemble que partiellement à la formule du cours.  
+1. La plupart de temps je vois que pour la prise en compte de la fiscalité vous n'appliquez jamais le (1-Tis). Ex. si l'ennoncé dit que le taux d'imposition est 30%.  Je m'attenderait à calculer ainsi : (1-30%) néanmois vous juste mulitpliez par le 30%.  Pourquoi? 
+2. 10/ 35 ça correspond à quoi ? 
+3. pourquoi une soustraction? - 10/30
+en gros la formule que j'ai c'est : 
+CMPC = Vcp/(Vd+Vcp) * rcp + Vd/(Vd+Vcp) * rd * (1-Tis)
+grâce à la droite MEDAF on a trouvé le rcp, on a également le rd.  Mais voilà après vous appliquez le 30% directe sans faire (1-30%) et le poids de la dette et des cp sont passés où?  
+Voici ce que vous écrivez : 10,75% - 10/35 * 4,5% * 30% 
+Merci!

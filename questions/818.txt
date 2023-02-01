@@ -1,0 +1,2 @@
+Bonjour,
+La notion de valeur nominale n'est pas très claire pour moi: est-ce la valeur de l'obligation au moment de l'émission? Ou bien la valeur de l'obligation à un instant t? Ce 2e cas signifierait donc que la valeur de l'obligation est mouvante?

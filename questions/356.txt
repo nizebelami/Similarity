@@ -1,0 +1,2 @@
+le projet 1,4 et 5, la VAN est de 170, l'investissement total est de 120, et le nombre d'ingénieurs employés est de 28. 
+le projet 1,2,3 et 4 la VAN est de 155 et le nombre d'ingénieurs est de 24. Pourquoi ne choisit on pas le projet avec le moins d'ingénieurs et la VAN la plus basse ???

@@ -1,0 +1,15 @@
+Bonjour,
+
+Je souhaiterais avoir plus d'explication sur la question 1 (et indirectement de la question 2 car elle est liée) car même avec l'explication de l'énoncée je ne comprends pas trop.
+ 
+Auriez vous le détail du compte de résultat pour trouver le Cash Flow ?
+De mon côté j'ai tenté de calculer l'EBITDA, l'EBIT, le Résultat brut et le résultat net pour ensuite calculer le CF avec la variation du BFR déjà communiquée.
+
+Cependant je ne retombe pas du tout sur vos valeurs de CF de 15, 600, 681, 119 et 830 pour respectivement les années 1 à 5.
+Pourtant j'ai tenté de reprendre les exercices de la leçon 9.
+
+Enfin même en considérant les valeurs des CF de l'explication je n'arrive pas à retomber sur la bonne VAN...
+
+Je suis donc un peu perdu sur cette question.
+
+Merci par avance.

@@ -1,0 +1,10 @@
+concerner le vidéo se intituler " le problème potentiel de tri " , je ne parvenir pas avoir comprendre le raisonnement de second problème évoquer . 
+ le solveur nous un tri de 18,38 pourcent qui être donc supérieur au coc ( 10 pourcent ) . 
+
+ vous nous signaler par le suite que on pouvoir être tenter de accepter le proposition car le tri > coc mais dans ce cas bien précis le premier flux être positif ( le prime de signature ) le schéma de raisonnement ne devoir pas être inverser ? avoir savoir : je accepte le proposition si tri < coc ? 
+
+ dans ce cas je ne comprendre pas en quoi le exemple pose problème car 18,38 pourcent être bien supérieur à 10 pourcent et donc le offre être rejeter de après ce règle . 
+
+ merci de avance pour votre éclaircissement et pour le temps accorder à mon réponse , 
+
+ Alexandre . 

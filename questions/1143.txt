@@ -1,0 +1,2 @@
+Bonjour, 
+je trouve tous les chiffres pour le calcul de la VAN sauf pour la quatrieme année, n'y a t'-il pas une erreur dans le résultat affiché( faute de frappe car il y a exactement 500 d'ecart avec la solution)? Merci pour votre contrôle.

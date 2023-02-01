@@ -1,0 +1,11 @@
+Bonjour,
+Dans la question  5 du quizz j'ai du mal à comprendre comment est calculé la revente de l'obligation.
+Plus spécifiquement j'ai du mal avec les exposants.
+
+La réponse affiche que la revente de l'obligation est égale à :
+3%/(1+4%)^1 + (100%+3%)/(1+4%)^2
+
+Je ne comprend pas ces puissance de 1 et de 2 et non pas de 5.
+
+D'avance merci.
+Romain

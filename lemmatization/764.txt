@@ -1,0 +1,23 @@
+Bonjour , 
+
+  - dans le vidéo 7 , il être mentionner que " le capitalisation continue conduire à un gain limité " et ensuite le formule suivant être employer : 
+
+ lim ( n - > infini ) ( 1 plus r sur n)^(n ) = e^(r ) 
+
+ je comprendre bien que l' on essayer de montrer que il falloir prendre le limite de n - > infini de le formule présenter quelque slide plus tôt qui calcule le tae pour k période de capitalisation : 
+
+ TAE = ( 1 plus tap sur k)^(k ) * * - 1 * * 
+
+ dès lors , ne être il pas plus clair de indiquer que il falloir calculer le limite suivant afin de bien montrer de où provenir le expression ? 
+
+ lim ( n - > infini ) ( 1 plus r / n)^(k )   * * - 1 * * = e^(r ) 
+
+
+ ---------- 
+
+
+  - au slide suivre , pour calculer ce que pouvoir rapporter au maximum le montant de 1000 euro , pourquoi ne pouvoir on pas utiliser le formule de un vf de un flux à intérêt simple de le leçon 2 sur vidéo 3 : 
+
+ VF = f x ( 1 plus n x r ) avec le r qui être le expression de tae équivalent au tap continu 
+
+ et ensuite réaliser le limite pour n - > infini ? 

@@ -1,0 +1,6 @@
+Bonjour,
+
+Dans la vidéo "Prix et Rentabilité" minute 6:52, pourquoi on a écrit P(t=0) = 100.03 EUR alors que dans l'énoncé la valeur nominale de l'obligation Romania est égale à 1000 EUR d'où P(t=0) = 1000.3 EUR ?
+PS: J'ai fait le calcul et j'ai trouvé le même TRA que celui trouvé par Isabelle.
+
+Merci d'avance.

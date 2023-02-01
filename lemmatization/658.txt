@@ -1,0 +1,3 @@
+Bonjour , 
+ pour le question 1 de quizz , je avoir changer le gain par semaine en gain par année afin de être dans le même unité que le tae . cependant je avoir voir que dans le résolution de l’ exercice il falloir changer le tae annuel en tae hebdomadaire . pourquoi le premier méthode n' être lui pas bon ? 
+ merci de avance 

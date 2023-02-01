@@ -1,0 +1,6 @@
+Bonjour, 
+
+Voici une partie de la réponse sur laquelle je m'interroge: "Si l'obligation risquée est remboursée à 1000, le taux de rendement effectif (TRE) sera de 20.11%=1000/832.56-1; dans le cas inverse, il sera de -63.97%=300/832.56-1, ce qui donne un TRE moyen de 7.5% (logiquement égal au coût de la dette). "
+Je ne vois pas, comment on arrive à la conclusion du " ... ce qui donne un TRE moyen de 7.5% (logiquement égal au coût de la dette). "
+Fait-on une moyenne des TRE et TRA obtenus? Merci pour votre réponse. 
+Julie

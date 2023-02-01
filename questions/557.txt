@@ -1,0 +1,1 @@
+Bonjour, est-ce possible de calculer le TAEG sans utiliser le solveur ? si oui , quel est le procédé ?

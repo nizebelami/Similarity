@@ -1,0 +1,5 @@
+bonjour , 
+
+ être -ce qu' on pouvoir reprendre le raisonnement de le question 7 car dans le exemple voir pendant le cours , lorsque n qui être le durée de le rente être le inconnue , on être passer par le formule suivant : le valeur que je cible être égal à flux futur de montant pendant n année et le formule CF * ( ( 1+r)^N-1)/r pour ensuite appliquer le fonction ln à équation . quand je regarde le formule utiliser pour avoir le bon réponse ce être exposer -n ( je ne comprendre pas pourquoi ) . 
+ merci de votre aide . 
+ Melissa 

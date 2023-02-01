@@ -1,0 +1,9 @@
+Bonjour , 
+
+ je ne parvenir pas à calculer le tri de : 
+ VAN = -150000 plus 31500/(8%-2 pourcent ) = 375000 euro   — >   tri = 23 pourcent 
+ j’ obtenir systématiquement 21 pourcent . 
+
+ pourriez vous développer votre calcul svp ? 
+
+ merci . 

@@ -1,0 +1,5 @@
+Bonjour,
+
+Dans la question 9, je ne comprends pas l'origine du 1,6667 utilisé pour calculer la prime de risque. Pourriez-vous clarifier?
+
+Merci!

@@ -1,0 +1,4 @@
+Bonjour , 
+ je ne comprendre pas pourquoi ici on divise dans un premier temps 5.7/12 et que l' on n' utilise pas le formule de type r=[(1+rn)^(1 / n)]-1 ni pourquoi nous ne faire pas le taeg de le même manière que voir dans le vidéo mais que nous passer par le teg 
+ BàV 
+ Romane 

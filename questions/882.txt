@@ -1,0 +1,7 @@
+Bonjour,
+
+Comme évoqué par Bruno dans la vidéo 1, serait-ce possible de comprendre (avoir un cas illustré si possible) quand est-ce que le Béta est inférieur à 0 svp ?
+
+Merci d'avance,
+
+Nicolas

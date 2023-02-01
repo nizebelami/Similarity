@@ -1,0 +1,28 @@
+Bonjour , 
+
+ dans le vidéo 8 , on trouve un exemple de illustration de calcul de taeg pour un montant de 1000 euro . 
+
+  - je me pose le question de le utilité de mentionner que " le principal et le intérêt être payable en fin de année " . 
+
+ en effet , le premier précision être que il se agir " de un prêt sur un an au tap de 9 pourcent avec capitalisation mensuel de intérêt " , ce qui définir déjà le type de crédit et son durée . on pouvoir alors déjà dresser le table de mensualité exiger par ce crédit ou calculer un tae à ce tap mensuel . 
+
+
+ dès lors , puisque il se agir de un prêt sur un an et que le tae avoir être calculer , il suffire de calculer le vf après un an à intérêt composer pour savoir ce que aller coûter le intérêt après un an . 
+
+ que " le principal et le intérêt être payable en fin de année " ne changer selon moi rien puisque le crédit avoir être définir comme un tap mensuel et que donc le mensualité être figer dès le départ . qu' il falloir le rembourser chaque mois , chaque semestre ou 2 an plus tard ne changer rien ... ou bien être je complètement à côté ? 
+
+
+ ---------- 
+
+
+  - dans ce exemple , quel être le mensualité à rembourser ? 
+
+ peut on faire : 
+
+ mensualité = 3000 sur 12 plus 3000 * ( 9 pourcent sur 12 )     ? 
+
+ qui devenir , dans le cas de un prêt sur 2 an à même condition : 
+
+ mensualité = 3000 sur 24 plus 3000 * ( 9 pourcent /12 )    ? 
+
+ merci de me éclairer ... 

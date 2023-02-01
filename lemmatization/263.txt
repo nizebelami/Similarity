@@ -1,0 +1,12 @@
+Bonjour , 
+
+ sur le question 4 , pour déterminer le taeg , je avoir plutôt procéder comme dans le vidéo , à savoir sans passer par le calcul intermédiaire de un mensualité , mais parvenir à résultat différent sans en trouver le raison . mon raisonnement : 
+
+  1 . calcul de le VF de le ensemble de mensualité , à partir de tpp = tap/12 pour actualiser sur 15 mois : 
+            VF = 800 * ( 1 plus 5,7%/12)^15 = 858,9348 euro 
+  2 . calcul de un taux mensuel effectif global TMEG en égaliser le * * vf de montant emprunté net de frais * *   et le * * vf de mensualité futur * * précédemment calculer . 
+ puisque VF = va * ( 1+r)^n ,      alors    858,9348 = ( 800 - 25 ) * ( 1 plus tmeg)^15   
+ ce qui donne un TMEG = 0,68788 pourcent 
+  3 . calcul de taux annuel effectif global 
+ taeg = ( 1 plus tmeg)^12 - 1 = 8,57 pourcent 
+  4 . = > où être le erreur dans le raisonnement ? merci de avance pour votre éclairage . 

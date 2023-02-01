@@ -1,0 +1,3 @@
+Bonjour,
+dans la correction de l'exercice 1, je n'ai pas compris le calcul des valeurs futures qui devrait être FV=a((1+i)^n−1)/i .
+Merci de votre retour.

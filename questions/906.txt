@@ -1,0 +1,3 @@
+La formule n'est pas écrite dans sa totalité.
+Malgré tout, la réponse intermédiaire est exacte.
+Par contre, pour la réponse finale, j'obtiens 130 070 et non 137 083,82

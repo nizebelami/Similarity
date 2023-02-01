@@ -1,0 +1,4 @@
+Bonjour, 
+Pour la question 3, je n'arrive pas à saisir pourquoi on calcule le prix de l'action en t=4 sur base des dividendes de t=5 ?  la croissance de 5% vient à partir de l'année 5. 
+Merci pour votre éclaircissement. 
+Valérie

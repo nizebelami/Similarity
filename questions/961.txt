@@ -1,0 +1,7 @@
+Bonjour Marie-Ange,
+
+Pour le calcul, les créances clients, dettes fournisseurs ou stocks sont généralement exprimés en fonction du CA. lorsque le CA d'un projet subit un effet de cannibalisation, est-ce que le utilise ce nouveau CA (CA initial - effet de cannibalisation) pour déterminer les créances clients ou autres et partant le BFR ou je conserve le CA initial (de sorte que l'effet de cannibalisation n'a pas d'influence sur la détermination du bfr) ?
+
+Merci d'avance pour tes explications.
+
+Bien à toi.

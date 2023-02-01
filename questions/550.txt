@@ -1,0 +1,5 @@
+Bonjour, 
+
+Quand je calcule la VAN, j'obtiens 35973 via la formule d'une rentre croissante. Comment obtenez-vous la bonne réponse? N= 5, cf1= 8000, R= 2%, G= 5%. 
+Merci pour votre explication,
+Julie

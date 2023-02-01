@@ -1,0 +1,8 @@
+Bonjour, 
+Il a quelque chose  que je ne comprends pas dans la réponse :
+
+"La valeur de l'action en t=4 devrait être de 189.67=13.28/(12%-5%). La valeur du titre en t=0 devrait s'établir à 123.23=2/1.12^3+2/1.12^4+189.67/1.12^4"
+
+Les 13,28 proviennent d'un dividente distribué dans la 5eme année , hors dans la dernière ligne il est utilisé avec l'exposant 4 et non 5, pourquoi ?
+
+d'avance merci.

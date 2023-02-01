@@ -1,0 +1,5 @@
+Bonjour , 
+ je être troubler par le calcul de le variance : pouvoir vous expliquer pourquoi on divise par ( n-1 ) ? 
+ si je prendre un série simple : 1 ; -1 ; 1 ; -1 par exemple , je me retrouve avec un espérance nul , et je m attendre à un variance égal à 1 . si je prendre le formule de le vidéo , je tombe sur 4/3 . 
+ y avoir   t il un nombre d échantillon minimum avoir partir de lequel le formule être applicable ? 
+     Laurent 

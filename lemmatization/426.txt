@@ -1,0 +1,3 @@
+Bonjour , s' il vous pler , je ne comprendre pas comment on trouve r dans : 40000 = 15000 × ( 1 - 1/(1+r)^4 / r ) = 18.45 pourcent mais je ne comprendre pas comment je trouve le 18.45 pourcent ce être à dire r ? 
+
+ merci de avance 

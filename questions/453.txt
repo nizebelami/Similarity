@@ -1,0 +1,5 @@
+Bonjour,
+
+Est-ce qu'il y a une autre méthode de calcul pour déterminer TAEG que par uniquement intermédiaire du taux par période et son taux équivalent global ?
+
+Merci

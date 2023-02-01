@@ -1,0 +1,8 @@
+Bonjour,
+
+Si l'énoncé est clair pour une réponse correcte en valeur, soit "valeur d'1 euro en dollars", les réponses sont indiquées autrement.
+Elles sont notées en xyz EUR/USD, soit valeur en EUR pour 1 dollar, ce qui est l'inverse et prête donc à confusion !
+
+Ceci dit, il faut être très prudent avec les taux de change, car dépendant des places financières, mais aussi selon la monnaie dans un même tableau, les notations peuvent être différentes.
+
+BV

@@ -1,0 +1,13 @@
+Bonjour , 
+
+ je ne comprendre pas comment procéder pour trouver le taux . 
+
+ de abord , falloir il calculer tre à partir de valeur nominal dans le tableau 1 ? 
+
+ Puis , falloir il comparer par rapport à taux donner à le année 1 ou en fonction de tout le année ? 
+
+ de avance , je vous remercier pour le aide car je avoir beau chercher , je ne voir pas dans le mooc un exercice similaire et à nouveau , le tp ne permettre pas de me donner un piste pour trouver le mode opératoire adéquat . 
+
+ très cordialement , 
+
+ VLB 

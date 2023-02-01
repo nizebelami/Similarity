@@ -1,0 +1,7 @@
+Bonjour,
+
+En m'aidant d'autres postes, je suis parvenu à répondre à la question 5. Cependant, l'allure de mon graphique est totalement différente. Et jamais la VAN ne redevient positive
+![][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1492251207604039.jpg

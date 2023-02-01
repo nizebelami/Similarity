@@ -1,0 +1,3 @@
+Bonjour,
+
+Je suis complètement bloqué sur l'exemple un peu plus compliqué des emprunts. Pour recalculer un rachat, on nous demande de calculer le solde restant dû. Cependant, la vidéo montre à un moment un chiffre de 127. D'où vient ce chiffre? J'ai essayé de recalculer par différents moyens et je ne trouve absolument pas. Comment calculer un SRD à partir de la formule? Merci d'éclaircir de point.

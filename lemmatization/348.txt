@@ -1,0 +1,4 @@
+Bonjour , 
+
+ àla premier question de quizz je obtenir bien 9546,21 dans mon tableau de ammortissement Excel . cependant , je n' obtenir pas 0 en srd fin de période ( 20 ) , mais ce chiffre là : -4,63842297904193e-10 
+ mon va après le 20 période retomber bien quant à lui à 200000 . 

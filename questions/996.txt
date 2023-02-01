@@ -1,0 +1,4 @@
+Bonjour,
+Je fais et refais les calcules avec les deux méthodes (solveur et valeur cible) et je trouve 16 (0.16%) pour le taux d'actualisation !.
+Je n'arrive pas à trouver le prb ?
+Merci pour votre aide

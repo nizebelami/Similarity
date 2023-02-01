@@ -1,0 +1,5 @@
+Bonjour , 
+
+ dans le solution à le question 5 pour le calcul de replacement de coupon percevoir vous donner un formule raccourcir qui évite de élever à le puissance le facteur de capitalisation tout lpour chaque année . en effet au lieu   de écrire 15.30%= 3+(3 plus 1.01)^4+(3 * 1.01)^3+ ... +(3 * 1.01 ) vous donner comme solution abréger : 15.30%=3%*((1 plus 1%)^5 - 1)/1 pourcent . je savoir que se être un connaissance purement mathématique mais cela me être très utile de comprendre le cheminement entre le 2 formule . 
+
+ merci par avance 

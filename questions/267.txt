@@ -1,0 +1,7 @@
+J'ai refait plusieurs fois l'exercice et je tombe toujours sur la même réponse, qui n'est visiblement pas la bonne. Mon raisonnement :
+1. Calcul des CF du prêt de 30 ans = 1X4X,42€
+2. PV de ceux-ci = SRD = 18X3XX,77€
+3.  J'ajoute les 3000€ et calcule les CF du prêt de 20 ans = 1X08,51
+4. Je fais la différence des CF = 2X3,73€
+5. PV (VA) de ceux-ci = une réponse qui figure dans les possibilités mais qui n'est pas la bonne.
+Je ne comprends pas où je fais l'erreur? Je suis bloqué. Merci d'avance.

@@ -1,0 +1,7 @@
+Bonjour, 
+
+C'est surement simple, mais je ne comprend pas pourquoi dans l'illustration  de YoukiLeaks, comme on sait que le levier est de 1 (Valeur de la dette / valeur des capitaux propres = 1), pourquoi est-ce que, dans la formule du CMCP qu'on reprend ensuite, la valeur des capitaux propres / valeur de la dette + valeur des capitaux propres est = 0.5?  
+
+Merci beaucoup, 
+
+Noémie

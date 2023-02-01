@@ -1,0 +1,6 @@
+Bonjour 
+
+Cette question peut paraitre plutôt basique, mais pouvez vous m'expliquer pourquoi lorsque l'on veut obtenir le taux de rendement annuel, on effectue ce calcul (surtout pour la fraction en exposant et le fait de diviser le résultat par 100):
+(113.4169/100)^(1/5)-1
+
+D'avance je vous remercie

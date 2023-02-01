@@ -1,0 +1,4 @@
+Bonjour
+pour l'exercice de calcul de N période du flux. j'ai trouvé la réponse par autre moyen mais je veux comprendre la démonstration de la transformation de la puissance en équation linéaire. -N=ln0,7/ln1,06, soit N=6,12
+
+Merci

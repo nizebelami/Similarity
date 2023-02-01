@@ -1,0 +1,7 @@
+Bonsoir,
+j'ai relu avec soin toutes les discussions se référant à cette question 1. Cela m'a aidé à corriger certaines de mes erreurs. Cependant, j'ai encore quelques zones d'ombre sur mes chiffres et sur l'actualisation de la valeur terminale.
+1. Bien que j'ai suivi vos conseils dans les questions des camarades, je trouve une VT=16 254,17. Du coup, ma VAN me donne 8 527,22 alors que tous mes résultats précédents sont exactement ceux que vous avez présenté dans la correction.
+2. Est-il juste de calculer la VT de cette façon : 830/(10.36%-5%) et l'actualiser sur 5 ans au lieu de 830*(1+5%)/(10.36-5%). Si non, pourquoi ?
+3. Pourquoi l'actualisation de de la VT n'est pas calculer comme suit : 830*(1+5%)/(10.36-5%), n'est pas actualiser sur 6 ans, mais sur 5 ans ?
+J'ai tout de même envoyé mon fichier excel sur financeandstrategy7777@gmail.com, mail que j'ai pris dans les conversations précédentes, au cas où vous jugeriez de le regarder.
+Merci d'avance!!!

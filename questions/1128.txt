@@ -1,0 +1,5 @@
+Bonjour,
+Pourquoi utilisez-vous le CMPC après impôt pour calculer la valeur terminale, et non pas le CMPC avant impôt ? Car en faisant comme cela on a l'impression de "toucher aux cash flow du projet" et vous avez dit "jamais jamais jamais" :-)
+*"4. On doit aussi déterminer le CF de l'année 6 qui nous permet d'évaluer la "valeur terminale" du projet à l' année 5 (VA des CF futurs): 830*(1+5%)/(10,36%-5%)=16254"*
+Merci
+Laurent

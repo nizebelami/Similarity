@@ -1,0 +1,4 @@
+Bonjour,
+Dans la vidéo sur le calcul du montant de la rente (à exactement 2min54) je dois avouer que je ne comprends pas comment vous passez d'un exposant positif à un exposant négatif. Pourriez-vous montrer le raisonnement de tout le calcul?
+
+Merci d'avance!

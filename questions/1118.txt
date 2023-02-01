@@ -1,0 +1,17 @@
+Bonjour,
+
+Pourriez-vous SVP m'expliquer pourquoi on a supposé que le prochain dividende n'allait pas varier l'hors du calcule du nouveau taux de croissance ?
+
+Après le calcule du rcp, pour déterminer le nouveau taux de croissance g', il m'a paru plus logique d'utiliser cette formule : 
+
+P'= D0*(1+g') / (rcp-g')
+
+avec:  
+D0 = 2.15      
+P'=32  
+rcp =8.97%   
+Je retrouve g'=2.11%
+
+Cordialement,
+
+Simo

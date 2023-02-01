@@ -1,0 +1,2 @@
+Bonjour,
+J'ai constater que pour le calcul de la valeur future lorsqu'on est en milieu d'année N, on se met en fin d'année N-1. Je me trompe?

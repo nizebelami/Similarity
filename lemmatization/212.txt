@@ -1,0 +1,3 @@
+Bonjour , 
+
+ dans le solution proposer de pourcentage de salaire à consacrer " chaque année " pour constituer le épargne nécessaire à 67 an , le formule utiliser prendre en compte le fait que ce être le pourcentage de salaire de base ( à 30 an ) qui augmente de 4 pourcent et non le salaire dans son totalité . ce dernier aller en effet augmenter plus vite que ce pourcentage proposer en t=0 ( le solution donner ) puisque le salaire être plus gros que ce pourcentage . le part à consacrer n' être donc pas fixe mais diminue dans le temps ? 

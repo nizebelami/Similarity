@@ -1,0 +1,2 @@
+exercice 5 : 
+ en essayer de retrouver mathématiquement , à partir de un système de équation à 3 inconnu , je trouve le coefficient de réplication suivant : x=1(ligne 1 ) y=1/4 ( ligne 2 ) et z=1/4 ( ligne 3 ) . tout le colonne vérifier le coefficient . sauf que le prix AOA être de 373.75 . au lieu de 186 . 

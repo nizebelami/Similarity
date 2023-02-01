@@ -1,0 +1,9 @@
+Bonjour,
+
+D’après ce que j’ai compris des leçons précédentes, il est possible de réaliser une vente à découvert seulement en passant par un emprunt sans risque. 
+
+Si c’est correct pourquoi est-ce que ceci n’est pas pris en compte dans le calcul, comme il a été fait dans la question 7 ?
+
+Cordialement,
+
+Simo

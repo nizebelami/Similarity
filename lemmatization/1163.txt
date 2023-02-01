@@ -1,0 +1,11 @@
+Bonjour , 
+
+ dans le solution de le question 2 , ce calcul être indiquer :   " 850*((1-(1 plus 0.565%)^-180)/0.565 pourcent ) , soit 95844.88 " 
+
+ cependant , lorsque je faire le calcul à le calculatrice , sur le tableur et même en recréer le tableau de amortissement depuis le début , je obtenir systématiquement le réponse suivant :   95874,72764 
+
+ je avoir beau essayer tout le méthode , je n' obtenir pas le même réponse que celui indiquer dans le solution . se agir il de un erreur dans mon calcul que je ne percevoir pas ou être il possible que le calcul dans le solution être erronner ? 
+
+ merci de avance pour votre réponse ! 
+
+ Lucas w 

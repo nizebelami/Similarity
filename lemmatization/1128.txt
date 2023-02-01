@@ -1,0 +1,5 @@
+Bonjour , 
+ pourquoi utiliser -vous le cmpc après impôt pour calculer le valeur terminal , et non pas le cmpc avant impôt ? car en faire comme cela on avoir le impression de " toucher à cash flow de projet " et vous avoir dire " jamais jamais jamais " :-) 
+ * " 4 . on devoir aussi déterminer le cf de le année 6 qui nous permettre de évaluer le " valeur terminal " de projet à l ' année 5 ( va de CF futur ): 830*(1 plus 5%)/(10,36%-5%)=16254 " * 
+ merci 
+ Laurent 

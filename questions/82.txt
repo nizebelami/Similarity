@@ -1,0 +1,1 @@
+Dans les cours, vous indiquez que le taux d'indexation g doit être inférieur au taux annuel pour les rentes croissantes, alors que dans ce dernier exercice,  j'ai raté mon premier essai parce que vous avez considérez que le taux d’indexation g=4% qui est supérieur au taux annuel de 2%. Ce que je ne comprends pas, aidez-moi dans ce cas, merci.

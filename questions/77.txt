@@ -1,0 +1,2 @@
+Bonjour, j aimerais savoir ou est le probleme dans mon raisonnement de calcul du TAE.
+J'ai calculé les interêts chaque années; ensuite je les ai capitalisés à l'année 4 en prenant en compte les taux de chaque années. j'ai sommés mes flux pour avoir la VF à l'année 4. De là j ai dégagé un taux d'interet (VF-VA / VA) sur 4 et en appliquant la formule j'ai trouvé son équivalent annuel. faudrait il passer autrement?

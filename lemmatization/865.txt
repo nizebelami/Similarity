@@ -1,0 +1,11 @@
+Bonjour , 
+
+
+ - à 03:47 , on établir   un nuage de point lier à le euronext 100 et à le société Michelin . confirmer vous que , pour tracer ce graphique , on reprendre le donnée de rendement mensuel de tableur montrer à 01:11 , auxquels avoir avoir retirer le taux sans risque afin de obtenir un couple ( prime de risque euronext 100 , prime de risque Michelin ) pour chaque mois ; couple ensuite remettre sur le graphique ? je avoir tenter le exercice pour le premier ligne de tableur mais je ne retrouve pas de point à le endroit attendre sur le graphique . 
+
+ toujours sur ce graphique , falloir il que le société examiner ( ici , Michelin ) faire partie de le indice de marché utiliser ( ici , euronext 100 ) pour tracer le graphique ? 
+
+ - A 10:52 : être -ce que le facteur commun être il bien ici le euronext 100 ? 
+
+
+ merci pour votre éclaircissement . 

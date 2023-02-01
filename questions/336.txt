@@ -1,0 +1,11 @@
+Bonjour,
+
+afin de calculer des TRA j'aimerais utiliser EXCEL.
+Seulement, j'ai la version en néerlandais.
+Pourriez-vous me dire quelle est l'équivalent de la formule du TRA dans la version néerlandaise ?
+Serait-ce REND.VERVAL ?
+Je ne trouve pas la réponse sur Google.
+
+Merci d'avance !
+
+An

@@ -1,0 +1,10 @@
+Bonjour madame,
+
+Je suis actuellement bloqué pour trouver la VAN de la question 1, j'ai trouvé le bon COC ainsi que le CMPC après impôt, mes CF correspondent aussi aux explications de la solution, mais après avoir actualisé et additionné toutes mes VA, je n'arrive pas à la bonne VAN. Je suppose que mon erreur se trouve au niveau du facteur d'actualisation, mais je n'arrive pas à savoir où ? Je mets en copie une image de mon tableau, pourriez-vous m'expliquer ce qui ne va pas ?
+
+Merci d'avance.
+
+![][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1586430697584674277775.png

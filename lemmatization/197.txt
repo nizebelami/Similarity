@@ -1,0 +1,2 @@
+Bonjour , 
+  je avoir un question sur le question 3 de quiz . mon va de gain par mois dans tout le tableur et calculatrice que je avoir utiliser être différent de celui trouver dans le solution proposer ( 239,12*(1-(1 plus 0,234%)^(-240))/0,234%= 43872.38 et non 43850,11 . je avoir pourtant utiliser le même démarche . je aimer avoir beaucoup plus de info svp . 

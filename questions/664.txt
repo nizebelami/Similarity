@@ -1,0 +1,15 @@
+![excelfile qst 5][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1552140323277959.png
+
+
+Bonjour, 
+je ne comprends pas pourquoi mon graphique est complètement différent de la solution.
+
+Dans C29, j'ai mis la formule de NPV = 46221034%
+Dans C30, j'ai mis l'autre formule de VAN: =-10000000+(1000000/0,05*((1-(1+0,05)^(-20)))-100000/0,05)=462210,3425
+Selon moi, aucun des 2 sont juste?
+
+En-dessous j'ai mis dans C35: =NPV(B35;$C$3:$C$22)+$C$2-(100000/5%) mais la graphique ne ressemble pas du tout a la solution?
+Merci d'avance

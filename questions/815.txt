@@ -1,0 +1,4 @@
+Bonjour,
+La formule de Gordon et Shapiro pour estimer le prix de l'action ne tient pas compte du prix de revente de celle-ci? 
+Merci beaucoup,
+Clara

@@ -1,0 +1,6 @@
+Bonjour,
+
+Comment trouver le nombre de période hebdomadaire sur les 3 années?
+moi je pensais faire les 3 années multipliées par le nombre de semaines annuelles...cela ne semble pas être le cas.
+
+merci

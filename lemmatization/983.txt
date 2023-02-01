@@ -1,0 +1,10 @@
+Bonjour 
+ en ce qui concerne le calcul de le VAN , j je ne parvenir pas à calculer le facteur de actualisation malgré le note expliciter le calcul : 
+ 1 diviser par 1 plus le coc exposer le nombre de année 
+
+ pour t= 1 , ce être OK que ce être 1 
+ pour le suite , je ne parvenir pas à même nombre . 
+ puis je vous demander de développer le exemple pour t=1 et t=2 par exemple afin que je me exercer pour trouver t=3,4,5 
+
+ merci 
+ Magdeleine 

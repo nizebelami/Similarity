@@ -1,0 +1,6 @@
+Bonjour. J'aimerais savoir pourquoi on a utilisé n=4 au lieu de n=1/4? 
+
+![Formule du taux effectif.][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/15205703332197334.png

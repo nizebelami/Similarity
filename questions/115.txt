@@ -1,0 +1,5 @@
+Bonsoir,
+concernant le DRA, je retrouve bien 13 mois en utilisant la formule de la VA = CF * ((1-(1+r)^-n)/r) , par contre j’obtiens un résultat différent (16 mois) en calculant une mensualité de remboursement fixe. Je ne comprends pas cette différence.
+Pourriez-vous m'éclairer svp ?
+D'avance merci,
+Alexandre

@@ -1,0 +1,2 @@
+Bonjour, dans la question 3 pourquoi devons nous utiliser le rf de 1 pourcent comme valeur pour rd? 
+Merci d'avance

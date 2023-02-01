@@ -1,0 +1,8 @@
+Bonjour,
+Je n'ai pas très bien compris la raison des 4 étapes indiquées dans les explications.
+Dans la page 2 des slides du cours sur le TAEG, il y a une illustration qui n'intègrent pas ces différentes étapes. Je me suis basé sur la méthode de l'illustration pour la question 4.
+Je ne comprends pas pourquoi la méthodologie est différente pourtant la finalité semble la même: trouver le TAEG.
+
+Pourriez vous m'apporter des explications complémentaires ?
+
+Merci bien.

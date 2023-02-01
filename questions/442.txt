@@ -1,0 +1,3 @@
+Excusez-moi mais j'ai du mal à comprendre pourquoi le flux  en T=0 d'Anémone est positif et les autres (Bégonia et Coquelicot) sont positifs. 
+Est-que cela suppose qu'il n'y a pas eu d'investissement initial? Je ne pense pas. Pourriez-vous m'expliquer la différence entre l'investissement initial et cette valeur positive, surtout dans le calcul de la VAN? 
+Je vous remercie.

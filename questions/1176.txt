@@ -1,0 +1,8 @@
+Bonjour,
+J'ai une interrogation sur la définition exacte de la structure par terme des taux d'intérêt et de la conclusion de la vidéo indiquant que "si structure par terme augmente alors TRA(n) < Taux ZC (n)".
+Quand on parle ici de structure par terme, parle t on des résultats obtenus en colonne "VA(taux ZC)" du tableau? 
+Je pensais que la structure par terme est une évolution du taux au cours du temps en fonction de la maturité (et donc exprimée en %).
+
+De plus, je ne comprends pas très bien la vidéo et notamment la partie à la minute 5min08s ("si on effectue cette actualisation de chaque flux avec la structure par terme des taux d'intérêt"). 
+
+Merci par avance pour l'éclaircissement.

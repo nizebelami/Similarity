@@ -1,0 +1,13 @@
+Bonjour,
+
+1)Dans la méthode actuarielle, P0 = D1/(1+r[cp]) + D2/(1+r[cp])²+...
+Dans ce cas pourquoi le calcul du résultat P0 = D1/(1+r) + D2/(1+r)² = 2.5/1.1 + 2.8/1.1²=4.59 n'est pas bon, et que représente t-il svp ? 
+
+2)Si on a P0 = D1/(r[cp]-g), et que g est le taux de croissance annuelle du bénéfice par action, alors 
+P1 = D2/(r[cp]-g avec g = D2/D1 -1 = 2.8/2.5 = 0.12, alors P1 = 2.8/(0.1-0.12) = -140
+
+Serait-ce possible d'avoir l'explication détaillé de pourquoi le fond de ces 2 raisonnements ne sont pas correctes svp ?
+
+Merci d'avance,
+
+Nicolas

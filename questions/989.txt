@@ -1,0 +1,11 @@
+Bonjour, j'ai deux petites questions concernant la question 3 du quiz formatif.
+
+1) Je ne comprends pas quel calcul il faut réaliser pour trouver la covariance, même en ayant regardé la vidéo à ce sujet, je ne tombe pas sur la même réponse que celle du correctif. 
+
+2) Je ne suis pas sûre de comprendre pourquoi il faut élever le calcul de la volatilité avec un exposant (1/2)
+
+J'espère que vous aurez réponse à mes questions. Je vous remercie d'avance pour l'attention que vous porterez à ma question.
+
+Bien à vous, 
+
+Lindsay Mercatoris

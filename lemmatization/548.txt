@@ -1,0 +1,14 @@
+Bonjour , 
+ dans le vidéo " estimation de le prime de risque de marché " , il être expliquer que le espérance de rentabilité de marché être estimer en prendre le moyenne arithmétique de rendement mensuel rapporter à le année . vous obtenir 5.31 pourcent . 
+
+ [ note : en aller sur Yahoo finance et en prendre le valeur historique sur le même période que celui de le vidéo : de 31/12/2010 au 02/12/2014 , je n' obtenir pas le même valeur que celui présenter dans le vidéo . être il possible de avoir le fichier Excel utiliser pour le réalisation de le vidéo ? ] 
+
+ dans le vidéo " estimation de bêta " , il être expliquer que le prime de risque de marché à être estimer en calculer le prime de de marché pour chaque observation , puis en prendre le moyenne de ce prime de risque . vous obtenir 4.33 pourcent . 
+
+ = > quell être le " meilleur " estimation de ce prime de risque de marché ? pourquoi présenter un méthode de estimation de ce prime de risque et en choisir un autre ? 
+
+ [ note : être il possible de avoir le fichier Excel utiliser dans ce vidéo " estimation de bêta " ? en effet , je ne trouve pas le même valeur pour le action Michelin en aller sur Yahoo Finance ] 
+
+ merci de avance pour votre aide 
+
+ Shifumy . 

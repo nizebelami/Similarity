@@ -1,0 +1,23 @@
+bonjour Marie-Ange , 
+
+ je me permettre de vous contacter au sujet de question 2 et 3 de quizz . 
+ je applique le formule donner dans le cours pour calculer le variance et je n' arrive pas à résultat indiquer . 
+ Pourriez vous me éclairer ? 
+
+ question 2 : 
+ je avoir calculer le rentabilité moyen : ( -1.02 pourcent -2.11 pourcent plus 12.64 pourcent +7.5 pourcent ) = 4.25 pourcent 
+ ensuite , je avoir calculer le écart à le moyenne pour chaque année : 
+ année 1 : -1.02 pourcent - 4.25 pourcent 
+ année 2 : -2.11 pourcent - 4.25 pourcent 
+ année 3 : 12.64 pourcent - 4.25 pourcent 
+ année 4 : 7.5 pourcent - 4.25 pourcent 
+ ensuite , quand je calcule le variance avec ce donnée ( multiplier par 1/3 ) , puis que je calcule le écart - type de ce résultat ( racine carré de le variance ) , je ne parvenir pas au même résultat que vous . 
+ pouvoir vous me aider ? 
+
+ idem pour le question 3 , je ne parvenir pas à aboutir au même résultat concerner le écart - type . 
+
+ je vous remercier par avance pour votre aide . 
+
+ bien cordialement , 
+
+ Caroline 

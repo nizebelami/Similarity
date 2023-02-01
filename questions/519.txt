@@ -1,0 +1,3 @@
+Bonjour Marie-Ange,
+
+J'ai réalisé le fichier de la leçon sur excel et je n'arrive pas à avoir le TRA à 3.11%. J'ai cherché en tenant compte du t=0 pour la VAN mais pas moyen de trouver avec le tableur. Lorsque je fais la fonction tri, "nombre" apparaît. j'ai compris le tableau mais je voudrai bien réussir à obtenir le TRA. D'avance merci! Bonne après-midi!

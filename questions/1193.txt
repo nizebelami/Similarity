@@ -1,0 +1,2 @@
+Bonjour,
+J'ai un souci avec mon calcul de la réduction fiscale. Pour les annuités, j'obtiens bien 15572,99 auxquelles je soustrait 6210 d'intérêt, ce qui donne un remboursement de 9362,99 et un SRD de 170637,01. Par contre, je suis perdu avec le calcul sur économie fiscale. Merci

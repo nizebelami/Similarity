@@ -1,0 +1,2 @@
+Bonjour,
+Dans la question 3, le calcul du CF n'a pas inclut le retrait du coût de l'investissement, alors que dans la question 4 le coût de l'invetsissement a été lié au calcul du CF ?

@@ -1,0 +1,12 @@
+Bonjour,
+
+J'ai une question de compréhension sur le calcul des dotations de l'amortissement dégressif. Dans la Q1 du quiz certif 2, il est écrit :
+
+"Dès que la dotation, calculée sur base de ce taux fixe et appliquée à la valeur résiduelle, n'excède plus la dotation linéaire, vous pouvez, sans aucune formalité, repasser au régime linéaire."
+a) lorsqu'on passe en régime linéaire, est ce qu'il faut actualiser la dotation du régime linéaire cad diviser le SRD par le nombre d'années restant ou conserve-t-on la dotation linéaire calculée à t0?
+
+b) "...,vous pouvez, sans aucune formalité..." => est ce que le passage de la dotation dégressive vers la dotation linéaire peut se faire à n'importe quel moment dès lors que la condition dotation dégressive<dotation linéaire est respectée? 
+
+Merci d'avance pour votre éclairage.
+
+Aurélien

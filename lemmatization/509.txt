@@ -1,0 +1,1 @@
+bonjour ! dans le correction , vous avoir omettre le coupon en t=5 lors de calcul de le valeur futur - autrement cela faire 12,18 pourcent ( remarquer que même en rajouter le coupon en t=5 dans le calcul de le valeur futur l’ arrondi être à ... , 18 ) ! de coup , le arrondi de résultat final devoir être de 53 centième . est -ce que ce être bien cela ? merci 

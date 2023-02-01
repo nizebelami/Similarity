@@ -1,0 +1,8 @@
+Bonjour,
+
+Je ne trouve à nouveau pas où se trouvent les explications de résolutions du TRA dans un solveur, sur la page du cours, comme annoncé dans la vidéo.
+Y a-t-il en fait une fonction pré-installée dans Excel permettant cette résolution ?
+Merci,
+Bien à vous,
+
+Patrick

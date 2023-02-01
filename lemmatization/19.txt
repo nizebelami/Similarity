@@ -1,0 +1,1 @@
+Bonjour , un petit question : pour calculer le prime de risque on calcule le rentabilité . je avoir imaginer que celui-ci se calculer en utiliser le flux actualiser , surtout si le flux devoir se faire sur plusieurs année . merci de votre réponse et bravo pour ce cours . 

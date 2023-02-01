@@ -1,0 +1,6 @@
+Bonjour Mesdames;
+j'ai l'habitude de calculé le montant de l’échéance constante, capital et intérêt sur Excel via les formules INTPER et PRINCPER.......le résultat obtenu est identique à celui proposer par les moteurs de recherches ou les simulations fournies par les banques sur le net
+Avec la formule du cours , le résultat est différent. Si je devais prendre en exemple le 1 er mois, le résultat du cours est de 611.12 € pour l’intérêt, alors que sur excel, il est de 625 €  
+
+veuillez s'il vous plait m'éclairer sur ce point
+Merci d'avance

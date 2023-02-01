@@ -1,0 +1,1 @@
+Je ne pas compris comment on arrive dans la resolution de l'exercise 4 au " prix qui devrait correspondre à 1/3 du prix de l'obligation plus 2/3 du prix du fonds indicé, soit (1/3*489+2/3*450) qui donne une valeur de 463".

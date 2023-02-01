@@ -1,0 +1,9 @@
+Bonjour,
+
+Dans la question 1 on demande de donner *"valeur d'1 euro en dollars, arrondie à 3 décimales"*. Ceci est décrit dans l'énoncé sous l'unité EUR/USD. 
+
+Selon moi l'unité EUR/USD représente **la valeur en euro de 1 dollar** et non pas **la valeur de 1 euro en dollar**.
+
+La réponse correcte devrait donc être 5.99 EUR/6.60 USD= 0.908 EUR/USD, car 0.908 EUR permet d'acheter 1 USD ou inversement (ou 1.102 USD/EUR, car 1 EUR permet d'acheter 1.102 USD).
+
+Est-ce que je me trompe?

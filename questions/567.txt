@@ -1,0 +1,1 @@
+Comment calcule-t-on le "g" (taux de croissance du cash-flow à l'infini) repris dans l'équation relative  à la rente perpétuelle croissante F/r-g ?

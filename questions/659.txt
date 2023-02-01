@@ -1,0 +1,3 @@
+Bonjour,
+A la question 5, la réponse "Le TRI est supérieur à 5%, le projet est rentable" est considérée comme fausse mais la réponse "Au COC de 5%, le projet est rentable" est considérée comme vrai. Je ne comprends pas pourquoi la première est fausse étant donné que le TRI est de 6%.
+Merci d'avance pour vos réponses

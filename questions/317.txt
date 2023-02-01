@@ -1,0 +1,8 @@
+Bonjour,
+
+Dans l'énoncé de l'exercice, vous dites qu'il y aura 50 000 euro à investir sur 3 ans pour développer l'activité des pralines.
+Pourquoi dans le tableau on ne prends 50 000 que pour T3 et T4 qui font 2 années ?
+
+
+Bien à vous,
+Killian

@@ -1,0 +1,2 @@
+bonjour
+j'aimerais savoir pourquoi les 20000 des frais d'étude n'ont pas été calculés à t=0, et pourtant ils ont été calculés dans la video 4 de la leçon 9.  J'aimerais comprendre aussi l'intervention de la 5eme année dans le calcul?

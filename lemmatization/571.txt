@@ -1,0 +1,18 @@
+Bonjour , 
+
+ je ne savoir pas si ce forum être encore actif mais au cas où ce être le cas , voici mon question . 
+
+ être -ce que mon raisonnement être correct : 
+ pour savoir à combien se élever le capital -retraite nécessaire pour assurer un rente de 18 terme de 12 000 euro , je calcule ce rent . année 0 = 67 an . 
+ je obtenir comme va 155 045,5328 
+
+ je calcule ensuite le va de ce somme en t=0 ( 30 an ) , en diviser par ( 1 plus 3,75%)^37 
+
+ ensuite je calcule le CF en diviser le résultat par ( 1-(1,375 ^ -37))/3,75 pourcent ) 
+
+ Est ce que ce raisonnement être correct ? pourquoi être -ce que je n' obtenir pas le bon résultat ? 
+
+ merci à vous 
+
+ bien à vous , 
+ Virginie Paret 

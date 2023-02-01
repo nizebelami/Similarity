@@ -1,0 +1,6 @@
+Bonjour , 
+
+ je n' arrive pas à résoudre le égalité suivant en utiliser le solveur Excel : 775=55.38*(1-(1+teg)^-15)/teg 
+ quell être le méthode à suivre ? 
+
+ merci de avance 

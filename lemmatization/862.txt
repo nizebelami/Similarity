@@ -1,0 +1,5 @@
+Bonjour , 
+
+ avoir le question 5 ,   je obtenir le VAN économique de projet sans prise en compte de financement en faire le opération suivant : -1000 plus 413/(1 plus 12%)+311/(1 plus 12%)^2 plus 321/(1 plus 12%)^3 plus 105/(1 plus 12%)^4 plus 114/(1 plus 12%)^5 = -23425,18 . ce réponse n' être pas correct mais je n' arrive pas à trouver mon erreur , pouvoir vous me aider svp ? 
+
+ merci , bien à vous 

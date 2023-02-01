@@ -1,0 +1,12 @@
+Bonjour, 
+
+Tout d'abord je voudrais vous remercier pour ce cours très bien construit et enrichissant. 
+
+Lors de la résolution de l'exercice 4, j'ai rencontré un petit problème car je n'ai pas réussi à trouver de CF cohérent avec les réponses proposées pour l'année 1 bien que le calcul semble fonctionner pour l'année 2. De plus, il semblerait d'après la correction que la réponse attendue pour l'année 1 ne figure pas parmi les 4 propositions... 
+Est-ce dû à une mauvaise interprétation de ma part ou une coquille se serait-elle glissée dans l'énoncé ?   
+
+Merci d'avance,
+
+Cordialement,
+
+Audrey

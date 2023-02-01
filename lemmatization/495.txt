@@ -1,0 +1,2 @@
+Bonjour , 
+ dans le calcul de un VAN , on avoir tjrs retirer au coût de projet le valeur actualiser de CF en le diviser par ( 1+r)^n . or , ici , on divise par 7 pourcent = > ? 

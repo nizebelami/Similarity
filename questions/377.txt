@@ -1,0 +1,8 @@
+Bonsoir,
+
+Je suis en train de préparer un calcul de VAN ajustée, à une application en dehors du cours.
+Dans le cours et les exercices que nous avons fait, les économies fiscales  sur les charges financières d'intérêt,  actualisées au taux de la dette  sont prises en compte dans le calcul de la VAN A.
+
+Mais les charges d'intérêt d'emprunt en elles mêmes doivent elles prises en compte dans le calcul du Cash Flow ?  
+
+Merci de vos lumières !

@@ -1,0 +1,2 @@
+bonjour , dans le exercice 5 je trouve pas le meme valeur pour le taux réel , pouvoir vous me expliquer comment avoir vous faire pour trouver ce valeur de taux : 1.97 pourcent 
+ moi je avoir faire ce calcul :   2000/(1+r)+2000/(1+r)^2 +15000/(1+r)^3 = 53000 et merci 

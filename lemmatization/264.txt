@@ -1,0 +1,5 @@
+Bonjour , 
+
+ dans le question 7 , le réponse indique que on obtenir le équation suivant : -n = ln 0,7 sur ln 1,06 et je aimer savoir comment on obtenir le 0,7 ? 
+
+ en effet , en me baser sur le formule de le vidéo , je obtenir plutôt ln ( 1,06)n = ln ( 1 plus   0,06 . 5 ) et donc n = ln 1,30 sur ln 1,06 . ce qui me fait obtenir le réponse de 4,33 et donc un erreur . 

@@ -1,0 +1,2 @@
+Bonjour, 
+quand je calcule 3000*45.69 mon résultat est 137070 et pas 137083.82

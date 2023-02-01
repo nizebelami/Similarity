@@ -1,0 +1,19 @@
+Bonjour, 
+
+J'ai aussi des problèmes pour comprendre la solution de l'exercice no 6.
+
+Pour pas dévoiler tout l'exercice, je vais juste prendre le projet 1 en exemple. 
+
+Dans la solution, vous nous dites que le TRI est de 8 % et ensuite que le COC est de 5 %.
+(J'ai trouvé les chiffres que vous donnez donc)
+
+Ensuite plus loin dans la solution, vous dites que pour les projets 1 et 4, le COC est supérieur au TRI ?????   
+
+Là, je comprends plus. 
+
+D'ailleurs, en dehors des chiffres du COC et du TRI, que j'ai trouvé identiques, le reste des affirmations de la solution, je n'y arrive pas, même avec la solution. 
+
+Pourriez-vous m'éclairer svp ? 
+
+Merci d'avance.
+Eric

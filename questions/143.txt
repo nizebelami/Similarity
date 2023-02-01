@@ -1,0 +1,17 @@
+Bonjour,
+
+A la fin de la vidéo 2, sur la ligne du temps, il est mis que la valeur de l'obligation est de 100,03% en t = 0.
+"Alors à la date d'aujourd'hui, le 28/10/2014,  l'obligation a été négociée à un prix de 100,03%, toujours de la valeur nominale."
+
+Or, plus avant dans la vidéo, il est fait état du prix d'émission, à la même date, qui était fixé à 99,163%. "Ce qui veut dire que, pour une coupure de 1000 euros, lors de l'émission, l'investisseur a payé à l'état roumain 991,63 euros. Ensuite, cette obligation est négociée dans le marché. Et lors de la première journée de cotation, vous voyez qu'à un moment donné, son prix
+s'est établi à 100,03%."
+
+Ma question est double:
+
+- Quelle est la qualité de l'investisseur qui aurait payé à l'état roumain 991,63 EURO par action ?
+
+- Est-ce bien la valeur 'à un certain moment de la première journée de cotation', ici 100,03% qui est prise en t = 0 ?
+
+Merci de bien vouloir éclaircir,
+
+BV

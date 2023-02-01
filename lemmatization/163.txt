@@ -1,0 +1,6 @@
+Bonjour , 
+ dans le vidéo numéro 3 dans le cas de calcul scénario 2 " levier différent , supposer constant " , je ne comprendre pas comment on avoir calculer 1/3 vd sur Vd+Vcp (= > un part de le dette dans le ensemble de source de financement ) . 
+
+ quand mon levier être de 0.5 , comment je définir le part de le dette dans le ensemble de source de financement ? on avoir le même chose dans le vidéo précédent où quand on avoir vérifier le cmpc avec le levier 1 , le ratio vd / Vd+Vcp être de 0.5 et le ratio vcp / vcp+vd aussi 0.5 . je avoir mal à comprendre pourquoi , aussi .. merci de avance pour le explication . 
+
+ Simona 

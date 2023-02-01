@@ -1,0 +1,11 @@
+Bonjour,
+
+Dans le quiz 3 j'ai utilisé directement les TAE et calculé donc les annuités constantes. Je me suis dit ça faciliterait les calcules en raisonnant en année (dans ce cas). 
+
+Est-ce que c'est correcte ?
+
+Je me pose la question car j'ai trouvé une petite différence dans le résultat final.
+
+Merci,
+
+Simo

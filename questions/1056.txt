@@ -1,0 +1,3 @@
+Bonjour, 
+Je ne comprends pas la différence entre VA= VF / (1+r)^n et VA rentes constantes. 
+Pourquoi et quand choisir lune ou l'autre dans cet exercice?

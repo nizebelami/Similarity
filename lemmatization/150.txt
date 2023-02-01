@@ -1,0 +1,6 @@
+Bonjour , dans le video sur le diversification n tirer , vers 1min45 , le prof ecrit somme ( xi)=100 pourcent . 
+ je ne comprendre pas ce égalité , pouvoir vous le détailler svp ? de mon comprehension , xi être le repartition de titre i dans le portefeuille comme le être xj pour le titre j. Cad xi+xj=100 pourcent dans le cas de 2 titre et donc pour n titre on avoir xi+xj+xl+ ..... +xn=100 pourcent ( le somme de coef de ponderation de n titre ) . 
+
+ merci de avance pour votre explication 
+
+ Aurelien 

@@ -1,0 +1,12 @@
+Bonjour , 
+
+ je ne comprendre pas ce partie de le explication : 
+
+ pour le branche a :   valeur=40/(7.4%-3%)=909 
+
+ pour le branche b :   valeur=85/(12.2%-5%)=1181 
+
+ On dire le formule de Gordon et Shapiro , mais ce n' être pas un dividende ? 
+
+ bel journée , 
+ Virginie 

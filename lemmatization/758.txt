@@ -1,0 +1,13 @@
+en fait , en suivre un autre raisonnement ( mais je raisonne pourcent à le année ) , je ne savoir pas pourquoi je ne pouvoir pas trouver votre même résultat de 10,11 pourcent . je me explique et merci de me préciser là où je me trompe : 
+
+ 1 ) 800 euro sur 15 mois , au TAP=5,7 pourcent ( frais de 25 euro et remboursement mensuel ) , donc tpp= 5,7 pourcent /12= 0,475 pourcent 
+
+ 2 ) , ensuite je avoir calcule le tae ( afin de pouvoir trouver le VF de le emprunt à le maturité ) , en fait TAE= ( 1 plus 0,475%)^12 -1= 5,85 pourcent 
+
+ 3 ) , ensuite j e calcule le vf sur 15 mois ( ce qui vouloir dire 1,25 an ) , donc vf= 800 x ( 1 plus 5,85%)^1,25= 858,92 euro 
+
+ 4 ) , ensuite on avoir VA= 800 - 25= 775 euro , de où 775= 858,92/(1+taeg)^1,25 
+
+ 5 ) , ( 1+taeg)^1,25= 1,1083 et par simple calcul ( via Ln ou excel solveur ) , je trouve taeg= 8,57 pourcent 
+
+ Abir ELTAIEF 

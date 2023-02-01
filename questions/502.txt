@@ -1,0 +1,11 @@
+Bonjour,
+Quand je représente le graphique dans excel, pour un COC = 0%, Excel m'affiche toujours un message d'erreur, car il refuse que l'on divise par 0 (dans la formule de la rente).
+
+Voici ma formule : =1000-400*(1-(1+A2)^(-5))/A2+800/(1+A2)^6
+
+Pourriez-vous m'indiquer comment résoudre ce problème lié en fait à l'utilisation d'excel ?
+
+![tableau][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/15215480936287115.jpg

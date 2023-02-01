@@ -1,0 +1,7 @@
+Rebonjour, 
+
+Je ne suis pas d'accord avec la résolution de l’exercice.
+
+Dans l’énoncé, il est écrit "de gagner 50€ SUPPLEMENTAIRE par semaine", le mot indique donc qu'il y avait une autre rentrée d'argent,  donc on ne peut pas connaitre le montant des flux. (ca pourrait être autant 51€ que 250 ou 1000).
+
+Donc sans montant pour calculer la rente, la réponse exacte pour moi, est "aucune réponse ne convient".

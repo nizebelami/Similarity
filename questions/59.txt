@@ -1,0 +1,19 @@
+Bonsoir,
+
+Dans la video 'AOA dans un marché concurrentiel' (10'11 - 10'18), pour la démonstration par l'absurde quand le prix est supérieur à l'équilibre, il est dit: "Mais évidemment, si on le vend aujourd'hui, et bien on perd l'opportunité de recevoir 10 000 euros dans un an."
+Et cette alternative s'arrête là. On passe directement à la solution avec vente à découvert ...
+
+Ne pouvons-nous cependant pas tout aussi bien dire:
+en t = 0 nous avons +9,900 € du fruit de la vente de notre actif et - 9,900 € pour le placement de cette recette à 3%. Il n'y a donc pas de mise de fonds initiale.
+Et en t = 1 nous avons un **coût d'opportunité** de -10,000 € car puisqu'on a vendu l'actif et nous ne pouvons plus le vendre dans un an, mais nous recevrons sans risque + 10,197 € au terme de notre placement à 3%. Il y a donc un gain.
+Finalement, les calculs donnent le même résultat, soit une VAN = 191.26 €.
+
+Alors, pourquoi la vente à découvert serait-elle la seule bonne alternative pour cette démonstration ?
+
+Je vois déjà une réponse éventuellement possible: le coût d'opportunité n'est pas un vrai 'flux', pas un décaissement, pas un cash-flow effectif. Mais est-ce pour autant que le raisonnement est erroné? Ce concept de coût d'opportunité ne s'utilise-t-il pas dans les évaluations de projets ? les 'coûts' doivent-ils toujours être de 'vrais' cash-flows, des 'flux' financiers, des mouvements de fonds  ?
+
+Il y a peut-être d'autres raisons ?
+
+Merci de vos commentaires.
+
+BV

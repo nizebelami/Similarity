@@ -1,0 +1,4 @@
+Salut , 
+ je souhaiter , pour objet de rappel savoir comment passer de le expression N*ln(1.02)=ln(1.02 * 50 ) à N=35 . 
+ dans vidéo sur le durée de le rente à 04:38 de le vidéo . 
+ merci de me aider ! 

@@ -1,0 +1,12 @@
+Bonjour,
+
+
+Dans la mise en situation, on dit que le chiffre d'affaires est attendu pour 4 ans après quoi le projet sera arrêté et un nouveau projet démarrera. J'en ai initialement déduit que le projet pour lequel on souhaite calculer la VAN a une durée de 4 ans.
+
+Or, au niveau du BFR, je vois qu'une 5e année est rajoutée pour faire retomber le BFR à 0. Le projet dure donc 1 an de plus uniquement pour le BFR.
+
+Est-ce que le fait de devoir faire retomber le BFR à 0 est-il une obligation lors de l'évaluation de tout projet ?
+
+Dans la partie théorique, l'exercice "Monsolini" avait un chiffre d'affaires attendu pendant 4 ans et des amortissements prévus pour 5 ans. Dès lors, la durée du projet était "naturellement" de 5 ans et le BFR était calculé de façon systématique pour cette 5e année.
+
+Cordialement

@@ -1,0 +1,4 @@
+Merci d'abord pour la réponse à ma première question. 
+Exercice 2 point 4
+On calcule en année 6; 15164, et ensuite  on actualise avec un coefficient de l'année 5 et non de l'année 6.
+Quelle est l'explication derrière ceci ?

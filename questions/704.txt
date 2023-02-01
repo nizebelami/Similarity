@@ -1,0 +1,8 @@
+Bonjour,
+
+Je ne comprends pas comment est calculée la Valeur Actuelle du titre dans l'explication de la réponse de la question 3.
+En effet, on actualise le montant de 189 avec un facteur 4 alors que j'aurais mis 5 en pensant c'est la valeur du titre calculée à l'année 5. Mais dans l'explication, on est en année 4. Je suis perdue... Pouvez-vous me réexpliquer pour que j'y vois plus clair?
+
+Merci beaucoup ;)
+
+Sophie

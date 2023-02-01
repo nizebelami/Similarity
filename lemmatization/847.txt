@@ -1,0 +1,7 @@
+Bonjour , 
+ pour le correction de cmpc , le premier partie vd/(vd plus vcp ) .  
+ je ne comprendre pas pourquoi dans le scénario 1 , lui donne 0.5 , apparement ce être 50 pourcent ou le moitié . mais moitié de quoi ? de levier ? 
+ de même si levier de endettement = 0.5 , vous dire que le correction ( le premier partie de calcul = 1/3 ) .   de coup si je reste sur mon idée de départ , càd si ce être 50 pourcent de levier alors le reponse être plutot un 1/4 -- > 0.5 sur 2 = 1/4 . 
+
+ Pourriez vous me expliquer ? 
+ merci ! 

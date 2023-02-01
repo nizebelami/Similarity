@@ -1,0 +1,11 @@
+Madame,
+
+Je ne comprends pas le calcul du BFR dans la vidéo 4.
+En effet, dans le tableau 3, le BFR est calculé de l'année 1 à l'année 4 et mis à 0 pour l'année 5.
+
+Par contre dans le tableau 4, le BFR n'intervient qu'en année 1 en étant déduit. Et puis à l'année 5 en étant ajouté.
+
+Je ne comprends pas pourquoi...
+Merci d'avance pour vos explications! 
+
+Sophie

@@ -1,0 +1,4 @@
+Bonjour, 
+Dans l'exercice 1, Le  CMPC = COC = 10,75 %. 
+Pourquoi le CMPC avant impôt n'est-il pas 25/35 * 0,1075 + 10/75 0,045 ?? -> tenir compte de la dette dans la détermination du CMPC, puisque l'entreprise est endettée   ?
+La droite du Medaf (reprise dans la réponse) ne donne-telle pas une valeur moyenne  pour le calcul du rendement des capitaux propres essentiellement , donc pour le calcul du rcp  et pas de l'actif  économique (le ra) mais de l'actif financier pour les actionnaires (celui  côté en bourse) ?? Merci. Pascal Gobert.

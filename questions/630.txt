@@ -1,0 +1,1 @@
+J'ai un du mal à  comprendre comment vous calculez la rentabilité espérée ? A partir de quelle hypothèse on détermine 0,5 lorsque vous calculez la rentabilité espérée ?

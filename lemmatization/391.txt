@@ -1,0 +1,3 @@
+Bonjour , 
+ dans le correction de le exercice 1 , je n' avoir pas compris le calcul de valeur futur qui devoir être fv = a((1+i)^n−1)/i . 
+ merci de votre retour . 

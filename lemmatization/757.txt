@@ -1,0 +1,5 @@
+bonsoir , 
+
+ dans le vidéo précédent , on avoir dire que le VAN être égal à le différence entre à le totalité de flux rentrant et de flux sortant . alors pourquoi , lors de le détermination de le VAN de trois projet , on le avoir additionner au lieu de le soustraire ? 
+
+ merci 

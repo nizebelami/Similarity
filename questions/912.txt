@@ -1,0 +1,11 @@
+Bonjour,
+Et comme pour beaucoup, merci pour ce cours que je débute avec un peu de retard !
+
+J'ai une question, un peu conceptuel sur le taux d'intérêt.
+De manière un peu simpliste, si j'ai 1000 euros à t=0 (ou un actif d'une valeur de 1000 euros), avec un taux d'intérêt de 10%, alors j'aurai à t = 1 an, 1100 euros (ou un actif d'une valeur de 1100 euros).
+
+Est ce que les taux d'intérêt ont une incidence sur la "valeur" de l'argent en soi ? Est-ce qu'un euro à t=0 vaut 1 euro a t=1 ?
+
+Je me demande également comment, et par qui sont définis les taux d'intérêt (marché de l'offre et la demande ? Banques centrales ?).
+
+Merci pour vos réponses !

@@ -1,0 +1,1 @@
+bonjour , j'aimerais bien apprendre la méthode utilisée pour trouver la valeur d'un taux à l'aide du solveur , surtout dans l'exemple suivant : 775=55.38*(1-(1+TEG)^-15)/TEG. Avec l'outil valeur cible, on trouve que le TEG=0.88%. et merci

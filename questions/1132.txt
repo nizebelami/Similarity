@@ -1,0 +1,6 @@
+Dans la vidéo, il est dit:
+"...En divisant la covariance des rendements de l'indice et du titre par la variance des rendements de l'indice,
+on obtient une estimation du bêta par la formule standard qui est de 1,44.
+Le bêta n'est-il pas le rapport entre covariance et carré de la variance de l' indice ?
+Par ailleurs, le coefficient de corrélation tel qu 'il semble être calculé dans le fichier excel fait apparaître la racine du produit des variances au dénominateur. De même, dans le fichier pdf sur les statistiques.Ce coefficient n'est-il pas le rapport entre covariance au numérateur et le produit des variances au dénominateur tel que défini dans la vidéo sur la diversification à 2 titres? 
+Merci

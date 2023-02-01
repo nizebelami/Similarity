@@ -1,0 +1,24 @@
+Bonjour , 
+
+ je avoir prendre connaissance de 2 réponse possible pour le résolution de ce question mais je reste avec un interrogation . 
+
+ dans le premier solution vous mentionner : 
+
+ " dans ce premier résolution , on faire implicitement le hypothèse ( rien n' être préciser dans le énoncé ) que le tap de 3.99 pourcent être aussi valable pour un flux de fréquence annuel . on pouvoir déterminer le va de votre studio pour le banque : 115000/(1 plus 3.99%)= 110587.56 . on pouvoir aussi déterminer le srd de votre emprunt . le taux mensuel être de 6.25%/12 , soit 0.521 pourcent . avec ce taux , on obtenir le srd comme suit:1110*((1-(1 plus 0.521%)^-144)/0.521%)=112253.11 . on voir dès lors que le valeur de votre emprunt être supérieur à le va de studio en cas de vente forcer . pour déterminer le mensualité minimal à partir de lequel le banque être prêt à renégocier votre financement , * * on aller égaliser le va de studio à le va de mensualité à réclamer au nouveau taux mensuel pour le durée résiduel de prêt : 110587,56 = mensualité*((1-(1 plus 0.333%)^-144)/0.333 pourcent . on obtenir alors comme valeur pour le mensualité 968**. ce être le mensualité minimal qui être réclamer par le banque " 
+
+ je avoir obtenir le bon réponse lors de mon résolution , à le exception de celui mettre en gras ... 
+ en effet , si je considérer un tap de 3,99 pourcent avec un capitalisation annuel de intérêt , je savoir que le tap = tae . 
+ ensuite je avoir calculer le taux mensuel équivalent à ce tae - > ( 1 plus 3,99%)^1/12 - 1 = 0,327 pourcent 
+ de coup , lorsque je effectue le calcul de mensualité 110587,56 = mensualité*((1-(1 plus 0.327%)^-144)/0.327 pourcent , je tombe sur 964 usd ( arrondi à le unité supérieur ) et non pas sur 968 . 
+
+ afin de vérifier mon taux de 0,327 pourcent , je avoir même refaire le calcul de le va de studio pour le banque en capitaliser au taux mensuel : 115000/(1 plus 0,327%)^12= 110587.56 . ( et je obtenir bien le même résultat ) . 
+
+ ( de plus , dans le deuxième solution le tae = 4,064 pourcent et le taux mensuel équivalent être de 0,333 pourcent . donc dans le premier solution , si le tap = tae = 3,99 pourcent , le taux mensuel ne pouvoir pas être lui aussi de 0,333 pourcent ? vu que le tae être différent ? ) . 
+
+ Pourriez vous me indiquer ou se situe mon sur mon erreur ? 
+
+ merci de avance , 
+
+ bien à vous , 
+
+ Victoria 

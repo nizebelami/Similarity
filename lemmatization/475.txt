@@ -1,0 +1,2 @@
+Bonjour , 
+ je ne parvenir pas à passer de un tap à un taeg et même si je être pas à pas le raisonnement , je ne parvenir pas à utiliser le solveur pour résoudre le problème , je avoir bien suivre le complément de cours mais appliquer au cas présent , .... et de surcroît , quand je réalise 55.38*(1-(1 plus 0.88%)^-15/0.88 pourcent , je n' obtenir pas 775 , .... je ne savoir plus par quel bout attaquer le bête . 

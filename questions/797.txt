@@ -1,0 +1,3 @@
+A la question 3, je pense que vous n'avez pas appliqué la méthode dégressive pour l'amortissement. La première année, c'est bien 20.000, la deuxième année l'amortissement se calcule sur la valeur comptable nette (VCN) qui est de 30.000, donc 12.000, mais comme 12.000 est inférieur à 16.667, il faut revenir à la méthode linéaire. Dans ce cas, l'année 2 connaît un amortissement de 16.667 et l'année 3, un amortissement de 13.333. C'est comme ça que je le comprends.
+
+Jean

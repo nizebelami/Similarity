@@ -1,0 +1,4 @@
+Dans la vidéo 8 n'y a- t -il pas une erreur?
+taux annuel de 3% ne donne pas un taux  équivalent de 0.25% mais 0.246
+Avez vous voulu arrondir à deux  chiffres après la virgule?
+Mais comme rien n'a été précisé le doute subsiste

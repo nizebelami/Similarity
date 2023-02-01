@@ -1,0 +1,2 @@
+Bonjour , 
+ dans le exemple de placement de 1000 euro avec capitalisation de intérêt en continu de 5 pourcent , on calcule " e " qui être exponentiel de 5 pourcent * 1000 . comment arrive -t on à un tae de 5,13 pourcent ? 

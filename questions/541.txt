@@ -1,0 +1,11 @@
+Bonjour,
+
+J'ai quelques petites questions car j'ai du mal à suivre le raisonnement de la résolution de cet exercice.
+
+ 1. Comment trouve-t-on la formule suivante pour le coût de la dette ? 1000/985.22-1 (en particulier la partie : 985,22-1)
+ 2. La prime de risque, c'est bien la rentabilité espérée (=coût de la dette) - le taux sans risque ? D'où le  7.5%-1.5% ?
+ 3. Quelle est la différence entre le coût de la dette et le taux de rendement effectif moyen ? Au niveau de la définition de ces concepts ?
+
+Merci d'avance,
+
+Virginie

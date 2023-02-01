@@ -1,0 +1,5 @@
+Bonjour,
+J'ai un petit soucis avec la Q5, en effet je ne parviens pas à trouver c'est le taux d'actualisation qui égalise la VAN (3000€) à la VA des flux futurs. Pourriez-vous me détailler le contenu de l'équation à résoudre.
+Merci,
+Bien à vous,
+Charles

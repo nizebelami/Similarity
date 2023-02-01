@@ -1,0 +1,13 @@
+Bonjour,
+
+Avant de calculer le TAEG j'ai essayé une autre méthode pour calculer le TEG en utilisant la formule : 
+
+VF = VA * (1+TEG)^15
+
+avec VF toujours égale à 858,93 mais avec VA égale à 775.
+
+Le résultat que je trouve (TEG=0,69%) est différent du votre (0.88%) ! Serriez-vous me dire pourquoi cette méthode de calcule est fausse SVP ?
+
+Merci
+
+Simo

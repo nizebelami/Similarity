@@ -1,0 +1,9 @@
+Bonjour
+Pour évaluer l'avantage de choisir l'emprunt avec un taux moins élevé et des frais de 3000 Euros, par rapport à conserver l'emprunt déjà engagé avec un taux plus élevé, on calcule dans un premier temps le montant des mensualités à venir dans les deux cas.
+Puis on calcule une valeur actuelle en prenant :
+- un flux égal à cette différence entre les deux mensualités
+- le plus avantageux des deux taux. 
+Pourquoi avoir choisi le plus avantageux de ces deux taux pour calculer cette valeur actuelle ?
+Aurait pu on choisir le taux le plus élevé, ou encore le taux d'un placement sans risque ?
+Ne peut on vraiment pas comparer la somme des mensualités à payer sur vingt ans entre les deux emprunts ?
+Un grand merci :)

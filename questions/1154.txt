@@ -1,0 +1,6 @@
+Bonjour,
+J'obtiens les même cash que vous -1000;413;311;321;105;114 mais en actualisant au COC de 12%
+J' obtiens une VAN de -23.272 et non -23272.
+Je ne comprends pas d'oû vient mon erreur.
+Je vous remercie 
+Bien à vous

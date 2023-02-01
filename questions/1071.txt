@@ -1,0 +1,15 @@
+Bonjour,
+
+Cette question concerne la **notion d'amortissement** abordée dans les premières vidéos de la leçon.
+Dans la première vidéo sur le résultat net, le compte de résultat est présenté comme un "film"  dans lequel *les amortissements vont être déduis au EBITDA*. C'est très compréhensible car cex flux vont faire varier le capital sur la période.
+
+Ce que je ne comprends pas, c'est que dans la vidéo suivante sur les amortissements, on *intègre ces amortissements au résultat* net par une *addition*. Or, nous savons que les amortissement représentent une perte de valeur d'un actif. 
+Dès lors, pourquoi on ne les soustrait pas ? 
+
+En définitive, faut-il les additionner ou les soustraire ?
+
+Merci d'avance pour votre préciseuse aide.
+
+Bien à vous,
+
+Margaux Malarme

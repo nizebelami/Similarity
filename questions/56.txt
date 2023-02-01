@@ -1,0 +1,24 @@
+Bonjour,
+
+Au vu de la video "Le concept d'AOA", je ne suis pas sûr d'avoir bien compris le lien entre le titre et son contenu.
+La notion d'AOA est-elle supposée être un acquis d'apprentissage de cette video ? Sommes-nous, à ce stade, supposés avoir (ne fut-ce qu'intuitivement) avoir assimilé cette notion, en connaître la définition (à défaut d'en appréhender l'utilité et / ou les tenants et aboutissants ...) ?
+
+Ensuite, dans la video "AOA dans un marché concurrentiel", il est dit (03'09 - 03'39):
+"Ce qui est important de remarquer pour l'analyse de ce projet, c'est qu'on était dans une situation où ce projet était un projet d'entreprise, qu'on était finalement le seul à pouvoir entreprendre.
+Si l'on avait fait l'hypothèse d'un marché concurrentiel, et bien une situation telle que celle-là où l'on aurait pu investir dans un actif qui aurait coûté 100 000 euros et qui aurait avec certitude rapporté 110 000 dans un an, et bien une telle situation n'aurait pas été possible."
+
+Cela m'amène à deux questions:
+
+Question 1: sommes-nous supposer savoir ce qu'est "un projet d'entreprise" et les implications de cette notion pour la compréhension de cette video ?
+
+Question 2: l'idée que dans un marché concurrentiel 'une telle situation n'eut pas été possible', est ce une conclusion à laquelle nous aurions du arriver à ce stade, ou est-ce un énoncé d'une théorie (ou un principe), qui annonce les développements suivants ?
+
+Effectivement, il n'est pas vraiment clair pour moi quel est le rôle exact du concept de l'AOA.  S'agit il d'une hypothèse ? ... de travail pour les mathématiques financières ...? Est-ce une (quasi) réalité économique?  Est-ce supposé être basé sur une hypothèse de 'comportement rationnel' (sachant que les marchés sont terriblement 'émotionnels', même au travers des programmes/modèles d'ordinateurs ... agissant sur les marchés boursiers).
+
+Par ailleurs, je me pose une question de la poule et de l'œuf: est-ce la 'loi du prix unique' qui induit le concept d'AOA, ou au contraire, est-ce une déduction de l'AOA ?
+
+Merci de bien vouloir m'éclaircir à ce sujet, si ces notions sont aussi fondamentales et constituent un des 'fils rouges' du cours.
+
+Sincèrement,
+
+BV

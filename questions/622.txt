@@ -1,0 +1,15 @@
+Bonsoir, 
+
+J'avais fait l'équation suivante pour trouver le taux d'intérêt: 150000 = 190000/(1+r)^3 puis dans mon développement :
+150000 . (1+r)^3 = 190000 ;
+150000.1^3 + 150000.r^3 = 190000 ;
+150000 + 150000.r^3 = 190000 ;
+150000.r^3 = 190000-150000 ;
+r^3 = (190000-150000)/150000 ;
+r=((190000-150000)/150000)^1/3
+je ne comprends pas en quoi mon raisonnement n'est pas correct et ne me donne pas 8,20% ?
+je comprends le raisonnement qui est indiqué dans la réponse final et j'ai choisi 8,20% car si je faisais 150000.1.0820^3 cela me donnait 190000
+mais je ne vois pas en quoi mon raisonnement n'est pas bon ?
+
+Merci pour vos éclaircissement.
+bonne soirée

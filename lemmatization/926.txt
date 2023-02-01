@@ -1,0 +1,7 @@
+Bonjour , 
+
+ je ne comprendre pas pourquoi le tpp être calculer avec k=12 ( pour TPP = tap sur k ) . 
+ dans le énoncé il être question de un durée de 15 mois , alors pourquoi le calcul être sur 12 période au lieu de 15 ? 
+
+ merci par avance , 
+ Gwenvael 

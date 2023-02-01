@@ -1,0 +1,3 @@
+Bonjour, 
+
+J'aurais voulu savoir qu'est ce qui nous permet de comparer les 2 obligations et d'utiliser le taux sans risque de l'obligation souveraine pour déterminer la prime de risque de l'obligation spéculative? À partir de quel moment ou suivant quels critères peut-on utiliser les données d'une obligation pour calculer les caractéristiques d'une autre obligation.

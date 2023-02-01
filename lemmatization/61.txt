@@ -1,0 +1,1 @@
+Bonjour , pour le dernier cf , vous noter 4400 plus 220 = 4619 , être -ce bien pour neutraliser le arrondi de 4619 ? et pourquoi lorsque l' on additionne le   valeur de remboursement de capital , nous n' arriver pas à 20.000 , mais à 19.999 ? est -ce également juste le fruit de différent approximation ? 

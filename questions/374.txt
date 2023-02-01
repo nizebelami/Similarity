@@ -1,0 +1,5 @@
+Bonjour,
+
+Je ne comprends pas pourquoi les 10.500 à la question 5 sont actualisées en ne tenant compte que du taux de 0.79% en N=5. Alors que le taux de change, est différent année après année.
+
+100*(1/1.0005+1/1.0014^2+1/1.0035^3+1/1.0051^4)+10500/1.0079^5=10491.51

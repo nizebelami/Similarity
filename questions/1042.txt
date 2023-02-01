@@ -1,0 +1,9 @@
+Bonjour,
+
+je ne comprends pas du tout la question 4 à partir de l'étape 3. il n'y a aucun exercice comparable dans les vidéos du cours théorique.
+
+De plus, il n'y a pas de vidéo pour se servir et comprendre la façon dont les calculs ont été réalisés avec l'outil valeur-cible. Ayant encore beaucoup de mal avec Excel, je ne suis vraiment pas préparé à réaliser les exercices dans de bonne condition. En somme, une vidéo comme dans la leçon précédente pour nous aider à nous familiariser avec les outils et à comprendre le raisonnement serait vraiment la bienvenue (après la fin du test bien sûr).
+
+Quant à l'exercice 5, je ne comprend pas non plus comment est obtenu les 1,97% avec l'outil valeur-cible ou le Solveur. À nouveau, une vidéo serait à nouveau la bienvenue (après la fin du test).
+
+Très cordialement,

@@ -1,0 +1,7 @@
+Bonjour, j' ai plusieurs questions concernant cette question 8.
+
+1. Le taux d'intérêt pris en compte dans le calcul de la valeur actuelle de la rente versée par l'assurance est considéré comme égal (3.75%) à celui pris en compte pour la capitalisation des versements effectués jusqu' à la retraite par l'assuré. Est-ce une hypothèse de calcul ou est ce fondé sur une réalité qui serait qu'obligatoirement, l' Assurance doit considérer le même taux?
+
+2. Si la première annuité versée par l'Assureur l'est à 67 ans, il y a donc 19 versements jusqu'à 85 ans et non 18?
+
+3. L'assuré verse-t-il une annuité à 67 ans? En verse-t-il une à 30 ans? La question 8 mentionne-t-elle précisément ces données ou est-ce implicite?

@@ -1,0 +1,4 @@
+Bonjour,
+La réponse s'obtient en calculant la valeur actuelle de la différence des rentes. La formule utilisée fait appel au taux d'intérêt relatif à l'option refinancement. Pourquoi ce taux et non pas celui du cas de base?
+Ne conviendrait-il plutôt pas de calculer la différence de la valeur actuelle de l'emprunt dans les deux cas? Comme au bout du compte, la valeur actuelle remboursée du capital est la même, la différence se joue sur les intérêts. Pourquoi ne pas calculer la somme de la valeur actuelle de chaque mensualité d'intérêt pour les deux cas et faire la différence de ces deux sommes (en corrigeant après coup du 3000 €)?
+Merci.

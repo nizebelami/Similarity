@@ -1,0 +1,6 @@
+Bonjour, 
+
+Je m'interroge sur la notation du taux de change entre deux devises. Si l'on cherche la valeur d'1EUR en USD et que cela vaut par exemple 1,5 USD, ne faudrait-il pas écrire par 1,5 USD/EUR à la place de 1,5 EUR/USD? 
+(Pour moi, 1,5 EUR/USD se lit 1,5 EUR pour 1 USD)
+
+Merci pour votre réponse

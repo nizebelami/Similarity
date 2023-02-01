@@ -1,0 +1,7 @@
+1. J'ai un problème lors du calcul des intérêts dans le tableau d'amortissement. Si le SRD du début de période est de 150.000€, et le r = 0.41%, je fais 150.000* 0,41%, j'ai comme résultat 615€ d'intérêt alors que sur les slides ça donne 611.12€. Encore une fois, il y a une différence au niveau du résultat final.
+
+2. Lors de l'ajout de la variante en fin de vidéo:
+La formule du SRD t, après le signe de sommation on retrouve le CF avec comme t + s. Pourquoi?
+
+3. De plus, concernant les calculs: lorsqu'on fait 980,75 * 127.39 ,c'est égal à 124 937,74 chez moi, et 124 933,59 sur les slides. Ou se pose le problème? 
+Et également pour le 127,39, étant le calcul de la rente unitaire au taux de 0.41%, j'obtiens 127,12 contre 127,39 sur les slides.

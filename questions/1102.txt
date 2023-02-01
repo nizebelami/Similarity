@@ -1,0 +1,6 @@
+Bonjour,
+
+Concernant la question 3, comment calculer la covariance sans passer par Excel?
+en fait, je ne comprends pas très bien comment appliquer la formule donner dans le cour?
+
+Merci

@@ -1,0 +1,7 @@
+Bonjour,
+je suis un peu perdu par ce cours (même après avoir revu 3 fois les vidéos).
+J'ai une question qui combine les Q1&Q4 du quiz formatif.
+Est-il possible de demander de calculer un TAE si on nous donne un TAP de X% avec les flux payés tous les 15 mois par exemple. Si oui, quelle serait la formule, ma question concerne le "k" dans la formule du TAE (video taux proportionnels=> TAE=(1+TAP/k)^k-1). Est ce que k=15/12?
+Etant un vrai débutant en économie, je pense avoir un problème de compréhension de ces notions.
+Merci 
+Aurelien

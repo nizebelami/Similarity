@@ -1,0 +1,1 @@
+dans l'exercice 2 on a la relation suivante VAN(r)=600-(1-(1+r)^(-5)/r+900/(1+r)^6 si r=0 cette fonction n'est pas définie mais dans la solution que vous avez présentée vous avez donné deux valeurs de r pour que VAN(r) d'annule soit : r=0 et r=19,08 et je trouve que cela est contradictoire

@@ -1,0 +1,1 @@
+Bonjour ! La réponse à la question me surprend, les cash-flows des calculs de VAN ne sont pas supposés correspondre à des flux monétaires effectifs - encaissement/décaissement ? Merci

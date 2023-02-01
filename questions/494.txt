@@ -1,0 +1,2 @@
+Comment faut-il faire pour calculer le CF si on decide de prendre en compte l'estimation du taux d'inflation et de la concurance du marché?
+Comment procédé au calcule du CF d'un projet dont sa maturité est superieur à 1 an?

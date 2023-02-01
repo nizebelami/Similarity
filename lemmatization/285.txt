@@ -1,0 +1,7 @@
+Bonjour , 
+
+ Pourriez vous indiquer le méthode pour faire passer comme il se devoir le élément à gauche et à droite afin de isoler n ( en plus de étape que ce qui n' être afficher et sans le aide de solveur ) . 
+
+ calcul : 5000=(1000/0.06)*(1 - 1.06 ^ -x ) 
+
+ Merci . 

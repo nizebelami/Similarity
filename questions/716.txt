@@ -1,0 +1,14 @@
+Bonjour, 
+
+J'aurais plusieurs questions à propos du quizz de la leçon 12. 
+
+ - **Question 1**: Je ne comprends pas pourquoi la rentabilité de 17,33% est déjà une rentabilité annualisée. On s'est basé sur les rentabilités des différents trimestres pour la calculer et j'ai l'impression qu'il manque l'étape de l'annualisation. Pourquoi ce n'est pas le cas? 
+
+ - **Question 5**: Je ne comprends pas pourquoi l'investissement n'est que de 50 millions car même s'il y a vente à découvert, on a quand même du acheter les actions Appelle à un moment donné pour 25 millions. 
+
+ - **Question 9**: 
+Que veut dire vendre à découvert? Il y'a-t-il un endroit dans le cours où on nous explique de quoi il s'agit et comment cela fonctionne? Qu'entend-t-on par "actif sans risque"? Comment pouvait-on deviner l'existance de cet actif sans risque dans l'énoncé ? Quelle est la formule utilisée du cours pour calculer cette volatilité (de 30%)? Dans quelle partie du cours est-elle reprise? 
+
+Grand merci à vous pour votre aide, 
+
+Hélène Moureau

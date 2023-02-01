@@ -1,0 +1,10 @@
+Bonjour,
+
+A 03:07, on montre un tableau reprenant les rendements mensuels de l'Euronext 100 issus du site Internet de Yahoo (-0.30 %, 3.79 %, -2.68 %, etc.). J'aimerais avoir la confirmation que ces rendements sont bien déterminés avec la formule :
+
+r CP = ((D1 + P1)/P0) - 1
+
+comme présenté dans la leçon 11 vidéo 3.
+
+
+Cordialement.

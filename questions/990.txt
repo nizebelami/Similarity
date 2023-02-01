@@ -1,0 +1,13 @@
+Bonsoir,
+
+J'ai une question concernant une partie de la vidéo sur l'estimation du Beta.
+
+Pour estimer la rentabilité du titre Michelin, vous avez utilisé 4,33% en tant que prime de risque du marché moyenne. Dans la vidéo, il est expliqué que vous avez fait la moyenne des 4 années d'observations pour obtenir la prime de risque.
+
+Toutefois, je ne comprends pas très bien pourquoi il est nécessaire d'effectuer cette opération ? 
+
+Merci de l'attention que vous allez portez à ma question.
+
+Cordialement, 
+
+Lindsay Mercatoris

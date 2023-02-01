@@ -1,0 +1,4 @@
+Bonjour
+le telechargement indiqué ainsi "Le tableur qui reprend le problème traité dans la vidéo ci-dessous et sa solution est téléchargeable ici (fichier excel)." ne fonctionne pas.
+Serait il possible de corriger ce bug?
+merci de votre aide

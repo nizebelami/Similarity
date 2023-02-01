@@ -1,0 +1,7 @@
+Bonjour
+Plusieurs questions concernant le premier exercice de la lecon 14 :
+1/ Je n'arrive pas à retrouver les valeurs que vous annoncez pour les CF. J'utilise la formule suivante : CF = RN +Amo-Inves-Delta BFR
+Pourriez vous me donner pour l'année 1 par exemple, la facon de calculer le Casf Flow SVP ? 
+2/ Pourriez vous m'expliquer SVP votre calcul pour le Casf Flow de l année 6 ? Je ne comprends pas votre calcul.
+3/ En actualisant vos CF (-3000; 15; 600; 681; 119; 830; 16244) avec un taux de 10,36% et en les sommants pour avoir la VAN je ne retombe pas sur 8521. Pourriez vous me donner les valeurs de vos CF actualises ?
+Merci

@@ -1,0 +1,2 @@
+q4 , Q7 , Q8 : résolution ? 
+ q5 : 9%-5 pourcent = 0,0855 alors que 0,09 - 0,05 = 0,4 : dans quel cas devoir on transformer le pourcent en nbr entier ? 

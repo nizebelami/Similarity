@@ -1,0 +1,8 @@
+Bonjour,
+J'ai un soucis de compréhension dans la résolution de cette question (je vais essayer de ne pas trop spoiler) :
+
+Lors de la résolution, on utilise la VA àpd 67 ans en fixant r=3.75%
+Ma question est, si on garde r=3.75% (comme lors des 37 périodes précédantes), c'est car il y a des intérêts sur le capital (via ce fond de pension), et ce, même après la retraite - et donc, a contrario, si on imagine que l'on retire les 1200*18 € en une fois pour se les "distribuer" comme annuités à ce moment là, on n'aurait pas ce r ?
+Ou ai-je mal compris et, même si les flux s'inversent (en passant de débiteur à créditeur de notre point de vue), on doit utiliser ce taux car l'on est en t=0 et il faut continuer à capitaliser les flux à ce taux d'intérêt, peu importe leur sens et leur "origine" (fond de pension, chaussette sous son matelas, etc) ?
+
+Un tout grand merci pour ce super cursus !

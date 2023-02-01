@@ -1,0 +1,11 @@
+Bonjour,
+![Evaluation de l'obligation][1]
+
+Concernant ce tableau, je n'arrive pas à comprendre quelles données sont prises en compte pour le calcul du TRA de 3,11%...
+Pouvez-vous m'éclairer à ce sujet ? 
+
+Je vous remercie d'avance,
+
+Wei Li
+
+  [1]: https://edxuploads.s3.amazonaws.com/161684903186925753388.png

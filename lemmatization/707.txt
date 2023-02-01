@@ -1,0 +1,19 @@
+! [ ] [ 1 ] 
+
+ Bonjour , 
+
+ dans ce vidéo , mme de Hondt nous donne un formule pour calculer le rentabilité effectif sur un période donner ( Rt+1=(Pt+1 - pt plus Dt+1)/Pt ) . 
+
+ à alentours de 8:50 , monsieur Platten calcule le rentabilité en donner le exemple de réinvestissement de dividende . 
+ je ne comprendre pas son calcul : lui multiplier 1,07 avec 110 moins 100 le tout diviser par 100 . 
+
+ de où venir ce formule ? 
+ pourquoi multiplier -t lui le 1,07 avec le 110 au lieu de le ajouter ? ou alors , cela correspondre à un autre formule ? 
+
+ pouvez vous me éclairer ? 
+ merci beaucoup 
+
+ Sophie 
+
+
+   [ 1 ] : https://edxuploads.s3.amazonaws.com/1554972003638262.png 

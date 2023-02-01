@@ -1,0 +1,5 @@
+Bonjour,
+Les explications sur le TRI et là VAN sont claires.
+Mais je me pose la question sur le COC : comment cette valeur est elle fixée ? Est un indice de taux d intérêt, type euribor ? Un autre taux d intérêt ? Un seuil de rentabilité interne fixé par l entreprise ?
+Merci d avance pour vos éclaircissements.
+   Laurent

@@ -1,0 +1,5 @@
+Bonjour , j’ avoir aimer comprendre comment obtenir on le montant de 611,12 euro pour le partie intérêt dans le remboursement d’ un prêt hypothécaire ? 
+ en effet , si je être le même logique que l’ exemple précédent avec le 20000 euro et le partie intérêt de 1000 euro on avoir bien calculer 20000€*5 pourcent 
+ ensuite par soustraction on obtenir le montant de capital et ainsi de suite . 
+ ici on ne procéder pas à 150000 * 0,41 pourcent qui donner 615 car on obtenir 611,12 
+ merci de votre aide 

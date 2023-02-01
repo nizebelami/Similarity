@@ -1,0 +1,9 @@
+Bonjour
+
+Concernant la question 3, dans l'énoncé la première obligation est émise a du 98,522%
+or dans les calcul, le taux de 985,22 est utilisé.
+pareil pour l'obligation si il y a un échec, elle est émise a du 83,256%, dans les calcul 832,56 est utilisé.
+
+Pourquoi une telle différence?
+
+merci pour vos explications

@@ -1,0 +1,2 @@
+Bonjour , 
+ comment attribuer variable pour le calcul ? 

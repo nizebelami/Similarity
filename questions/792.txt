@@ -1,0 +1,1 @@
+Lorsqu'on prend en compte les investissements pour calculer le CF dans les questions 3 et 4, on fait l'hypothèse que nous avons payés nos fournisseurs. Sinon ce seraient des dettes d'exploitation et ils seraient repris dans le BFR. Est-ce que mon raisonnement est correct?

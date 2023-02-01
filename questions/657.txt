@@ -1,0 +1,4 @@
+bonjour madame; 
+Dans la dernière vidéo du chap 5 avec l'exemple un peu compliqué, je ne comprends pas comment vous trouvez la valeur de l'intérêt de la première mensualité. Faut il calculer 0,41% à partir des 150 000 ? quand je le fais j'obtiens 615 au lieu de 611.12 comme vous.
+
+merci

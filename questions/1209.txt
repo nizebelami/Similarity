@@ -1,0 +1,6 @@
+Bonjour,
+
+Malgré plusieurs tentatives de calculs pour trouver les cash-flow (CF) du DRS et du DRA je n'arrive pas à tomber sur la réponse... 
+Pourriez-vous, s'il vous plait, développé plus en détail le calcul du DRS et du DRA? 
+
+Merci d'avance pour votre aide. :)

@@ -1,0 +1,2 @@
+Bonjour,
+dans l'exemple du projet Begognia, on a fait l'hypothèse que le taux actuarielle est le même que le taux d'intérêt lié à l'emprunt pour investissement. Dans ce cas, la VAN est effectivement inchangée quelque soit les préférences de l'agent. Mais quid si les deux taux sont différents ? Somme nous toujours dans les hypothèses du théorème ?

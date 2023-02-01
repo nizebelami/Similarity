@@ -1,0 +1,4 @@
+Bonjour, 
+Je ne comprends pourquoi pour trouver la rentabilité du marché et de l'actif ''balanced'' nous faisons -1 a la fin des parenthèses.
+Ensuite, je ne vois pas d'où viens le 1/3 et 2/3, 
+Merci d'avance

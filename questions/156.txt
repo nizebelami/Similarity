@@ -1,0 +1,3 @@
+Impossible de trouver les mêmes Cash-Flows pour le projet Luxdrops et, par essais erreur, j'en suis arrivé à la conclusion qu'aucun amortissement n'avait été comptabilisé pour arriver à la réponse proposée. Est-ce normal de procéder ainsi? (d'autant que l'investissement initial, qu'on aurait pu imaginer passer en charge en une fois, n'a pas influé sur l'EBIT, et donc sur les impôts de l'année t=0 ...).
+Merci pour tout et à bientôt.
+David D.

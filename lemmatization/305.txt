@@ -1,0 +1,12 @@
+bonsoir 
+
+ je être un peu perdre dans le vidéo entre ce que il falloir ajouter et soustraire pour obtenir le différent résultat . 
+ par exemple dans le calcul de CF , vous dire que le CF = rn plus amortissement - investissement - Delta brf 
+ avoir t=1 RN = 109713 amortissement = 20000 investissement = 0 et Delta bfr = -21375 
+ si on reprendre ce chiffre et le formule que vous nous donner on devoir avoir : cf = 151088 
+ or vous donner CF = 108338 à savoir que vous avoir utiliser : CF = rn plus amortissement - investissement * * plus * * Delta BRF 
+
+ je être de coup perdre . quand mettre on un - ? quand mettre on un plus ? 
+ quelle être le formule à utiliser ? 
+
+ merci de votre éclairage 

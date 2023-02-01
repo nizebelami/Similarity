@@ -1,0 +1,2 @@
+Lors de la resolution, la mensualite est calculee en utilisant la formule de la rente constante. Ce qui suppose un interet compose. Or vous definisez les taux proportionnels comme etant calcules a interet simple. 
+Pouvez-vous m'expliquer cette contradiction?

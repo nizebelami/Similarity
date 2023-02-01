@@ -1,0 +1,6 @@
+Bonjour,
+
+Je ne comprends pas la Q5. J'ai repris le tableur donné précédemment et remplacé par les valeurs de l'exercice mais je ne trouve pas la meme chose. 
+En reprenant la formule donnée: VAN(r)=-10+1/r*(1-(1+r)^(-20))-0.1/r  je ne comprends pas non plus le calcul de la VAN ici. Pourriez vous m’éclairer? 
+
+Merci

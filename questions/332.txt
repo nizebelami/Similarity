@@ -1,0 +1,13 @@
+Bonjour,
+
+Je voudrai savoir s'il y a une autre possibilité pour résoudre ce calcul.
+En effet, de façon intuitive j'ai raisonné en me disant qu'ayant 18 années entre t67 et T85, le montant dont je veux disposer est de :   18 x 12 000 € = 216 000 €. 
+
+Ensuite, j'ai fait une formule d'actualisation où 216 000€ = F x (1 - (1 + 3.75%)^-37)   /  3,75%
+J'ai tenté plusieurs formule, dont une capitalisation cependant je n'arrive pas à la bonne réponse.
+
+
+Pouvez-vous m'indiquer si cette façon de faire est juste ? 
+Si oui, pouvez-me guider au niveau des différentes formules à employer ? 
+
+Un grand merci

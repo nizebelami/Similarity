@@ -1,0 +1,8 @@
+bonsoir ! 
+
+ dans le septième vidéo sur le remboursement par annuité constant , on passer de CF/(1 plus 5%)^5 à CFx(1 - 1 plus 5%)^-5/5 pourcent . 
+ de où venir le 5 pourcent qui être au dénominateur ? en fait , je ne comprendre pas le passage de un équation à le autre . 
+
+ merci ;) 
+
+ Sophie 

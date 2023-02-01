@@ -1,0 +1,14 @@
+Bonjour,
+
+De l'énoncé je déduis que le tableau sur t=1 et t=2 contient uniquement des données relatives à l'extension des activités, à l'exclusion de toute activité existante et donc strictement 'incrémentales' ? Et cela s'applique des lors à toutes les rubriques, y compris la variance du BFR, les amortissements et les investissements.
+
+Plus particulièrement, concernant les amortissements, l'on doit donc concevoir que
+
+- pour t=1 ils réfèrent seulement aux investissements (montant inconnu et non nécessaire pour la question) en vue de l'extension des activités, mais déjà réalisés en t=0 (année où la décision d'extension est prise).
+- pour t=2, idem, avec en plus une portion d'amortissements pour l'investissement pour l'extension, effectué en t=1
+
+Est-ce exact ?
+
+Merci de votre réponse.
+
+B.

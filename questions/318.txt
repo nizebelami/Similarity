@@ -1,0 +1,13 @@
+I put as my first answer "La règle du TRI ne permet pas de conclure pour ce projet" and it told me it was incorrect.
+
+So, I put then  "Au COC de 5%, le projet est rentable pour l'entreprise" as my second attempt and it gave me error another time.
+
+When I clicked upon "Show Answer" the computer gave me the two ones as correct with both ticks. 
+
+Which one was the correct one? 
+
+I have missed a point due to this system error, so I hope it won't happen during the Quiz evaluatif. 
+
+Kind regards,
+
+Matteo

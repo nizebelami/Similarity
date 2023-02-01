@@ -1,0 +1,19 @@
+![][1]
+
+Bonjour,
+
+Dans cette vidéo, Mme D'Hondt nous donne une formule pour calculer la rentabilité effective sur une période donnée (Rt+1=(Pt+1 - Pt + Dt+1)/Pt).
+
+Aux alentours de 8:50, Madame Platten calcule la rentabilité en donnant l'exemple du réinvestissement des dividendes.
+Je ne comprends pas son calcul: elle multiplie 1,07 avec 110 moins 100 le tout divisé par 100.
+
+D'où vient cette formule?
+Pourquoi multiplie-t-elle les 1,07 avec les 110 au lieu de les ajouter? Ou alors, cela correspond à une autre formule?
+
+Pouvez-vous m'éclairer?
+Merci beaucoup
+
+Sophie
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1554972003638262.png

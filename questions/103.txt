@@ -1,0 +1,16 @@
+Bonjour,
+
+L'exemple du problème 1 du TRI n'est pas à proprement parler un emprunt.
+
+Pour un emprunt, l'on conçoit clairement intuitivement que, plus le taux est bas, plus c'est avantageux.
+Mais il peut toujours se comparer à un COC appliqué sur les mêmes flux, et si celui-ci est plus élevé que le taux de l'emprunt, on a une VAN positive (correct ?).
+
+Je peux concevoir que le COC dans ce cas, dans le cadre d'un projet d'entreprise, serait lié à la rémunération espérée du capital propre (d'où le 'leverage', je pense) ou bien, je suppose, à la rentabilité espérée (incluant le risque) spécifique du projet étudié.
+
+J'en viens dès lors à la question essentielle comment définir ce COC? Dans le cas de l'exemple, plus précisément, quels pourraient être les éléments de base pour établir le COC (de 10% en l'occurrence) ?  Car la réponse de création de valeur dépendra précisément autant de ce COC que des données de flux du projet (qui définiront le TRI, qui n'est ici qu'une référence ...).
+
+Je sais que cela sera approfondi plus tard, mais dans cet exemple, certaines indications aideraient certainement à une meilleure compréhension intuitive, plutôt que 'mathématique'.
+
+Merci à vous,
+
+BV

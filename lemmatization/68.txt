@@ -1,0 +1,2 @@
+Bonjour , 
+ je avoir déterminer le TME et vérifier que le srd(n)=0 . parcontre je n' arrive pas à vérifier le égalité VF = CF*((1+r)^N-1)/r . est ce que mon raisonnement être correct ? 

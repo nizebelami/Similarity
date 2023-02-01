@@ -1,0 +1,4 @@
+Bonjour,
+Liaison et différence plus claire entre le Taux d'équivalence et le Taux annuel proportionnel ?.
+Est-ce que r(indice n, de taux d'équivalence) =TAP/k ?.
+Merci infiniment.

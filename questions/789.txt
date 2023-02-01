@@ -1,0 +1,5 @@
+Bonjour, 
+
+Pourriez-vous me donner la formule générale pour calculer la VAN que vous utilisez? je ne comprends pas pourquoi on divise 50 par le taux hebdomadaire.
+J’avais tulisé la formule 50* (1-(1,001302)^156/0,001302)
+merci !

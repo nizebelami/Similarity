@@ -1,0 +1,9 @@
+Bonjour,
+Concernant le pb sur l'achat d' un appartement d'une valeur de 180 000€. 
+J'arrive a faire le tableau d'amortissement selon les 3 modalités de remboursement . Puis je calcule les 20% sur les interets trouves pour les 3 modalites.
+Par contre je n'arrive pas a calculer la valeur actuelle des économies fiscales pour chacune des trois formules de remboursement.
+J'utilise VA=f/(1+R)^N, pour chaque valeur et pour chaque modalite, mais je ne trouve pas les memes resultats que vous, j'ai l'impression que je melange tout....
+Aussi pouvez vous me preciser la formule utilisez? et m'expliquez plus en detail les calcules de fin?
+Merci d'avance
+carole 
+Merci

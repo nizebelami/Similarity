@@ -1,0 +1,2 @@
+Dans l'exemple un peu plus compliqué des emprunts, lorsque je calcule la part des intérêts de la période 1 sur le solde restant dû, j'obtiens : 150 000 x 0,41% = 615 (et non 611,12). 
+Pourquoi je n'obtiens pas 611,12 alors que j'applique exactement ce qui a été fait dans la vidéo précédente ?

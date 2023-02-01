@@ -1,0 +1,7 @@
+Bonjour,
+
+Question à propos de l'exercice 3. Il ne s'agit pas d'un problème d'actualisation ou de représentation sur la ligne du temps mais plutôt de la philosophie du problème, c'est-à-dire la mise en situation et ce que l'on cherche à présenter.
+
+L'énoncé explique que j'ai une dette à l'instant 0 de 4000 € envers mes parents. La réponse dit que ceci est équivalent à 3835,6 € remboursés anticipativement. Or, si je donne tout de suite ces 3835,6 € à mes parents et que ceux-ci les mettent sous leur matelas, le montant restera toujours de 3835,6 €. Or, nous avions un accord pour encore 4000 € (étalés). Autrement dit, que représentent ces 3835,6 € pour mes parents si je leur donne aujourd'hui ?
+
+Merci

@@ -1,0 +1,16 @@
+Bonjour,
+
+Je ne comprends comment on obtient le rendement exigé par les actionnaires à la question 2 du quizz formatif test 3 MOOC.
+
+En effet, bien que nous ayons eu un TP avec un exercice similaire, je n'arrive pas (notamment à cause du fait que l'assistant s'est embrouillé plus d'une fois durant sa réalisation). De fait, je n'ai pas le bon modus operandi pour le réaliser.
+
+J'ai besoin d'aide au niveau des dates et des CF.
+
+Tout d'abord, je calcule la rente non perpétuelle croissante avec un taux arbitraire (cf. énoncé avec le dividende de 15 en t=1 et un g de 10%) ;
+Puis, le CF de T=6, je fais une croissance du CF de t=5*(1+4%) (cf. énoncé) ;
+Après, je calcule la rente perpétuelle croissante : CF de t=5*(1+4%)/r-4% ;
+J'actualise et puis je somme les VA des CF de la rente constante croissante et perpétuelle croissante ;
+Enfin, j'utilise la valeur-cible pour trouver le taux.
+Mais je n'obtiens absolument pas une des valeurs proposées...
+
+Franchement, je suis vraiment désarçonné, j'ai beau essayer, cela ne fonctionne pas et nous n'avons pas d'exemples similaires dans le MOOC...

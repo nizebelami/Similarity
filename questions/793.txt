@@ -1,0 +1,9 @@
+Bonjour,
+
+Dans l'exercice 2, on demande le cash flow qui serait lié à l'utilisation du terrain si on devait faire un calcul de VAN.
+
+Je ne comprends pas pourquoi il faut considérer le terrain comme un investissement alors que l'on le possède déjà. J'ai toujours pensé que la VAN devait refléter le plus possible la création de valeur d'un projet bien spécifique. Dans ce cas (disons le projet A), si on possède déjà le terrain, je trouve que c'est un avantage par rapport à un autre projet (disons B) de construction d'hôtel sur un autre terrain pour lequel on devrait d'abord acheter le terrain. Dès lors, la VAN du projet A serait inférieure au projet B et donc on devrait choisir le projet A. Si on inclut la valeur du marché du terrain A, on pourrait se retrouver dans le cas où VAN A = VAN B et ne pas pouvoir décider alors qu'il est clair que l'on doit sortir moins de cash dans le projet A.
+
+Pouvez-vous m'éclaircir à ce sujet ?
+
+Cordialement

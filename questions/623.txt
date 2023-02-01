@@ -1,0 +1,6 @@
+Bonjour, 
+
+Sur base de l'exercice 3, j'ai l'impression qu'il existe plusieurs formules pour calculer la VAN. Quand je regarder la résolution de l'exercice, on dirait qu'une première formule est VAN (t0) = VA (bénéfice) - VA (coût) et qu'une autre formule est VAN totale de l'opératio (t0) = VA (coût) + VA (bénéfice), mais c'est curieux. Quelles sont les formules à retenir? 
+Il y a-t-il possibilité de résoudre l'exercice sous forme de tableau comme vu dans les nombreuses illustrations? Si oui, comment et où intégrer le capital? 
+
+Merci d'avance pour votre aide!

@@ -1,0 +1,7 @@
+bonsoir , 
+
+ Lorsque je utilise mon outil solveur de m Excel pour résoudre le choix de mon projet , mon colonne " bin " de mon tableau ne fonctionne pas comme un colonne binaire . ce être à dire je initialise mon colonne " bin " à " 1 " . et quand mon solveur me propose un solution , je constate dans mon colonne " bin " de nombre à virgule ( comme par exemple 0,82562 , 0,67443 , 0,223425 ... ) au lieu de " 1 " ou " 0 " . pourtant le solveur fonctionner bien pendant mon entraînement et le quiz formatif . 
+
+ est ce un problème de configuration de mon outil Excel ou y avoir t il quelque chose de particulier à faire ? car je ne trouve pas encore de solution dans le aide de Excel . 
+
+ merci par avance de votre aide . bien à vous . 

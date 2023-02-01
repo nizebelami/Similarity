@@ -1,0 +1,10 @@
+Dans l'exercice 2, vous employez dans la résolution une formule issue de la vidéo 6 concernant les taux équivalents. A ce stade du cours, on travaille toujours en intérêts composés. Dès lors, il me semble que les deux formules théoriques rn = (1 + r)^(n) - 1 et r = (1+ rn)^(1/n) - 1 ne s'appliquent qu'à des taux d'intérêts composés (que l'on cherche à adapter en fonction équivalents.
+
+Pourquoi peut-on utiliser l'une de ces deux formules dans la résolution d'un exercice basé sur un TAP, c'est-à-dire un taux à intérêts simples ?
+
+
+----------
+
+Pour résoudre l'exercice, j'ai travaillé par égalité, c'est-à-dire que j'ai posé :
+
+TAE d'un crédit TAP 6 % mensuel doit être égal au TAE d'un crédit à X % trimestriel. Avec le solveur, on trouve le X.

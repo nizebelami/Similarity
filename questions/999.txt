@@ -1,0 +1,9 @@
+Bonjour, 
+
+Je ne comprends pas comment les CF de l'exercice 1 sont déterminés. Grâce aux données de l'exercice, j'ai construit le tableau sur Excel (comme appris lors de la leçon 9), mais je n’arrive pas aux mêmes données que le correctif et par conséquent pas à la même VAN. J’aimerais comprendre mon erreur.
+
+Je vous remercie d’avance pour votre réponse,
+
+Cordialement, 
+
+Samuel Menozzi

@@ -1,0 +1,5 @@
+Bonjour , 
+
+ je avoir bien compris le raisonnement détailler pour le calcul de le VA de coût de le machine 1 , mais je me demande comment effectuer celui de le machine 2 alors que pour celui-ci   gramme > r et il me sembler qu' un un condition pour appliquer le formule être de avoir un taux de croissance inférieur au coc ? 
+
+ merci 

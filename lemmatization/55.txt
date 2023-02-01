@@ -1,0 +1,18 @@
+je ne comprendre pas le raisonnement permettre de résoudre le question 2 . 
+
+ 1- 1 degré étape OK TAE = 6.17 pourcent OK 
+
+ 2- 2 degré étape : taux trimestriel ( ( 1 plus 6,17%)^(1/4))-1=1,51 pourcent . 
+ donc on calcul un tpe . 
+
+ 3 - 3 degré étape . " pour obtenir un tap correspondre à ce taux trimestriel , il falloir le multiplier par 4 " 
+
+ ce être à dire tpe*k ( nombre de période dans le année ) = tap 
+
+ or dans le cours je avoir comprendre que tap = tpp ( et non TPE ) * k 
+ Est ce que le TPE = TPP ? 
+
+ je ne être pas sur de être très clair . 
+ merci de avance . 
+
+ Emilie 

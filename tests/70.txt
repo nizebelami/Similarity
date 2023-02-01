@@ -1,0 +1,7 @@
+Bonjour, 
+
+Je n'arrive pas à obtenir les CF suivants : -1000;413;311;321;105;114
+
+Pouvez-vous m'éclairer?
+
+Merci d'avance.

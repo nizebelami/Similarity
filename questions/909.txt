@@ -1,0 +1,1 @@
+Les formules de calcul de la durée d'une rente non pas été toutes données notamment comment calculer "n" si on est face à une valeur actuelle de rente / de même comment calculer la valeur future d'une rente croissante ????

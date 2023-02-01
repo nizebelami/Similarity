@@ -1,0 +1,1 @@
+Dans la question 5 la façon dont vous avez procéder  pour trouver la réponse me parait vraiment compliquer car en posant  (1+r)^n, je n'arrive par trouver la même chose que ce que vous avez trouvé.

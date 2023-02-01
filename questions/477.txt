@@ -1,0 +1,38 @@
+Résultats
+
+
+
+
+
+
+
+95844.9=
+850(1−(1+0.267)−n)
+0.267
+
+n∈R
+⇓
+95844.9=850(1−(1+0.267%)−n)/0.267% n∈R⇓
+
+
+Faux
+Faux
+
+  
+  
+ 
+  
+  
+    
+Solveur d'Equation 
+
+
+
+
+     
+
+Résolution d'une équation
+
+Equation(s) à résoudre
+95844.88=850*(1-(1+0.267%)^-n)/0.267%
+Inconnue n

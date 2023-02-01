@@ -1,0 +1,1 @@
+Bonjour, je ne comprends pas pourquoi, dans la vidéo de la prime de risque, on conclut que pour le prix de non arbitrage d'un actif risqué, 800 + 400 =1 200 et 800 + 0 = 800. Cela veut dire que l'obligation sans risque + l'actif A = toujours le fonds indicé ? Merci d'avance Ségolène

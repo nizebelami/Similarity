@@ -1,0 +1,4 @@
+Bonjour,
+j'ai rencontré un petit problème de résolution au niveau de la question 4. En effet, je n'obtiens pas 5173 pour la somme des flux après 12 mois. 
+Serait-il possible d'avoir une explication plus détaillé sur cette partie ? 
+Merci d'avance

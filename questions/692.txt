@@ -1,0 +1,8 @@
+Bonjour,
+
+Dans la question 4, j'ai procédé comme a fait Isabelle dans la dernière vidéo de cette leçon. J'ai fait le calcul suivant:
+P= D/(r-g) d'où r= D/P + g = 2.15/45 +4% = 8.78% .
+Ensuite le nouveau taux de croissance est: g= r -D/P = 8.78%-2.15/32 = 2.06% .
+Mais cette réponse est fausse. Prière de me dire ou est ma faute pour refaire le calcul.
+
+Merci beaucoup.

@@ -1,0 +1,11 @@
+Bonjour,
+
+Dans le cours vous mentionnez le TRI de ces rentes perpétuelles. Comment faites-vous pour calculer ce dernier étant donné que c'est une rente perpétuelle. J'ai essayé plusieurs façons mais je n'y arrive pas.
+
+![TRI slides][1]
+
+
+Bien à vous.
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/159847842326736350976.png

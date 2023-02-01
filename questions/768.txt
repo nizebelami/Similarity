@@ -1,0 +1,14 @@
+Bonjour,
+
+ La question de l'énoncé est "quel est le coût du capital nominal qui correspond à vos calculs".
+
+1. qu'est-ce qu'un "coût du capital nominal" ? Ce concept n'est pas traité dans le cours
+2. la réponse est un taux alors que l'on parle d'un coût. Les unités sont à priori différentes...
+
+
+----------
+
+ - Pourquoi faire un piège avec les deux propositions de 3,47 % et 3,50 % alors que l'approximation est prévue et utilisée dans le cours théorique ? En d'autre termes : que faut-il utiliser pour les quiz certificatifs et l'examen ?
+
+
+Merci

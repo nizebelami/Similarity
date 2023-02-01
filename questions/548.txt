@@ -1,0 +1,14 @@
+Bonjour,
+Dans la vidéo "Estimation de la prime de risque du marché", il est expliqué que l'espérance de rentabilité du marché est estimée en prenant la moyenne arithmétique des rendements mensuels rapporté à l'année. Vous obtenez 5.31%.
+
+[Note: en allant sur Yahoo finance et en prenant les valeurs historiques sur la même période que celle de la vidéo: du 31/12/2010 au 02/12/2014, je n'obtiens pas les mêmes valeurs que celles présentées dans la vidéo. Serait-il possible d'avoir le fichier Excel utilisé pour la réalisation de la vidéo?]
+
+Dans la vidéo "Estimation du bêta", il est expliqué que la prime de risque du marché à été estimée en calculant la prime de du marché pour chaque observation, puis en prenant la moyenne de ces primes de risque. Vous obtenez 4.33%.
+
+=> Quelle est la "meilleure" estimation de cette prime de risque du marché? Pourquoi présenter une méthode d'estimation de cette prime de risque et en choisir une autre?
+
+[Note: serait-il possible d'avoir le fichier Excel utilisé dans cette vidéo "Estimation du bêta"? En effet, je ne trouve pas les mêmes valeurs pour l'action Michelin en allant sur Yahoo Finance]
+
+Merci d'avance pour votre aide
+
+Shifumy.

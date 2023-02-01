@@ -1,0 +1,3 @@
+Bonjour, je vous contacte via le forum du cours car je bloque sur la logique plutôt "mathématique" de la réponse. Dans la question l'on demande si l'on rajoute 1an par rapport à la question précédente qui portait sur les rentes perpétuelles. (La réponse était de * * * * * * * ). Intuitivement, si l'on rajoute 1an nous aurons, 1200000€+12000€= 1212000€. Mais en utilisant la formule et en considérant que N tend toujours vers l'infini, alors nous réutilisons la même formule: CF/(r-g) et donc dans ce cas nous serions retombé sur 1200000€. Dès lors, je me demande si ces deux réponses ont eu du sens? 
+
+Merci d'avance.

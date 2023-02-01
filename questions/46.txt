@@ -1,0 +1,9 @@
+Bonjour,
+
+Pour cette question, on actualise logiquement la valeur du studio (étant donné qu'ilsera vendu au mieux dans un an). Pour cela, comme on le voit dans la résolution, c'est le taux TAP qui a été utilisé...
+
+"On peut déterminer la VA de votre studio pour la banque: 115000/(1+3,99%)= 110587,56."     où 3,99% est le TAP. N'aurait-on pas du calculer le TAE ? = (1+TAP/k)^k - 1 = 4,06% ??
+
+D'avance merci pour vos réponses.
+
+Romain

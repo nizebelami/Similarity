@@ -1,0 +1,9 @@
+Bonjour, 
+En refaisant le quizz, je tombe sur le bon résultat, mais de manière beaucoup plus simplifiée : 
+1) Calcul de l'annuité constante : (200000/((1-1.0408^-20)/0.0408)) = 14820.79
+2) Calcul de la VA du 10ème décaissement : F/(1+r)^N = 14820.79/(1.0408)^11 = 9546.21445411
+Pourquoi n'expliquez-vous pas cette formule qui semble beaucoup plus simple que faire un tableau d'amortissement jusqu'au 10ème décaissement ?
+
+Merci beaucoup d'avance,
+
+Nicolas

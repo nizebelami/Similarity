@@ -1,0 +1,10 @@
+bonjour,
+je reviens vers vous pour avoir un eclairage sur la derniere formule 
+(113,4169/100)^(1/5) -1 = 2,55%
+
+est ce la meme formule que  pour calculer le tpp?
+je ne comprends pas pourquoi vous diviser par 100.
+
+merci pour votre temps
+
+carole

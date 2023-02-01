@@ -1,0 +1,8 @@
+Bonjour,
+Je n'arrive pas à comprendre d'où vient le ln0,7. En effet, j'ai calculé cet énoncé comme dans une des vidéos ("Calcul de la durée - Jouer avec les rentes"), à savoir:
+(1+6%)^n = 1+6%x(5000/1000)
+n.ln1,06 = ln (1+6%x5)
+ln(1+6%x5)/ln1,06 -> ce qui me donne 4,50 soit 5 années. 
+Pourriez-vous me dire quel est le détail de la réponse pour obtenir le ln 0,7 svp?
+Merci d'avance.
+Sakura Kengoum

@@ -1,0 +1,7 @@
+Bonjour, 
+En ce qui concerne la partie pour trouver le taux d'intérêt, je voudrai savoir s'il serait possible d'utiliser la technique de l'extrapolation, afin de trouver ce taux? Et si oui, pourriez-vous nous rappeler cette technique au prochain cours, svp? 
+
+De plus, pourriez-vous expliquer au cours la résolution des questions 7 et 8 du quizz? 
+
+
+Merci d'avance

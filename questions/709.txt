@@ -1,0 +1,9 @@
+Bonjour, 
+Dans le cadre de la question 1, je ne comprends pas sur base de quelle formule théorique, vous calculez le CMPC avant et après impôts. En me basant sur les formules du cours, j'obtiens le raisonnement suivant pour le calcul du CMPC après impôts = COC. ![excel][1]
+
+En vous remerciant pour votre attention et votre aide, 
+
+Cordialement 
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/15550564228408808.png

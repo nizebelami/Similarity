@@ -1,0 +1,4 @@
+Bonjour,
+
+J'ai utilisé la formule VF = VA*(1+r) exposant 3 où VF = 190000 et VA =150000 puis résolution de l'équation à 1 inconnue pour trouver le taux r. Est-ce le bon raisonnement ?
+Merci

@@ -1,0 +1,5 @@
+Bonjour, 
+Je ne comprends pas très bien pourquoi il faut utiliser le prix d'échange sur le marché (100,03%) et pas le prix d'émission(99,163%) en t=0?
+Pourriez-vous m'expliquer ? D'avance, je vous en remercie.
+
+Marie

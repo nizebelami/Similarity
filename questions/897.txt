@@ -1,0 +1,14 @@
+Bonjour,
+
+J'ai l'intention de passer en trajectoire certifiante. Dans la section dates, comme le montre la capture ci-dessous, je vois que des dates sont spécifiés pour chaque test certificatif.
+
+![Capture][1]
+
+Est-ce que ça veut dire qu'on aura pas accès au test avant ces dates là ? 
+
+
+Merci :)
+
+Simo
+
+  [1]: https://edxuploads.s3.amazonaws.com/1593976538470859470534.png

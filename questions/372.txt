@@ -1,0 +1,7 @@
+Bonjour,
+
+En quoi est-ce pertinent de considérer le nombre d'actions et la valeur de l'action Danone pour la resolution de l'exercice?
+Ne peut-on pas directement appliquer la formule : 
+r actifs = (r CP + r D * levier) / (1 + levier) ? 
+
+Merci!

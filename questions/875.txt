@@ -1,0 +1,1 @@
+Pourquoi actualiser les flux au COC=14% alors que ce taux vaut dans le cas ou le projet est exécuté sur fond propre? On sait que le projet sera conduit avec 30% de dettes et 70% de fond propre, le taux doit donc différer de ces 14% selon moi (0.3*0.08+0.7*0.14=12.2%). Ou se trouve mon erreur?

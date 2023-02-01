@@ -1,0 +1,5 @@
+Bonjour Madame,
+
+Dans la correction, le CF de l'année 0 est de -1000k. Ne devrions-nous pas avoir des économies d'impôts sur le chiffre d'affaires du reste de la gamme (en dehors de ce projet)? Si oui, alors la VAN est positive même sans emprunt.
+
+Cordialement,

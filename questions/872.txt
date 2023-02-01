@@ -1,0 +1,6 @@
+Bonjour, selon la formule P0=D1/rcp - g , on peut la transformée afin de pouvoir obtenir rcp ? si on a le prix de l'action, le dividende en t1 et le taux de croissance. 
+
+Dans les vidéos, on voit le cas où la croissance est constante et de manière perpétuelle. Mais comment faire, si on à une période de croissance avec un certain taux g et une autre période (elle perpétuelle) avec un autre taux g ? Ce type d'exercice est repris dans le quiz (Q2) préparatif au quiz certificatif final. 
+J'ai d'abord essayé en actualisant les flux de la première période et en appliquant la formule pour la croissance perpétuelle et ensuite faire la moyenne des deux taux mais je suis loin des propositions de réponses données... Quelle formule faut-il appliquer?
+
+merci

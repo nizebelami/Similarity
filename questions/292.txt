@@ -1,0 +1,5 @@
+Je ne comprends pas le sens de la remarque sur le TRI : "Quand on utilise ce critère, on fait implicitement l'hypothèse suivante : tous les flux futurs relatifs au projet pourront être réinvestis à un taux égal au TRI."
+
+Si j'ai bien saisi, le taux d'actualisation ou de capitalisation à utiliser pour un projet est défini une fois pour toute, c'est le COC. Qu'il soit égal ou différent du TRI ne change rien.
+
+Pouvez-vous m'éclairer ?

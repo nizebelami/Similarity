@@ -1,0 +1,3 @@
+Bonjour , je ne comprendre pas de où venir le 1/3 quand on commencer à calculer le écart - type ?   et pourquoi avoir nous à le fin un exposant en 0,5 ? 
+
+ merci de avance 

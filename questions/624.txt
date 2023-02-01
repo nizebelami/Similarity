@@ -1,0 +1,6 @@
+Bonjour, 
+
+Dans les exemples qui nous ont été donnés, pour calculer la prime de risque, on calcule d'abord les rentabilités en conjoncture favorable et défavorable et puis la rentabilité espérée. Enfin, on soustrait de cette dernière le taux sans risque pour obtenir la prime de risque. 
+Ce n'est pas cette manière de faire qui a été choisie dans la résolution de l'exercice. Tombons-nous néanmoins sur les mêmes résultats? 
+
+Merci d'avance pour votre réponse!

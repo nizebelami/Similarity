@@ -1,0 +1,4 @@
+Bonjour,
+Dans l'exemple, vous remplacez le Dividende de la formule de Gordon et Shapiro par le BPA de l'énoncé. Le dividende et le BPA sont-ils la même chose?
+Merci beaucoup,
+Clara

@@ -1,0 +1,31 @@
+Bonjour,
+
+ - Dans le cadre d'un crédit suivant les règles d'un TAP mensuel, comment calculer les mensualités ? J'avais pensé à la formule :
+
+Mensualité = 800 / 15 + 800 * (5.7% / 12)   étant donné qu'il y a 15 mensualités composées du principal (montant emprunté / nombre de mois) + intérêts mensuels simples au taux de 5,7% / 12
+
+Or, ce raisonnement est différent de ce que vous proposez à l'étape 2 de votre raisonnement. Pouvez-vous expliciter d'avantage le calcul d'une mensualité; calcul qui n'apparaît pas dans la théorie ?
+
+
+----------
+
+ - Afin de résoudre cet exercice, j'avais pensé à un raisonnement plus proche du seul exercice fait dans le cours sur les TAEG :
+
+1. Calculer le TAE du crédit TAP 5,7% à capitalisation mensuelle   (j'obtiens 5,85 %)
+2. Transformer ce TAE en TE pour 15 mois afin de calculer la VF des 800 € après 15 mois en une période de capitalisation à ce TE pour 15 mois (j'obtiens 858,93 €)
+3. Poser l'équilibre :   800 - 25 = 858,93 / (1 + TEG)   pour trouver un Taux Effectif Global (mais pas encore sur base annuelle étant donné que le TE utilisé est pour 15 mois   (j'obtiens un TEG de 10,83 %)
+4. Ramener ce TEG à un TAEG en utilisant les formules des taux équivalents de la vidéo 6 : TAEG = (1 + TEG)^(1/15/12) - 1   (j'obtiens 8,57 %)
+
+Pouvez-vous me dire où est la faute dans ce raisonnement ?
+
+
+----------
+
+ - L'énoncé de l'exercice précise que : "Le contrat prévoit un remboursement par mensualités constantes".
+
+Devons-nous en déduire qu'il s'agit d'un intervalle de capitalisation mensuel ?
+
+Par comparaison, l'exemple d'illustration de la vidéo 8 précise lui clairement qu'il s'agit d'un "prêt sur un an au TAP de 9%, avec capitalisation mensuelle des intérêts". Il ne s'agit que de mots mais ces mots ont de l'importance pour ne pas se tromper de concept...
+
+
+Merci !

@@ -1,0 +1,2 @@
+autre question j’ avoir de mal à comprendre logiquement pourquoi après avoir sommer l’ actualisation de tout le flux pendant un certain période , mégoton 5 an , on devoir recalculer le valeur futur en multiplier le résultat avec le formule pour trouver le valeur futur ? 
+ si j’ avoir déjà tout actualiser j’ avoir comprendre même le valeur futur à le valeur actuel pourquoi je devoir recalculer à le valeur futur ? 

@@ -1,0 +1,5 @@
+je ne comprendre pas le sens de le remarque sur le tri : " quand on utilise ce critère , on faire implicitement le hypothèse suivant : tout le flux futur relatif au projet pouvoir être réinvestir à un taux égal au tri . " 
+
+ si je avoir bien saisir , le taux de actualisation ou de capitalisation à utiliser pour un projet être définir un fois pour tout , ce être le COC . qu' il être égal ou différent de tri ne changer rien . 
+
+ pouvez vous me éclairer ? 

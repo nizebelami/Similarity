@@ -1,0 +1,8 @@
+Bonjour,
+
+J'ai bien compris ce concept:
+"« Actualiser un flux », c'est chercher la valeur d’aujourd’hui de sommes reçues ou versées à des dates futures. Autrement dit, l’actualisation convertit des valeurs futures en une valeur d'aujourd’hui, car il ne faut pas oublier que « 1€ aujourd'hui n'est pas égal à 1€ demain » " 
+
+Cependant dans tous les exemples, le taux nous ai donné. Lorsque l'on a un projet d'investissement et que l'on souhaite faire le calcul, comment connaitre ce taux? 
+
+Merci

@@ -1,0 +1,15 @@
+Bonjour , 
+
+ dans le réponse on donne le explication suivant : 
+
+ * le variance de le rentabilité se obtenir comme : =( 0.2 ^ 2x4.02%^2 plus 0.5 ^ 2x18.67%^2 plus 0.3 ^ 2x24.52%^2 plus 2x0.2x0.5x0.1x4.02%x18.67%+2x0.5x0.3x0.54x18.67%x24.52%+2x0.2x0.3x0.15x4.02%x24.52%)=0.0219336 . 
+ le volatilité être égal à 14.81%=0.0219336 ^ 0.5 * 
+
+ Est -ce que ce être possible de avoir un explication sur chaque partie de calcul ? 
+ cela me aider à y voir plus clair . 
+
+ pourquoi être -ce que dans le calcul de le volatilité on devoir mettre un exposant 0.5 ? 
+
+ merci pour votre aide , 
+
+ Guillaume 

@@ -1,0 +1,1 @@
+Bonjour ! Dans la correction, vous avez omis le coupon en t=5 lors du calcul de la valeur future - autrement ça fait 12,18% (remarquez que même en rajoutant le coupon en t=5 dans le calcul de la valeur future l’arrondi est à ...,18) ! Du coup, l'arrondi du résultat final devrait être de 53 centièmes. Est-ce que c'est bien ça ? Merci

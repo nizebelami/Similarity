@@ -1,0 +1,3 @@
+J'aimerais comprendre pourquoi on a retiré dans le calcul de la VAN : -0,1/R => Pq n'y a t'il pas d'exposant sur le r sachant que c est par an que ce montant va être enlevé?
+
+Je suppose que on fait la somme de 2 VAN dont une est F/R étant donné que c'est à l'infini mais j'aimerais avoir confirmation. Merci d'avance.

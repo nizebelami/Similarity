@@ -1,0 +1,5 @@
+Bonjour , 
+
+ je être un peu perdre ... a partir de quel formule obtenir vous VAN(r)=600 - 300*(1-(1+r)^(-5))/r+900/(1+r)^6 ? 
+
+ merci de avance pour votre réponse . 

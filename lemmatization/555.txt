@@ -1,0 +1,13 @@
+Bonjour , 
+
+ pardonner moi de poser de poser un question sur le quiz formatif , mais je avoue avoir beaucoup de mal à trouver le solution . 
+
+ je calcule le cf avec le formule suivant = ca - Coûts variable - charge fixe - [ ( ca - Coûts variable - charge fixe - amortissement ) * 40 pourcent ] - investissement . 
+
+ sans oublier celui de le 4èm année qui correspondre à un augmentation de 3 pourcent de cf à t=3 multiplier par 1/(cmpc après impôt - 3 pourcent ) . 
+
+ cependant , mon VAN être différent de le solution . je ne savoir pas de où venir mon erreur . sans doute de mon cmpc après impôt . 
+
+ votre aide être grandement apprécier ! 
+
+ Shifumy . 

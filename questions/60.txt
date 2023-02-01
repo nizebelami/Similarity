@@ -1,0 +1,5 @@
+bonjour,
+
+est-ce qu'on peut reprendre le raisonnement de la question 7 car dans l'exemple vu pendant le cours, lorsque N qui est la durée de la rente est l'inconnue, on était passé par la formule suivante : la valeur que je cible est égale aux flux futurs des montants pendant N années et la formule CF * ((1+r)^N-1)/r pour ensuite appliquer la fonction LN aux équations. Quand je regarde la formule utilisée pour avoir la bonne réponse c'est exposant -N (je ne comprends pas pourquoi). 
+Merci de votre aide.
+Melissa

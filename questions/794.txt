@@ -1,0 +1,5 @@
+Bonjour, 
+
+Quel calcul faites-vous afin d'obtenir le TRI ? Ou même lorsque vous le faite graphiquement, comment procédez vous ? Car je n'arrive jamais à avoir ma VAN à 0 lorsque je remplace le TRI dans ma formule. 
+
+Bien à vous,

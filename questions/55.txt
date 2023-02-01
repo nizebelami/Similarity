@@ -1,0 +1,18 @@
+Je ne comprends pas le raisonnement permettant de résoudre la question 2. 
+
+1- 1° étape OK TAE = 6.17% OK
+
+2- 2° étape : taux trimestriel ((1+6,17%)^(1/4))-1=1,51%. 
+Donc on calcul un TPE.
+
+3-3° étape. "Pour obtenir un TAP correspondant à ce taux trimestriel, il faut le multiplier par 4" 
+
+c'est à dire TPE*k (nombre de période dans l'année) = TAP
+
+Or dans le cours j'avais compris que TAP = TPP (et non TPE) * k
+Est ce que le TPE=TPP ?
+
+Je ne suis pas sur d'être très clair. 
+merci d'avance.
+
+Emilie

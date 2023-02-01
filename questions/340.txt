@@ -1,0 +1,1 @@
+Il me semble que le calcul de covariance utilise le nombre total d'échantillon N=5 comme diviseur, au lieu de N=4. Pourriez-vous vérifier ce point ?

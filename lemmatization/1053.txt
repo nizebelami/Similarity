@@ -1,0 +1,7 @@
+Bonjour , 
+
+ je avoir entrer le calcul : ( 1-(1 plus 0,0041)^-240)/0,0041 dans mon calculatrice . je obtenir : 152,5449731 or dans le vidéo , le réponse obtenir être 152,94 . je rencontre le même chose lors de le variante de ce exemple ( 1-(1 plus 0,0041)^-180 ) / 0,0041 = 127,1241604 or dans le vidéo , le résultat être 127,39 . et ensuite : ( 1-(1 plus 0,0025)^-180 ) / 0,0025 = 144,8054715 or dans le vidéo , le résultat être 145,21 . pourriez vous me expliquer pourquoi je n' obtenir pas le même chose ? 
+
+ et ensuite , CF = 150 000 sur 152,94 = 980,7767752 ~=~ 980,78 = CF or , dans le vidéo , cf = 980,75 je ne comprendre pas très bien comment le résultat être obtenir dans le vidéo . 
+
+ merci 

@@ -1,0 +1,17 @@
+Bonjour,
+
+Dans le quizz récapitulatif question 5, on demande de trouver comment exploiter l'opportunité d'arbitrage.
+Dans cet exercice, j'imagine qu'il faut trouver l'option dont la VAN est maximale.
+Ci après, le début de feuille excel que j'avais commencé à remettre à jour en incluant la valeur à différents t =0,1 & 2 de chaque option.
+
+Seulement, comment actualiser la valeur des actifs ? 
+Les actifs B & A sont dits sans risque mais n'ont pas une valeur qui varie suivant un taux annuel constant....
+
+Je ne comprends pas comment calculer le taux de référence dans cet exercice  et donc les VAN correspondantes.
+
+Merci !
+
+Sébastien
+
+![resolution exercice 5][1]
+  [1]: https://edxuploads.s3.amazonaws.com/1488288405895182.png

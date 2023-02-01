@@ -1,0 +1,4 @@
+Bonjour, dans cette formule je ne comprends pas pourquoi il y a l'exposant 0,5. Est-ce parce qu'on revend les actions en juin; qui est la moitié de l'année ? 
+((1/3)x((-1.02%-4.25%)^2+(-2.11%-4.25%)^2+(12.64%-4.25%)^2+(7.50%-4.25%)^2))^0.5
+
+Merci

@@ -1,0 +1,5 @@
+Bonjour,
+Je m'excuse d'avance si la question n'est pas appropriée mais n'ayant fait aucun cours de finance auparavant (peut-être est-ce une question de base pour certains), ce cours ci est une première pour moi et je souhaite vraiment donner le meilleur de moi-même (merci d'être clément envers moi j'avoue que j'essaie de me donner à 100%)
+Ma question est la suivante, après avoir regardé la video avec l'exemple d'Isabelle dans le tableau du projet d'investissement à 3%, je n'ai eu aucunes difficultés à trouver le bon résultat mais j'aimerais un éclaircissement sur la façon dont elle trouve le resultat POSITIF (je suis bien consciente que le calcul de -100 000 - 101 942 = 1942 si je suis bien, les deux signes moins donne le résultat positif pourtant, on ajoute tout de même le "-" à 1942 non ? j'aimerais savoir si possible la façon dont elle trouve le résultat positif.
+
+Merci

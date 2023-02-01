@@ -1,0 +1,17 @@
+Bonjour,
+Tout d'abord un grand merci à vous  pour les  explications , en fait , j'arrive pas à comprendre cette partie de la vidéo 5  :
+"Ceci m'amène à dire que sur un marché concurrentiel,
+où l'absence d'opportunité d'arbitrage est respectée,
+**échanger un actif
+ne crée ni
+ne détruit de la valeur.**
+***L'achat d'un actif
+est une opération à VAN nulle.
+La VAN de l'achat d'un actif financier est égale à la valeur
+actuelle des flux futurs de cet actif
+moins le prix de l'actif.
+Quand le marché est à l'équilibre, on a égalité entre le prix de l'actif
+et la valeur actuelle des flux futurs et donc la VAN est bien égale à
+0.
+De manière similaire, la VAN de la vente d'un actif est nulle. "***
+Merci D'avance.

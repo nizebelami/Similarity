@@ -1,0 +1,7 @@
+Bonjour , 
+
+ je ne comprendre pas comment vous avoir pouvoir obtenir le taux réel par solveur à 1.97 pourcent ? quell formule de le VAN avez vous inscrire dans le valeur cibl ? car moi en faire le exercice je avoir procéder au même raisonnement que le solution proposer mais je avoir obtenir un taux réel par solveur de 9 pourcent pour un VAN définir à 3000€. 
+
+ le VAN être égal à 3000= 50 000 - ( 20000/(1+r))+(20000/(1+r)^2)+15000/(1+r)^3 ) . 
+
+ merci de me aider car je commencer à me décourager à ne pas trouver le même réponse que le quiz 

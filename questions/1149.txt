@@ -1,0 +1,17 @@
+Rebonjour,
+
+Au niveau de la question 5, j'ai également un problème (désolé avec mes questions :-(, mais je désire vraiment bien comprendre pour réussir le test et mon examen).
+
+Tout d'abord, lorsqu'on dit que la société continue de croître de manière stable, cela signifie-t-il que c'est à l'infini?
+
+Ensuite, je calcule la rentabilité espérée des actionnaires à partir de la droite du MEDAF de : taux sans risque + bêta*Prime de risque.
+
+Puis, je dois calculer le prix de l'action, avec le prochain dividende : (6)/rentabilité espérée - g(3%).
+
+Là, j'obtiens une rentabilité espérée plus élevée de que celle que j'ai trouvée auparavant.
+
+C'est bien pour cela que le titre est sous-évalué? Est-ce bien le signal d'achat?
+
+Merci d'avance pour l'aide,
+
+VLB

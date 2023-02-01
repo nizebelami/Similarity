@@ -1,0 +1,3 @@
+Bonjour,
+
+J'ai un problème avec la référence des cellules de contraintes binaires. Le message suivant s'affiche: "La référence de la cellule de la contrainte Binaire doit uniquement inclure des cellules variables." Ces cellules sont pourtant indiquées comme variables. Elles ne contiennent aucune fonction, ce sont des cellules contenant uniquement le chiffre "1". J'ai été me renseigner auprès de plusieurs forums mais je ne trouve rien de concret. j'avais déjà des difficultés avec le solveur et c'est pour cela que je passais par "Valeur cible" pour des précédents calculs. Si vous avez une idée de réglage à ajuster ou autre tout autre opération à appliquer je suis preneur. Merci à vous.

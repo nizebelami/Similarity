@@ -1,0 +1,6 @@
+Bonjour , 
+
+ pourquoi le projet 3 pouvoir il être entreprendre si il avoir un VAN = 0 ? si il ne créer pas de valeur ( et n' en détruire pas ) , pourquoi être il intéressant de le retenir ? 
+
+
+ merci 

@@ -1,0 +1,4 @@
+Bonjour,
+
+Dans l'exemple de l'obligation ROMANIA, vous indiquez un prix d'émission différent du prix affiché pour la première cotation. Pourquoi ? 
+Cordialement

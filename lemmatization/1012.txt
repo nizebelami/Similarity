@@ -1,0 +1,9 @@
+Bonjour , 
+
+ dans le question 1 on demande de donner * " valeur d'1 euro en dollar , arrondir à 3 décimales"*. ceci être décrire dans le énoncé sous le unité eur sur usd . 
+
+ selon moi le unité eur sur usd représente * * le valeur en euro de 1 dollar * * et non pas * * le valeur de 1 euro en dollar**. 
+
+ le réponse correct devoir donc être 5.99 eur/6.60 usd= 0.908 eur sur usd , car 0.908 eur permettre de acheter 1 usd ou inversement ( ou 1.102 usd sur eur , car 1 eur permettre de acheter 1.102 usd ) . 
+
+ être -ce que je me trompe ? 

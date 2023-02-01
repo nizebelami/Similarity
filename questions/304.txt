@@ -1,0 +1,6 @@
+Bonjour, J'ai trouvé le TRI via le solveur pour les projets A et C. Cependant, je n'ai pas réussi à utiliser cette méthode pour le projet B. En effet, le solveur me renvoyait à une erreur de type #Nombre à chaque nouvel essai. La seule différence avec les projets A et C, est qu'il fallait calculer le I0 plutôt qu'un CFt, y a-t-il une subtilité dans la manipulation du solveur lorsque l'on cherche une valeur négative ? Merci
+
+![Résolution par solveur du TRI][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/14895920959553085.png

@@ -1,0 +1,18 @@
+Rebonjour , 
+
+ pour le question 6 , 
+
+      t 	            0 	            1 	              2 	            3 	                  4 	
+ loyer 	 8000 	 8160 	 8323,2 	 8489,664 	 8659,45728 			
+ CF 	        8000 	 7771,428571 	 7549,387755 	 7333,690962 	 7124,156935 	
+									
+									
+				 Somme 	 37778,66422 				
+
+ je avoir donc tenir compte de le inflation et donc raisonner en euro constant . 
+
+ en revanche , pour le euro courant , je ne comprendre pas vraiment . faut il raisonner sans tenir compte de le inflation ? car si ce être le cas , je obtenir un va de 36,367,60 , ce qui n' être pas le même réponse . 
+
+ merci de avance pour le aide , 
+
+ VLB 

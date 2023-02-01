@@ -1,0 +1,7 @@
+Bonjour Marie-Ange,
+je reviens vers vous car je me pose une petite question.
+apres avoir regarde la solution de la question 2 pour verifier mes calculs, 
+je me demande pourquoi l equation se termine par ^0.5 ?
+
+merci 
+carole

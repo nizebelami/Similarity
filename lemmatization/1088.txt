@@ -1,0 +1,5 @@
+Bonjour , 
+ concerner le amortissement dégressif , je avoir quelque difficulté . on ne devoir pas chaque année recalculer le amortissement sur le solde rester de ? pour le premier année , le amortissement de 20 000 euro me semble logique . mais pour le deuxième année , 30 000 * 0,40= 12 000 euro , 12 000 euro être moins intéressant que le amortissement de façon linéaire donc on repasser au linéaire et on prendre un amortissement de 16 666,67 euro ? 
+
+ merci pour votre aide , 
+ Margaux cheval 

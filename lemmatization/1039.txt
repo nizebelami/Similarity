@@ -1,0 +1,11 @@
+Bonjour , 
+
+ si je comprendre bien , 0,08 être le taux annuel continu . il correspondre aussi au taux de intérêt instantané . 
+
+ dès lors , le solution n' être lui pas vf= 20000*e^(ln(1,08)*1 ) = 20600 ? ? ? ? 
+
+ sinon de où venir e^0,08 ? ? 
+
+ merci pour votre réponse . 
+
+ Pascal Gobert . 

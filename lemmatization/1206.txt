@@ -1,0 +1,5 @@
+Bonjour , dans le problème 2 concerner le tri , lorsque on avoir 2 taux de tri on dire que on être dans le impossibilité de utiliser le règle de décision , cependant quand je remplacer le tri par 0 pourcent dans le équation de le VAN le équation être irréalisable , donc je ne comprendre pas comment on trouve un VAN de 0 avec un tri de 0 pourcent . 
+ ! [ ] [ 1 ] 
+
+
+   [ 1 ] : https://edxuploads.s3.amazonaws.com/1646575129949138858228.png 

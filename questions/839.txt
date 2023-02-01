@@ -1,0 +1,4 @@
+Bonjour, 
+Je ne comprends l'intérêt de calculer la contribution de chaque actif au risque d'un portefeuille dans la mesure où un portefeuille diversifié permet d'annuler l'effet de risque de chacun de ces titres pour ne laisser que le risque non diversifiable…
+Merci beaucoup,
+Clara

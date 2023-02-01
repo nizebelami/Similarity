@@ -1,0 +1,6 @@
+Bonjour, j' ai deux questions assez générales mais pour lesquelles la question 1 se prête bien à leur illustration.
+
+1. La question porte sur le rendement effectif de l' action sur une année. On pourrait penser que ce qui reste au bout d'une année, ce sont les dividendes touchés dans l'année plus la plus-value en fin d' année (valeur de l' action en fin d' année). Pourquoi faire le calcul en tenant compte de ce qui se passe à chaque trimestre en terme de plus ou moins value?
+
+2. Le rendement calculé n'est pas actualisé, le raisonnement est fait sur la base de valeurs "euro courant". Pouvez-vous confirmer qu'effectivement tout calcul ou toute estimation de rendement et rentabilité doit se faire hors actualisation?
+Je vous remercie.

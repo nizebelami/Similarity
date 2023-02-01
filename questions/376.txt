@@ -1,0 +1,5 @@
+Bonjour,
+
+Je ne suis pas convaincu à l'exercice 5 du chap 6. En effet j'ai intégré les coûts de déchets en infini en faisant VA=100000/r=2000000.
+EN traçant la courbe avec la fonction VAN() de Excell, je ne trouve pas la même réponse. Si vous voulez, je peux vous envoyer mon fichier Excel. La formule donnée à l'explication ne donne pas la même réponse que la fonction VAN() de Excel???
+Cordialement

@@ -1,0 +1,14 @@
+Bonsoir, 
+
+Concernant le petit quiz de 5 questions à la fin du chap 1 : la loi du prix unique, voici quelques questions : 
+
+1. Par rapport à la question 4 :  
+Sur base de quoi l’on a déterminé que les flux générés par le 3eme actif correspondent à un 1/3 de l’actif sans risque et à 2/3 du fonds indicé ? ça aurait pu bien être d’autre proportions…
+2. Par rapport à la question 5 : 
+-	C'est quoi vente à découvert ? 
+-	Sur base de quoi l’on détermine les proportions pour faire la combinaison des actifs ? Ok sur base des flux du Fonds risqué. Mais c’est quoi que l’on regarde exactement ? les 400, les 250 ou les 25 ou encore l’addition de ces trois montants, soit 675 ? 
+En gros je ne comprends pas exactement comment on trouve la proportionnalité pour établir des combinaisons afin de trouver le prix du fonds risqué. 
+-  " actifs qui génèrent des flux identiques doivent avoir la même valeur" : Mais il n'y aucun actif qui génère le même flux sauf pour l'obligation sans risque, mais du coup son prix t = 0 n'a pas la même valeur? 
+-	Comment vérifier que c’est bien 186 qui me donnera les flux soit 400 si conjoncture favorable, soit 250 si conjoncture neutre, soit 25 si conjoncture défavorable ? 
+
+Merci

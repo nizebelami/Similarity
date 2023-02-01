@@ -1,0 +1,2 @@
+Bonjour,
+Je ne parviens pas à déterminer le cash flow de la deuxième machine alors que j'y suis parvenue pour la première. Cela est surement dû au fait que le taux de croissance pour la seconde machine soit supérieur au COC, contrairement à la première machine. Pourriez-vous m'indiquer le développement du calcul nécessaire pour la machine 2 tout comme vous l'avez fait pour la première machine s'il vous plait?

@@ -1,0 +1,15 @@
+Bonjour , 
+
+Je m'interroge sur la date à laquelle il faut finaliser le quizz certificatif. En effet deux dates sont actuellement sur la plateforme et cela porte un peu à confusion. 
+
+Première date :
+
+![][1]
+
+Et l'autre date :
+
+![][2]
+
+Merci.
+  [1]: https://edxuploads.s3.amazonaws.com/1551446679249135.png
+  [2]: https://edxuploads.s3.amazonaws.com/15514467234750551.png

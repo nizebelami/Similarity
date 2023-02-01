@@ -1,0 +1,5 @@
+bonjour Madame , 
+ mon préoccupation concerne le variation de bfr . pouvoir on trouver un cas où le investissement de exploitation n' intervenir pas forcément entre le année 0 et le année 1 ( Stock , créance ou dette fournisseur intervenir plus tard par exemple ) . 
+ dans ce hypothèse , comment résoudre ce cas ? 
+
+ merci 

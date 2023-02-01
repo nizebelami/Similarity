@@ -1,0 +1,19 @@
+Bonjour , 
+
+
+ je avoir un question à propos de le description de " événement " qui avoir lieu à chaque instant t. 
+
+ jusque ici , dans le exercice , il être toujours indiquer que le flux se dérouler en fin de année . or , dans ce exercice , au niveau de le croissance de bpa , on pouvoir lire : 
+
+ " UCLogistics prévoir un bpa de 15 euro le an prochain et un croissance de ce bpa de 12 pourcent par an pendant le 3 année qui suivre " . 
+
+
+ on pouvoir comprendre que " le an prochain " être donc ce qui aller se passer entre t1 et t2 et , en considérer que le flux se passer à le fin de le année , appliquer le 12 pourcent à t2 dans le ligne de temps , laisser ainsi t1 sans donnée . 
+
+ même chose avec : 
+
+ " a partir de le 5èm année , UCLogistics devoir rentrer dans un phase de croissance stable de son bpa , à un niveau de croissance annuel de 5 pourcent " . 
+
+ au premier abord , ce être seulement entre t5 et t6 que il y avoir un augmentation de 5 pourcent , donc le premier fois que il falloir appliquer 5 pourcent être en t6 et non t5 . 
+
+ confirmez vous qu' il falloir considérer tout ce mouvement à chaque début de année dans le exercice traiter un action ? 

@@ -1,0 +1,3 @@
+J'ai rencontré un problème à la question 3. En effet, il est écrit " vous devez encore rembourser 1000€ à la fin de cette année". C'est pourquoi j'ai considéré le 1 000 = t0,          1500 = t1 et 1500 = t2. Mon calcul était alors 1000 + 1500/1,02 + (1500/1,02)^2 = 3912, 34 (une des autres réponses proposées). Je n'ai pas compris pourquoi commencer en t1 puisque ce montant devra être payé dans l'année en cours ? 
+
+D'avance merci pour cette explication.

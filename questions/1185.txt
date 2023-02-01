@@ -1,0 +1,4 @@
+Bonjour,
+
+Je n'ai pas compris la détermination du -25% du fond D dans la question 5 du quiz. Je comprends bien la pondération du fonds obligation à 100% + 25% de l'actif A pour reconstituer la valeur. L'actif D étant à 0, comment déterminer sa pondération qui est de - de 25%. Merci pour ces cours de qualité.
+"Après un examen attentif du tableau de flux, on peut identifier qu'une position dans le fonds risqué est équivalente à investir respectivement 100% dans l'obligations sans risque, 25% dans l'actif A et -25% dans l'actif D."

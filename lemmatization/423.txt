@@ -1,0 +1,5 @@
+Bonjour , 
+
+ je ne comprendre pas très bien comment on trouve n= 35 dans n*ln 1.02 = LN ( 1 plus 2%*50 ) pouvoir vous me aider ? 
+
+ merci de avance 

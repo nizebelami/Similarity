@@ -1,0 +1,1 @@
+Bonjour, dans la question 2, il y a une erreur dans le calcul de la VAN, il faut refaire l'opération. Merci

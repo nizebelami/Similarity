@@ -1,0 +1,5 @@
+Bonjour, pour déterminer le SRD de la 5e année, la vidéo montre l'équation avec "t", mais que vaut "t" ?
+SRD =Σ 980,75/1+0,41%)^t = 124.933,54 où la partie 1,0041^t = 127,39.  
+Si je prend t=60, j'obtiens : 1,0041^60 = 1,2782.
+Même chose pour le calcul du CF (refinancé) : 128.933,59 = Σ CF/1+0,25%^t = 887,88, où la partie 1,0025^t = 148,21.
+Merci d'avance

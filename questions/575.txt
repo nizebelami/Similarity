@@ -1,0 +1,2 @@
+Bonjour, ma question concerne l'utilisation de la formule de Fisher pour le calcul du taux nominal. J'aimerais savoir à quel moment doit-on utiliser la formule et à quel moment doit-on utiliser l'approximation ?  Dans le cours il a été dit "lorsque le taux d'inflation est extrêmement faible", mais concrètement cela concerne quelle valeur du taux d'inflation ?
+Pour cette question 5 du quiz par exemple, j'ai utilisé l'approximation et je n'ai pas eu la réponse correcte.

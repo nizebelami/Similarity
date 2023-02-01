@@ -1,0 +1,1 @@
+Bonjour , 1 ) que faire si en calculer le DRS ( délai de récupération simple ) on ne trouve pas un montant exactement égal à zéro ? soit il être strictement supérieur ou inférieur à zéro ? ? ? 2 ) est-il possible de calculer le DRA ( délai de récupération actualiser ) sans avoir calculer au préalable le DRS ? si oui , comment , c'est-à-dire comment choisir le période ? ? ? 

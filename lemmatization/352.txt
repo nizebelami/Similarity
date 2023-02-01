@@ -1,0 +1,2 @@
+1 degré comment le VAN se annule avec le formule au taux 0 pourcent ? quand je applique le formule , il me indique un erreur 
+ 2 degré vous avoir retirer le millier dans le formule , seulement quand on garde le millier , le VAN ne se annule pas au même taux ? 

@@ -1,0 +1,7 @@
+Bonjour , 
+
+ 1 ) si on avoir p0 = 45 , p1 = 32 , et que un dividende être tomber avant p1 , soit d0 = 2.15 , comment expliquer vous que gramme = 4 pourcent ( gramme valable à temps 0 ) être encore utiliser pour passer de P0 à p1 , alors que ce devoir être logiquement ce g1 ( à tps +1 ) que l' on recherche ? 
+
+ 2 ) si le cours de action chute de 45 à 32 , alors celui qui avoir investir à P0 avoir perdre 28 pourcent de leur investissement . pourquoi le ROI n' être pas égal à -0.28 ? cela avoir pouvoir permettre de calculer gramme comme g=1-d*roi avec d = 2.15/45=4,78 pourcent , donc g=(1-(2.15/45))*-0.28 = -0.266 = -27 pourcent ? 
+
+ merci beaucoup de avance 

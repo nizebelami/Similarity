@@ -1,0 +1,9 @@
+Bonjour , 
+ en refaire le quizz , je tombe sur le bon résultat , mais de manière beaucoup plus simplifier : 
+ 1 ) calcul de le annuité constant : ( 200000/((1 - 1.0408 ^ -20)/0.0408 ) ) = 14820.79 
+ 2 ) calcul de le va de 10èm décaissement : f/(1+r)^n = 14820.79/(1.0408)^11 = 9546.21445411 
+ pourquoi n' expliquer -vous pas ce formule qui semble beaucoup plus simple que faire un tableau de amortissement jusque au 10èm décaissement ? 
+
+ merci beaucoup de avance , 
+
+ Nicolas 

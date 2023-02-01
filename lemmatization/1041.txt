@@ -1,0 +1,15 @@
+Bonjour , 
+
+ je avoir de mal à comprendre le logique derrière le réponse 8 . 
+
+ et je bloque surtout sur le logique que je avoir initialement employer ( et qui se avérer donc mauvais ) . pouvoir vous me dire où se trouve mon erreur de interprétation svp et comment le corriger ? 
+
+ ( 1)Je par de principe qu' on vouloir un revenu complémentaire de 12.000 pendant 18 an ( 85 - 67 ) soit 216.000 . je voir que on parle de va mais je avoir de mal à comprendre en quoi , compte tenir de le énoncé , cela importe . si on obtenir 216.000 à 67 , on avoir bien 12.000 par an jusque à notre 85 ( pas en va bien sûr , mais on avoir 12.000 ) . 
+
+ ( 2 ) je utilise le formule suivant : vf = f((1+r)^n-1)/r ce qui donne 216.000 = f * 1.0375 ^ 37 - 1 sur 0.0375 = f * 77.45 et je obtenir f par 216000/77.45=2788.82 . 
+
+ pouvez vous me aider à situer mieux comprendre mon erreur et le réponse attendre svp ? 
+
+ merci de avance 
+
+ Charles 

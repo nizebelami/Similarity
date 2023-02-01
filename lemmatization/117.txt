@@ -1,0 +1,2 @@
+Bonjour , 
+ je ne trouve pas le solution par solveur car le outil libre office me dire " le modèle n' être pas linéaire " , savoir vous s' il existe un modèle non linéaire pour le outil calc de libre office ou être ce un question de version de logiciel ? 

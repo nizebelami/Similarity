@@ -1,0 +1,11 @@
+Bonjour . 
+ selon le réponse donner par votre soin , lorsque l' on calcule le VAN ( a ) après emprunt de 20000 euro , le formule être ( -40000 plus 20000 ) plus ( 60000 plus 20600)/1.03 ce qui donne 58.252€. 
+
+ cependant , vous dire 18.252 . 
+
+ mon question être : y avoir -t il erreur de écriture donc au lieu de -40.000 plus 20.000 , il se agir bien de -40.000 - 20.000= -60.000 et on arrive ainsi à 18.252 
+ ou bien se agir il de -40.000 plus 20.000 et l' on obtenir 58.252 ? 
+
+ mon premier réaction avoir être de calculer ( -40.000 plus 20.000 ) . s' il se agir là de un erreur , pouvoir vous me dire pourquoi ? 
+
+ merci par avance . 

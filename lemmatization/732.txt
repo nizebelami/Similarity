@@ -1,0 +1,4 @@
+Bonjour , 
+ comment comprendre le taux de actualisation de un actif ? 
+ dans le cours , il être dire : lorsque un actif être risquer , le taux de actualisation que il falloir utiliser pour calculer son va être égal au rf plus prime sans risque . 
+ dès lors , pouvoir on dire que le taux de actualisation correspondre à le rentabilité espérer ? merci de avance . 

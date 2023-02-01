@@ -1,0 +1,16 @@
+Bonjour,
+
+La question est formulée de la sorte:
+
+**...vous souhaitez un complément de revenus de 12000€ par an à partir de 67 ans.**
+
+Cela laisse penser que le premier versement se fera à 67 ans.
+
+**Si votre espérance de vie est estimée à 85 ans et que la rente est versée jusqu'à cet âge,...**
+
+Cela laisse penser que le dernier versement se fera à 85 ans
+
+Avec ces hypothèses, le nombre total de versements est donc 19.
+Pourquoi la valeur de ce nombre est il 18 dans la réponse?
+
+Cordialement

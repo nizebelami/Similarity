@@ -1,0 +1,1 @@
+Dans l'exemple de la leçon sur la valeur du temps, pourquoi avoir mis un signe négatif à la mise de l'investissement si le signe n'est pas prix en compte dans le calcul de la VAN ?

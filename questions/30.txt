@@ -1,0 +1,2 @@
+Bonjour. Dans la dernière ligne des corrections des Q8 et Q9, il me semble qu'il y a une erreur dans les opérations de calcul de la rente à verser, bien que le résultat écrit, dans l'explication, soit correct.
+Bien à vous.

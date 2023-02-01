@@ -1,0 +1,2 @@
+Bonjour , 
+ je avoir un souci avec mon calcul de le réduction fiscal . pour le annuité , je obtenir bien 15572,99 auxquelles je soustraire 6210 de intérêt , ce qui donne un remboursement de 9362,99 et un srd de 170637,01 . par contre , je être perdre avec le calcul sur économie fiscal . merci 

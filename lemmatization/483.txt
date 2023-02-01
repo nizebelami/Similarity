@@ -1,0 +1,13 @@
+Bonjour , 
+ dans le explication , on mettre un * * - * * comme suivre : 
+ 5000=1000*(1**-**1,06 ^ -n ) sur 0,06 . 
+ puis , on isole   n > logarithme népériens . ceci nous donne -n = ln0,7 / ln1,06 , soit N=6,12 . 
+ dans le vidéo , il être préciser que cela devoir être ... ( 1**+**1,06 ^ -n ) 
+ avec Excel , je procéder comme suivre : = LN(F1 / f2*f3 plus 1)/ln(1+f3 ) = 4,5026 
+ f1= 5000 
+ f2 = 1000 
+ F3= 6 pourcent 
+
+ dans aucun cas je arrive à 7 . pouvoir -vous , svp , me éclairer ? 
+ je avoir surement comprendre quelque chose de travers et je être bloquer pour tout le excercise de rente constant où le durée être le inconnu . 
+ merci de votre aide ! 

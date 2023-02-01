@@ -1,0 +1,12 @@
+Bonjour , 
+
+ lors de calcul de formule , quel manière de faire nous conseiller vous svp ? je vous explique : 
+ pour calculer mon va de mon rente croissant , je avoir appliquer le formule . je avoir donc multiplier 3000 par le fraction au complet ( et non arrondi ) , cela me donne donc 78922,24 . cependant , dans le exemple Isabelle arrondi le fraction et ne le prendre pas dans son entièreté , lui applique donc le calcul suivant : 3000 x 26,31 = 78930,00 . nous avoir donc un différence de 7,76 . 
+ quell méthode falloir il utiliser pour le résolution de exercice svp ? 
+ 1 ) prendre le fraction au complet 
+ 2 ) arrondir le fraction à deux décimale 
+ ce manière de faire se applique bien à n' importe quel formule de rente dans lequel nous retrouver un fraction ? 
+
+ je vous remercier . 
+
+ Mathilde Coton 

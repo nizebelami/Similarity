@@ -1,0 +1,4 @@
+Bonjour , 
+
+ dans ce exercice on utilise simplement le formule de le VF que nous avoir voir dans le 1er lecon , nous ne devoir pas passer par le taux equivalent ? 
+ je avoir utiliser le formule r=(1+r)^-1 

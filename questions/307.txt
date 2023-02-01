@@ -1,0 +1,9 @@
+Bonjour,
+
+Dans les cours il est dit que le CF = RN + amortissement - BSR.
+Dans la question 4, il est dit que le CF se calcul comme suit : CF= RN + amortissement - BSR.- investissement
+
+Pourquoi la présence de l'investissement ici ?
+Si l'investissement correspond à une partie du BSR, je ne comprend pas alors pourquoi il n'est pas pris en compte dans le calcul du RN. 
+
+D'avance merci

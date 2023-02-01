@@ -1,0 +1,4 @@
+Bonsoir,
+Concernant cet exemple, il me semble que le projet B est plus opportun puisqu'il présente l'indice de profitabilité le plus élevé (1.377). 
+En effet, il n'existe aucune contrainte de financement et les différents projets ont des investissements initiaux différents, il est ainsi recommandé d'utilisé l'IP au lieu de la VAN.
+Merci

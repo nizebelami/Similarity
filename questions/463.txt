@@ -1,0 +1,4 @@
+Bonjour, dans la conversion du TAP 9%=>TAEG, on a 150€ de frais => 3000-150 = 2850. 
+TPP = TAP/12 = 9%/12. TAE = (1+9%/12)^12-1 = 9.38% 
+VF de 3000= 3000x(1+9.38%) = 3.281,42. 
+2850 = 3281,42/(1+TAEG)=> TAEG = (2850/3281.42)-1 = 0,13147357 or réponse = 15,14%, j'ai dû trébucher quelque part entre un 3 et un 5 ;o(

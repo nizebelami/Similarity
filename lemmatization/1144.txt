@@ -1,0 +1,3 @@
+Bonjour , 
+
+ je avoir un problème avec le référence de cellule de contrainte binaire . le message suivre se affiche : " le référence de le cellule de le contrainte binaire devoir uniquement inclure un cellule variable . " ce cellule être pourtant indiquer comme variable . lui ne contenir aucun fonction , ce être un cellule contenir uniquement le chiffre " 1 " . je avoir être me renseigner auprès de plusieurs forum mais je ne trouve rien de concret . je avoir déjà un difficulté avec le solveur et ce être pour cela que je passer par " valeur cibl " pour un précédent calcul . si vous avoir un idée de réglage à ajuster ou autre tout autre opération à appliquer je être preneur . merci à vous . 

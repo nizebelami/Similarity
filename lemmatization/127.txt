@@ -1,0 +1,10 @@
+Bonjour , 
+
+ je être un peu perdre sur le question 5 de quiz formatif . je ne trouve aucun valeur de ca en t=2 qui être en accord avec le proposition . je utilise le solveur pour déterminer le ca en t=2 avec tri = COC=11 pourcent .   je trouve plutot de 7.48 m 
+
+ A priori , mon tableau sous excel être bon car je avoir utiliser le même pour trouver le question précédent . 
+ pouvez vous me éclairer ? 
+
+ Merci 
+
+ Aurélien 

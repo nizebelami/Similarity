@@ -1,0 +1,18 @@
+Bonjour, 
+
+Je n'arrive pas à comprendre les résultats dans l'un exemple donné sur la vidéo sur le théorème de séparation.
+
+A 4min25, après avoir calculer les VAN des différents projets. Celui de Bégonia est de 207,27.
+Dans l'exemple nous souhaitons, en plus de l'investissement dans Bégonia, du cash pour 100 à T=0. D'où le fait d'emprunter 120. 
+Une fois les calculs fait et l'emprunt remboursé, la VAN est de 100 (t=0) + 118 (t=1). 
+Du coup l'ajout de l'emprunt + Bégonia (VAN=218) serait plus intéressant que Bégonia seul (VAN=207,27) 
+
+En fait je ne comprends pas pourquoi, dans cette situation, nous n'appliquons plus le taux d'intérêt de 10% au bénéfice de 250 de Bégonia. 
+Dans ma tête le bénéfice à T=1 de cette exemple serait plus 250/1.1 - 120*1.1 = 95,27. 
+Donc une VAN total de 195,27.
+
+Du coup la même question se pose dans l'exemple suivant où l'on souhaite placer 100 à t=0. 
+
+Pouvez vous me dire le détail que j'ai raté ? 
+
+Merci d'avance pour votre temps.

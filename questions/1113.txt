@@ -1,0 +1,7 @@
+Bonjour,
+
+Je n'ai pas compris d'où venait le (10/35) dans l'étape 2 pour déterminer le CMPC après impôts...
+
+Et pour l'étape 5 avec le calcul de la VAN, avec quel taux faut-il actualiser les CF? Car j'ai essayé avec le 10,36% calculé en étape 2 et le 10,75% de l'étape 1 mais je ne trouve pas la même valeur donc j'imagine qu'il s'agit d'un autre taux mais je ne sais pas lequel.
+
+Merci

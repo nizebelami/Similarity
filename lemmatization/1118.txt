@@ -1,0 +1,17 @@
+Bonjour , 
+
+ Pourriez vous svp me expliquer pourquoi on avoir supposer que le prochain dividende n' aller pas varier le hors de calcule de nouveau taux de croissance ? 
+
+ après le calcule de rcp , pour déterminer le nouveau taux de croissance gramme ' , il me avoir paraître plus logique de utiliser ce formule : 
+
+ P'= D0*(1+g ' ) / ( rcp - gramme ' ) 
+
+ avec :  
+ d0 = 2.15      
+ p'=32  
+ rcp = 8.97 pourcent   
+ je retrouve g'=2.11 pourcent 
+
+ Cordialement , 
+
+ Simo 

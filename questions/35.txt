@@ -1,0 +1,13 @@
+Bonjour,
+
+J'a trouvé la réponse exacte au 2e essai, mais je ne suis pas sûr de comprendre le résultat.
+
+Soit on part sur le principe, qu'il paie ces 300 euros d'intérêts (6% de 5'000.-) sur chaque année, sans tenir compte des versements, pas cool le frangin.
+
+Soit on amortit le versement annuel, comme je le pensais et du coup, je comprends pas le résultat. 
+
+J'ai dû mal à employer des formules qui ne représentent rien dans mon esprit, les logarithmes, j'espère qu'il n'y en aura pas à foison.
+
+Merci en tout cas pour ce cours, je remarque que plus on utilise ces formules, plus elles se mettent en place dans ma tête.....
+
+A mardi pour la suite.

@@ -1,0 +1,14 @@
+Bonjour,
+
+Dans l'onglet dates il est affiché que le 9 avril est une date importante :
+
+![][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/1617601938948183537018.png
+
+Est-ce une erreur ? Car j’avais noté trois dates : 1 mars, 22 mars et 3 mai 2021 pour, respectivement, le quiz certificatif I, II et final.
+
+Cordialement,
+
+Simo

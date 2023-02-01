@@ -1,0 +1,8 @@
+Bonjour,
+Je n'ai pas pu malheureusement bien répondre à la question 3.
+A la lecture des explications je pense avoir compris le principe: calculer le CF "équivalent" pour les machines A et B.
+Ce que je ne comprends pas par contre c'est que dans le raisonnement on ne semble pas prendre en compte les augmentations annuelles de frais.
+Quelles sont les raisons pour cela ?
+Si on intègre les augmentations de frais je crois que la conclusion change.
+
+Merci par avance pour vos explications.

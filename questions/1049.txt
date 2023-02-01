@@ -1,0 +1,3 @@
+Bonjour, 
+
+Cette question est vraiment compliquée et apprendre à la résoudre sur un tableur pour notre compréhension personnelle cest super mais nous n'auront pas de tableur le jour de notre examen. Je ne tombe par exemple pas du tout sur ce résultat : 800/((1-(1+0,475%)^-15))/0,475%) = 55.38.

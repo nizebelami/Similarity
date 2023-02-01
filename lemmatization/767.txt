@@ -1,0 +1,31 @@
+Bonjour , 
+
+  - dans le cadre de un crédit suivre le règle de un tap mensuel , comment calculer le mensualité ? je avoir penser à le formule : 
+
+ mensualité = 800 sur 15 plus 800 * ( 5.7 pourcent sur 12 )    être donner que il y avoir 15 mensualité composer de principal ( montant emprunter / nombre de mois ) plus intérêt mensuel simple au taux de 5,7 pourcent sur 12 
+
+ or , ce raisonnement être différent de ce que vous proposer à le étape 2 de votre raisonnement . pouvoir vous expliciter de avantage le calcul de un mensualité ; calcul qui n' apparaître pas dans le théorie ? 
+
+
+ ---------- 
+
+  - afin de résoudre ce exercice , je avoir penser à un raisonnement plus proche de seul exercice faire dans le cours sur le taeg : 
+
+ 1 . calculer le tae de crédit tap 5,7 pourcent à capitalisation mensuel    ( je obtenir 5,85 pourcent ) 
+ 2 . transformer ce tae en te pour 15 mois afin de calculer le vf de 800 euro après 15 mois en un période de capitalisation à ce te pour 15 mois ( je obtenir 858,93 euro ) 
+ 3 . poser le équilibre :    800 - 25 = 858,93 / ( 1 plus teg )    pour trouver un taux effectif Global ( mais pas encore sur base annuel être donner que le TE utiliser être pour 15 mois    ( je obtenir un teg de 10,83 pourcent ) 
+ 4 . ramener ce teg à un taeg en utiliser le formule de taux équivalent de le vidéo 6 : taeg = ( 1 plus teg)^(1/15/12 ) - 1    ( je obtenir 8,57 pourcent ) 
+
+ pouvez vous me dire où être le faute dans ce raisonnement ? 
+
+
+ ---------- 
+
+  - le énoncé de le exercice précise que : " le contrat prévoir un remboursement par mensualité constant " . 
+
+ devoir nous en déduire que il se agir de un intervalle de capitalisation mensuel ? 
+
+ par comparaison , le exemple de illustration de le vidéo 8 précise lui clairement que il se agir de un " prêt sur un an au tap de 9 pourcent , avec capitalisation mensuel de intérêt " . il ne se agir que de mot mais ce mot avoir de le importance pour ne pas se tromper de concept ... 
+
+
+ merci ! 

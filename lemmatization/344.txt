@@ -1,0 +1,7 @@
+Bonjour , 
+
+ ce être surement simple , mais je ne comprendre pas pourquoi dans le illustration   de youkileak , comme on savoir que le levier être de 1 ( valeur de le dette sur valeur de capital propre = 1 ) , pourquoi être -ce que , dans le formule de CMCP qu' on reprendre ensuite , le valeur de capital propre sur valeur de le dette plus valeur de capital propre être = 0.5 ?  
+
+ merci beaucoup , 
+
+ Noémie 

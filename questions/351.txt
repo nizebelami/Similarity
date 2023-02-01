@@ -1,0 +1,22 @@
+Bonjour, 
+
+Je ne retrouve nul part dans le cours les formules qui sont utilisées dans l'explication de la réponse à cette question : 
+
+Votre société est endettée à hauteur de 25% du total du passif et sa dette peut raisonnablement être estimée comme étant sans risque. Le beta des actions de l'entreprise est actuellement estimé à 0.68. Par ailleurs, selon les dernières estimations, le taux sans risque est proche de 2% et le rendement attendu du marché dans sa globalité est de 7%.
+
+Si votre société est soumise à un taux d’imposition de 40%, quel est son CMPC après impôts ? (en %, arrondis à 2 décimales)
+
+
+4.35% correct
+5.37%
+4.55%
+Aucune réponse n'est correcte
+Explication
+La première chose à faire est de déterminer la rentabilité exigée par les actionnaires sur les actions au moyen de la droite du MEDAF: Rcp=2%+0.68*(7%-2%)=5.40%. On peut ensuite calculer le CMPC après impôts: CMPC=5.4%*0.75+0.25*2%*(1-40%)=4.35%.
+
+Pour le Rcp je n'ai vu dans le cours que la formule suivante : rcp = r actifs + (r actifs - r D) x VD/VCP  
+Pour le CMPC je n'ai pas cette formule ci non plus mais celle là : CMPC après impôts = VCP/VD+VCP x rcp + VD/VD+VCP x RD - VD/VD+VCP x rD x taux d'impôt 
+
+Pourriez-vous m'expliquer les formules utilisées dans la résolution? 
+
+D'avance merci.

@@ -1,0 +1,6 @@
+Un complément de revenu à partir de 68 ans ou 67 ans ?
+
+bonjour,
+le calcul de la VA au moment de la retraite qui est décrit dans l'explication se base sur un premier versement effectué à 68 ans. Or l'énoncé stipule "un complément de revenus de 12000€ par an à partir de 67 ans". J'ai donc fait le calcul suivant : (12000*(1-(1,0375)^-18)/0,0375) + 12000 = 155045,53+12000 = 167045,53.   Cela a biaisé le résultat du calcul suivant. Où est l'erreur dans mon raisonnement ? quelles sont, dans les exercices, les conventions de langages qui déterminent l'utilisation du premier ou du second raisonnement ? 
+
+Merci

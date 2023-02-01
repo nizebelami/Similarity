@@ -1,0 +1,19 @@
+bonsoir , 
+
+ dans le video ' aoa dans un marché concurrentiel ' ( 10'11 - 10'18 ) , pour le démonstration par le absurde quand le prix être supérieur à le équilibre , il être dire : " mais évidemment , si on le vendre aujourd'hui , et bien on perdre le opportunité de recevoir 10 000 euro dans un an . " 
+ et ce alternative se arrête là . on passer directement à le solution avec vente à découvrir ... 
+
+ ne pouvoir nous cependant pas tout aussi bien dire : 
+ en t = 0 nous avoir +9,900 euro de fruit de le vente de notre actif et - 9,900 euro pour le placement de ce recette à 3 pourcent . il n' y avoir donc pas de mise de fonds initial . 
+ et en t = 1 nous avoir un * * coût de opportunité * * de -10,000 euro car puisque on avoir vendre le actif et nous ne pouvoir plus le vendre dans un an , mais nous recevoir sans risque plus 10,197 euro au terme de notre placement à 3 pourcent . il y avoir donc un gain . 
+ finalement , le calcul donner le même résultat , soit un VAN = 191.26 euro . 
+
+ alors , pourquoi le vente à découvrir être lui le seul bon alternatif pour ce démonstration ? 
+
+ je voir déjà un réponse éventuellement possible : le coût de opportunité n' être pas un vrai ' flux ' , pas un décaissement , pas un cash - flow effectif . mais être -ce pour autant que le raisonnement être erroné ? ce concept de coût de opportunité ne se utilise -t il pas dans le évaluation de projet ? le ' coût ' devoir il toujours être de ' vrai ' cash - flow , un ' flux ' financier , un mouvement de fonds   ? 
+
+ Il y avoir peut-être d' autre raison ? 
+
+ merci de votre commentaire . 
+
+ bv 

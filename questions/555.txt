@@ -1,0 +1,13 @@
+Bonjour,
+
+Pardonnez-moi de poser de poser une question sur le quiz formatif, mais j'avoue avoir beaucoup de mal à trouver la solution.
+
+Je calcule les CF avec la formule suivante = CA - Coûts variable - Charges fixes - [(CA - Coûts variable - Charges fixes - Amortissement) * 40%] - Investissements.
+
+Sans oublier celui de la 4ème année qui correspond à une augmentation de 3% du CF à t=3 multiplié par 1/(CMPC après impôts - 3%).
+
+Cependant, ma VAN est différente de la solution. Je ne sais pas d'où vient mon erreur. Sans doute de mon CMPC après impôts.
+
+Votre aide serait grandement appréciée!
+
+Shifumy.

@@ -1,0 +1,5 @@
+Bonjour Marie-Ange et merci beaucoup pour toutes vos réponses très claires,
+
+Je me demandais comment est-ce qu'on avait connaissance des taux zéro coupons qui permettent de calculer le prix d'une obligation? Est-ce une donnée marché? Dans votre exemple les taux augmentent, mais peuvent-ils décroitre?
+Merci beaucoup,
+Clara

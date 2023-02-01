@@ -1,0 +1,7 @@
+Bonjour,
+
+Merci pour la réponse précédente, j'ai bien compris.
+
+Cependant, une incompréhension subsiste. Si la VF = F*(1+r)^n, pourquoi lors du calcul des coupons, on n'applique pas cette formule telle quelle? En effet, dans l'exercice, on utilise VF = (F*(1+r)^n-1)/r.
+
+Merci d'avance pour la réponse.

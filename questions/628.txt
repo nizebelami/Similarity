@@ -1,0 +1,12 @@
+Bonjour, 
+J'ai une petite question à propos du quizz, et plus particulièrement par rapport à la question 4.
+
+Pour calculer les intérêts sur les intérêts, j'avais d'abord procédé de la manière suivante: 
+calculer les intérêts pour l'année 1; 
+ensuite calculer leur croissance sur les 7 années suivantes. 
+(Fxr) x (1+r)^n-1
+(15000 x 0.0325) x (1 + 0.0325)^7 
+487.5 x 1.25 = 609 
+Cette méthode semble être incorrecte; le résultat est supérieur au résultat obtenu en faisant le différence des VF. 
+Merci pour vos éclaircissements. 
+Mathias

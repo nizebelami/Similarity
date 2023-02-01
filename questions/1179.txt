@@ -1,0 +1,12 @@
+Bonjour,
+
+A la suite de l'explication de la question 5, je continue à m'interroger pour le calcul du Bêta.
+D'après l'équation utilisée Beta i moyen = Beta CP x (capit boursière/valeur) + Beta dette x (valeur - capit boursière)/valeur
+Je n'ai jamais entendu que la valeur d'une entreprise = capitalisation boursière + la dette.
+La capitalisation boursière est pour moi indépendante et dépend de l'intérêt que portent les investisseurs.
+
+Je ne comprends donc pas cette équation.
+
+Pourriez vous svp apporter plus de précisions ?
+
+Vous en remerciant.

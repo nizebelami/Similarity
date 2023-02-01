@@ -1,0 +1,7 @@
+bonsoir , 
+
+ je ne comprendre pas dans : 775 = 55.38 * ( 1-(1+teg)^-15 ) / teg 
+
+ teg = 0.88 pourcent comment on trouve se teg ? ? ? 
+
+ en vous remercier de avance . 

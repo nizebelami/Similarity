@@ -1,0 +1,7 @@
+bonsoir , 
+
+ Y avoir t il un formule qui permettre de éviter de sommer tout le valeur actuel de le économie fiscal pendant 15an car cela être long à résoudre si on n' avoir pas le tableur excel ? je avoir utiliser le formule de le rente constant aller = total de intérêt par tableau sur 15an limité à 1200 par an * ( 1-(1 + 3,45%)^-15)/3,45 pourcent ) mais cela ne me donne rien de comparable . je avoir aussi fait : total de intérêt par tableau sur 15an limité à 1200 par an/ ( 1 plus 3.45%)^15 mais cela n' être pas possible car chaque année je avoir un montant différent à actualiser aujourd'hui . je ne retombe pas sur le formule dans le cours qui permettre de faire cela . 
+ 2eme sous question : avec le tableur excel cela fonctionne mais être étudiant à UCL Charleroi lors de quizz certificatif nous avoir notre outil excel mais lors de le examen avoir nous aussi un pc avec excel car certain calcul devoir être faire avec cela ? 
+
+ de avance merci , 
+ bon soirée 

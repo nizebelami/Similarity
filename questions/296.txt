@@ -1,0 +1,15 @@
+Bonjour,
+Je n'arrive pas du tout au même résultat que vous! 
+
+Je vous joins une copie de mon écran où vous trouverez les flux dans les 2 premières colonnes. Puisque l'investissement rapporte chaque année 1 million mais qu'il y a un coût de 100000 j'en arrive à un total positif de 900000. Après la 20ème année il y a une rente perpétuelle négative que j'intègre au calcul.
+
+Au milieu du tableau le calcul de la VAN (avec la formule sur LibreOffice) en fonction d'un taux r.
+
+J'arrive à une magnifique droit si je représente graphiquement mes résultats... Une idée du moment où je sors de la route?
+
+Merci d'avance!!
+
+[VAN][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/14890964221378811.jpg

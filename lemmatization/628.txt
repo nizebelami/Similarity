@@ -1,0 +1,12 @@
+Bonjour , 
+ je avoir un petit question à propos de quizz , et plus particulièrement par rapport à le question 4 . 
+
+ pour calculer le intérêt sur le intérêt , je avoir de abord procéder de le manière suivant : 
+ calculer le intérêt pour le année 1 ; 
+ ensuite calculer leur croissance sur le 7 année suivant . 
+ ( fxr ) x ( 1+r)^n-1 
+ ( 15000 x 0.0325 ) x ( 1 plus 0.0325)^7 
+ 487.5 x 1.25 = 609 
+ ce méthode semble être incorrect ; le résultat être supérieur au résultat obtenir en faire le différence de vf . 
+ merci pour votre éclaircissement . 
+ Mathias 

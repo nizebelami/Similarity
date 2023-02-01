@@ -1,0 +1,2 @@
+Bonjour,
+Je ne parviens pas à passer d'un TAP à un TAEG et même si je suis pas à pas le raisonnement, je ne parviens pas à utiliser le solveur pour résoudre le problème, j'ai bien suivi les compléments du cours mais appliqué au cas présent,.... et de surcroît, quand je réalise 55.38*(1-(1+0.88%)^-15/0.88%, je n'obtiens pas 775,.... Je ne sais plus par quel bout attaquer la bête.

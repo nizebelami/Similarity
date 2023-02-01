@@ -1,0 +1,9 @@
+Bonjour,   
+les Q9 et 10 me posent un problème de compréhension concernant l'année de la valeur terminale :  
+Pourquoi s'arrête-t-on en T2 à la question 9 ?   
+Pourquoi la VA de valeur terminale est actualisé en T3 et pas en T4 à la Q10?
+(l'énoncé du problème en Q9 : ... le tableau ci-dessous pour les 3 prochaines années. Au-delà de cet horizon, la direction de l’entreprise estime que les flux connaîtront une croissance annuelle de 3%... - ce que je comprends : à partir de T4)   
+Pourriez-vous m'apporter un complément d'explication.   
+Merci d'avance.
+
+Sophie

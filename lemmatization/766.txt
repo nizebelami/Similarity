@@ -1,0 +1,10 @@
+dans le exercice 2 , vous employer dans le résolution un formule issu de le vidéo 6 concerner le taux équivalent . à ce stade de cours , on travaille toujours en intérêt composer . dès lors , il me semble que le deux formule théorique rn = ( 1 plus r)^(n ) - 1 et r = ( 1 plus rn)^(1 / n ) - 1 ne se appliquer que à un taux de intérêt composer ( que l' on cherche à adapter en fonction équivalent . 
+
+ pourquoi pouvoir on utiliser le un de ce deux formule dans le résolution de un exercice baser sur un tap , c' est - à - dire un taux à intérêt simple ? 
+
+
+ ---------- 
+
+ pour résoudre le exercice , je avoir travailler par égalité , c' est - à - dire que je avoir poser : 
+
+ TAE de un crédit tap 6 pourcent mensuel devoir être égal au tae de un crédit à x pourcent trimestriel . avec le solveur , on trouve le X. 

@@ -1,0 +1,5 @@
+bonjour
+
+Pourquoi ne calcule-t-on pas la valeur actuelle net a t(1) de l'actif A, pour calculer la rentabilité de cette actif ? valeur de 123 de t(0) á t(1) avec le taux ss risque et calculer ensuite la rentabilité, car je pensait qu'on ne pouvait pas comparer des flux intervenant a des moments different.
+
+merci d'avance

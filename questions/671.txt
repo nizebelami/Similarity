@@ -1,0 +1,7 @@
+Bonjour,
+
+Dans la vidéo 3 "choisir sous contrainte de ressources", minute 4:05, Isabelle a dit *"..or vous voyez tout de suite qu'en effectuant ce choix, **la contrainte n'est pas saturée**, en réalité notre entrepreneur n'investirait que 350000 Euros. Et la bonne sélection est en fait le projet brasserie et déco shop. **Parce que la VAN de cette sélection est supérieure** à la création de richesse si vous entreprenez les deux premiers projets, librairie et brasserie."* 
+
+Je n'ai pas compris pourquoi mentionner la VAN ici alors que nous avons une contrainte à satisfaire ? 
+
+Merci d'avance.

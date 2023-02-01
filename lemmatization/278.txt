@@ -1,0 +1,17 @@
+Bonjour , 
+
+ dans le quizz récapitulatif question 5 , on demande de trouver comment exploiter le opportunité de arbitrage . 
+ dans ce exercice , je imagine que il falloir trouver le option dont le VAN être maximal . 
+ ci après , le début de feuille excel que je avoir commencer à remettre à jour en inclure le valeur à différent t = 0,1 et 2 de chaque option . 
+
+ seulement , comment actualiser le valeur de actif ? 
+ le actif b et a être dire sans risque mais n' avoir pas un valeur qui varier suivre un taux annuel constant .... 
+
+ je ne comprendre pas comment calculer le taux de référence dans ce exercice   et donc le VAN correspondant . 
+
+ merci ! 
+
+ Sébastien 
+
+ ! [ resolution exercice 5][1 ] 
+   [ 1 ] : https://edxuploads.s3.amazonaws.com/1488288405895182.png 

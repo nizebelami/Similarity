@@ -1,0 +1,16 @@
+Bonjour à tous, 
+
+Dans le cadre de cette leçon 13, nous sommes amenés à manipuler à de nombreuses reprises les notions de r(CP), r(actifs) et r(D). Cependant, j'éprouve beaucoup de difficultés à distinguer la différence entre ces 3 éléments ainsi qu'à déterminer leur valeur. J'ai même l'impression que nous les interchangeons d'un exercice à l'autre. 
+
+
+Si je devais poser quelques mots sur ces notions, je dirais que le r(D) c'est le taux sans risque r(f) c'est-à-dire le taux auquel je place et emprunte sur le marché, sans risque. En ce qui concerne le r(CP) c'est le rendement exigé par les actionnaires. Je le détermine par l'actualisation des dividendes futurs (implicitement) si je possède le prix de mon action ou je peux également le déterminer via la droite SML. Est-ce correct ? 
+
+
+Je n'arrive pas, malheureusement, à poser de mots sur le r(actifs). Pourriez-vous m'aider ? 
+
+
+Un tout grand merci, 
+
+Bien à vous, 
+
+Adrien LECLERCQ

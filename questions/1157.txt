@@ -1,0 +1,11 @@
+Bonjour, 
+
+ 1 - QUIZ : Question 1
+
+Pourriez-vous me préciser la raison pour laquelle le prix de l'action au T=1 se calcul comme suit : ***(2,8+50)/1,10^1*** et non (***2,8+50)/1,10^2*** ?
+Puis-je en conclure que c'est par ce que l'on parle de VF dans 1 an de l'action à laquelle elle va être vendue ?
+
+2 - QUIZ : Question 2
+=> Personnellement, pour le prix de l'action avec les nouveaux éléments, j'obtiens  93,63euro pour le calcul suivant "=2,5/(12%-9,33%)". Serait-il possible qu'il y ait une erreur dans le quiz ?
+=> Pourquoi faut-il utiliser l'anc. taux de rendemement exigé (14%) et non le nouveau (12%) dans le calcul du taux de croissance futur ?
+Taux dont le calcul est le suivant : =(1-33,33%)****14%***=9,33%

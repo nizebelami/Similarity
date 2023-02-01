@@ -1,0 +1,10 @@
+Bonjour , 
+
+ le correction indique que le moyenne arithmétique de rentabilité trimestriel être indiquer de * * * pourcent . 
+
+ 1 ) or 17.33%/4 = 0.043325 . pourriez vous expliquer pourquoi le résultat être différent svp ? 
+ 2 ) pourriez vous expliquer pourquoi dans le formule on ne prendre pas le moyenne géométrique pour calculer le variance svp ? 
+
+ encore merci de avance , 
+
+ Nicolas 

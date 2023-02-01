@@ -1,0 +1,5 @@
+Bonjour , 
+ le explication sur le tri et là VAN être clair . 
+ mais je me pose le question sur le coc : comment ce valeur être lui fixer ? est un indice de taux d intérêt , type euribor ? un autre taux d intérêt ? un seuil de rentabilité interne fixer par l entreprise ? 
+ merci d avance pour votre éclaircissement . 
+    Laurent 

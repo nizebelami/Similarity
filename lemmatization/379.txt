@@ -1,0 +1,19 @@
+Bonjour , 
+
+ je me permettre de envoyer ce message car je bloque complètement sur un question de quizz formatif ! je vous mettre ci dessous le énoncé ! je avoir trouver un cmpc après impôt de 0,0977 ! je actualise donc mon flux avec ce taux mais je ne trouve pas le réponse donner pas le logiciel ( 5200 ) . le cout fixe être bien à prendre en compte ? je n' avoir pas voir non plus de revente ... et je avoir bien calculer le valeur à le année 3 selon un taux de croissance de 3% ... bref , je être noyer dans le problème ... pouvoir vous me aider ? 
+
+ merci ! 
+
+
+ l’ entreprise YAHOU envisager un projet d’ expansion pour son activité actuel dont l’ estimation de principal flux être présenter dans le tableau ci-dessous pour le 3 prochain année . au - delà de ce horizon , le direction de l’ entreprise estime que le flux connaître un croissance annuel de 3 pourcent , ce qui correspondre au taux de croissance moyen de secteur d’ activité . 
+
+ YAHOU supporte actuellement un coût de 12 pourcent pour son capital propre et son capitalisation boursier ( le valeur de marché de capital propre ) être de 2 000 000€. le valeur de son actif économique être aujourd'hui estimer à 2 800 000 euro et l’ entreprise avoir un dette pour lequel lui payer 7 pourcent d’ intérêt par an . son taux de imposition se élever à 40 pourcent . selon le expert financier , le taux sans risque être actuellement de 2 pourcent et le rentabilité de portefeuille de marché être de 8 pourcent . 
+
+ quelle être le van de projet si ce dernier être financer avec un levier de 1 ( supposer constant et pour lequel le coût de le dette reste constant à 7 pourcent ) ? ( en millier de euro , arrondi à le unité ) 
+
+ ( en millier de euro ) 	 0 	 1 	 2 	 3 
+ investissement 	 1000 			
+ CA 		 520 	 780 	 1170 
+ cout variable 		 182 	 273 	 410 
+ charge fixe 		 75 	 75 	 75 
+ amortissement 		 50 	 50 	 50 

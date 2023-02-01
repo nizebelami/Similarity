@@ -1,0 +1,3 @@
+bonjour, voici mon problème, comment trouve t'on le TEG dans excel en utilisant la fonction valeur cible pour la question 4?
+
+bien à vous

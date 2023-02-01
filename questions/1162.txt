@@ -1,0 +1,7 @@
+Bonjour, 
+
+1. Je ne comprends pas pourquoi nous devons calculer l'IP ? Il n'est pas indiqué que nous sommes dans un cas sous contrainte de ressources. 
+2. Je ne comprends pas bien la seconde partie de la résolution avec la contrainte budgétaire. Une van de 185 est bien supérieur à 120, je ne comprends donc pas pourquoi nous choisissons ces projets. 
+Pouvez-vous m'aider ? 
+
+Merci d'avance

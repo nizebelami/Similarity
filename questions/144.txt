@@ -1,0 +1,10 @@
+Bonjour,
+Dans votre vidéo n°3, à la fin, vous démontrez sur le tableau le comportement des coupons si on se positionne juste avant la fin d'année 9 (9-) et juste après (9+). J'ai essayé de reproduire le calcul mais je ne comprend pas comment il faut procéder si je veux vérifier la situation 9-. 
+
+Si je me place sur la ligne du temps à t=9, je suis bien arrivée au résultat du prix 100, cc =0 et le cours = 100 (le cc j'ai calculé comme 0 x 5 = 0; car on vient juste de toucher le coupn - c'est correcte?); 
+
+Par contre pour 9-, je dois considérer que je suis par exemple 1 mois avant la fin d'année 9? Comment je vais calculer le cc dans ce cas? Pourriez-vous m'expliquer un peu plus le calcul du cc svp (comment je peux déterminer le "nombre de jours depuis le détachement du premier coupon, si à l'instant t=10 j'achète l'obligation et je commence recevoir mes coupons à partir de l'année t=9? ). j'ai compris alors que mon premier coupon sera touché en t=9 et alors "le nombre de jours depuis détachement" va égaler à 0???
+
+Merci beaucoup pour votre aide,
+
+Simona

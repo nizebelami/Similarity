@@ -1,0 +1,15 @@
+Bonjour,
+
+Je suis en pleines révisions avant l'examen final et une incompréhension est née de la question 1 de ce quiz 13 en parallèle avec la question 1 du quiz 14 dans la considération du rcp avec prise en compte de l'effet de levier ou non.
+
+ Dans ce quiz 13, le rcp qui découle de la droite du MEDAF = 5.4%. Jusque là c'est clair.
+
+Mais ensuite vous introduisez ce rcp dans la formule du CPMC après impôt comme étant un rcp avec effet de levier **CMPC=5,4%*0,75+0,25*2%*(1-40%)=4,35%.** Et c'est là que l'ambiguité se créée chez moi!!
+
+N'aurait il pas fallu considérer ce rcp = r actif = CPMC avant IMPOT et le remplacer dans la formule du CMPC apres IS en tant que tel? Et cela correspondrait au principe du MEDAF du marché parfait!?
+
+Le raisonnement  que vous proposez ici est en opposition avec celui de la question 1 du quiz 14 où là vous considérez le rcp découlant de la droite du MEDAF comme étant le rcp=ractif=CMPC avant IS et qui sert à en déduire le CPMC après IS. Dites moi ce qui m'échappe s'il vous plait? j'avais posais la question inverse lorsque j'ai été confronté au quiz 14 question 1 en utilisant le rcp comme dans cette question mais j'avais fini par comprendre le raisonnement selon lequel le rcp du MEDAF ne tient pas compte du levier car marché parfait donc à considérer comme étant rcp sans endettement. 
+
+Merci de me venir en aide!
+
+Bonnes fêtes

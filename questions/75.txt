@@ -1,0 +1,6 @@
+Bonjour,
+
+Je rencontre les difficultés avec la résolution d'équation pour définir le TEG nécessaire pour le calcul du TAEG. Quelqu’un pourrait m'expliquer comment résoudre l'équation pour avoir le résultat 0.88%? (->TEG mensuel égale au montant emprunté net des frais et la VA des mensualités futures, donc: 775=55.38*((1-(1+TEG)^-15)/TEG).
+Merci d'avance,
+
+Simona

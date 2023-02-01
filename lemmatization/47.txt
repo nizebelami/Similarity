@@ -1,0 +1,11 @@
+bonjour merci pour ce excellent présentation . 
+
+ je avoir un question un peu spécial à partir de le leçon . 
+
+ je comprendre que un prise de risque supplémentaire implique un taux de intérêt plus élevé . mais comment faire on pour déterminer ce prime de risque pour un pays . 
+
+ je voir plusieurs modèle ( baser sur le Spreads CDS , le yield 10 an ... ) mais ce modèle ne donner pas tout le même prime pour un même pays . 
+
+ avoir vous de le littérature récent et pertinent à me conseiller ? 
+ en vous remercier , 
+ cordialement 

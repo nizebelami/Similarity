@@ -1,0 +1,5 @@
+Bonjour,
+
+J'ai bien compris le raisonnement détaillé pour le calcul de la VA des coûts de la machine 1, mais je me demande comment effectuer celui de la machine 2 alors que pour celle-ci  g > r et il me semblait qu'une des conditions pour appliquer la formule est d'avoir un taux de croissance inférieur au COC ?
+
+Merci

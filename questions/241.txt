@@ -1,0 +1,36 @@
+Bonjour,
+
+J'ai bien pris connaissance du [post ci après relatif aux pondérations de la question 4 sur le quizz n°1][1]. 
+
+Néanmoins, j'ai encore 2 questions :
+
+----------
+
+1) Pour le calcul du prix en AOA, la loi du prix unique dit que sur un marché concurrentiel, les actifs qui génèrent des flux identiques doivent avoir la même valeur. 
+
+Pour illustrer ceci, le cours théorique donnait des exemples dans lesquels  on avait une égalité du type Flux de Fonds Indicé = Flux obligation ss risque + Flux autre actif. 
+
+Dans le quizz, l'égalité devient  x % Flux Obligation ss risque + y% Flux Obligation de Fonds Indicé  = Flux Autre actif
+
+**Ma question :** 
+Le principe de l'AOA implique -t-il que l'égalité des flux peut s'écrire dans n'importe quel sens, quel que soit le type de flux (total marché ou actif) ?
+Et non pas uniquement comme une équation avec d'un côté le flux du total du marché et de l'autre ceux relatifs aux fonds spécifiques ?
+
+
+----------
+
+
+2) Quand j'utilise le solver proposé dans votre post précédent [http://fr.numberempire.com/equationsolver.php][2] , des erreurs d'arrondis sont obtenus dans les proportions (33/100 au lieu de 1/3) induit  un prix de l'actif D de 462.87 au lieu de 463 => D'où petite différence dans la précision.
+
+**Ma question :** 
+Est-ce une limitation du solver ?
+Avez-vous connaissance d'un autre solveur qui n'a pas ce petit souci ? 
+
+Merci pour votre aide !
+
+Sébastien
+
+
+
+  [1]: https://courses.edx.org/courses/course-v1:LouvainX+Louv9x+1T2017/discussion/forum/i4x-LouvainX-Louv9x-course-Spring_2015_T1/threads/58999934dad66c082f0002d7
+  [2]: http://fr.numberempire.com/equationsolver.php

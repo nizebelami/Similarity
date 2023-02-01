@@ -1,0 +1,14 @@
+Bonjour , 
+
+ de le énoncé je déduire que le tableau sur t=1 et t=2 contenir uniquement un donnée relatif à le extension de activité , à le exclusion de tout activité existant et donc strictement ' incrémental ' ? et cela se applique de lors à tout le rubrique , y compris le variance de bfr , le amortissement et le investissement . 
+
+ plus particulièrement , concerner le amortissement , l' on devoir donc concevoir que 
+
+ - pour t=1 il référer seulement à investissement ( montant inconnu et non nécessaire pour le question ) en vue de le extension de activité , mais déjà réaliser en t=0 ( année où le décision de extension être prendre ) . 
+ - pour t=2 , idem , avec en plus un portion de amortissement pour le investissement pour le extension , effectuer en t=1 
+
+ être -ce exact ? 
+
+ merci de votre réponse . 
+
+ B. 

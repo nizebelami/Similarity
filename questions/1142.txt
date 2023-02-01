@@ -1,0 +1,5 @@
+Bonjour,
+Selon la solution, la VAN est
+Somme[i=0 à 5] CFi/(1+rd)^i
+Je ne trouve pas le résultat. Pourriez-vous m'indiquer mon erreur?
+Merci!

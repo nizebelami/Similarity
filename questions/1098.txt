@@ -1,0 +1,7 @@
+Bonjour,
+
+Je ne comprends pourquoi à la fin de l'exercice 5, l'exposant est de 1/5 (donc 1/n) sur le dernier calcul.
+
+Merci d'avance pour l'explication.
+
+Très cordialement,

@@ -1,0 +1,1 @@
+j'ai une question par rapport à la question 3 du quiz: Comment en a obtenir 3.7 au calcul du Rcp ? et pourquoi en a pas integrer la valeur du taux sans risque au equation MEDAF Rcp=  Ractif + beta(Rm-Ractif)?

@@ -1,0 +1,3 @@
+Peut-on également calculer le taux équivalent pour chacune des proposition en utilisant la formule r = (1=r)^n - 1 pour ensuite sélectionner le taux équivalent le plus avantageux ? 
+
+Merci.

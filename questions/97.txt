@@ -1,0 +1,7 @@
+Bonjour,
+
+J'ai vu des demandes d'élèves pour savoir si on aurait la correction du quizz certificatif, mais pas encore de reponse de votre part (j'imagine pour une question de temps), cependant je suis très intéressé d'avoir un retour dans ce sens surtout pour la question 4 où j'ai eu faux et même après avoir refait la question plusieurs fois, je n'arrive pas à trouver l'erreur de mon raisonnement. En effet, j'ai calculer les VA de chacune des 2 périodes de rentes avec une double actualisation de la 2e période (pour la ramener à t=0) et enfin j'ai sommé les 2 VA. Le résultat obtenu correspondait à l'une des propositions mais ce n’était pas la bonne. Je pense qu'il y a peut être une subtilité dans la notion du COC que je n'ai pas compris.
+
+Merci
+
+Aurélien

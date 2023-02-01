@@ -1,0 +1,3 @@
+Je n'ai pas compris comment algébriquement parlant, vous trouvez le résultat à la question. 
+J'ai bien compris qu'il fallait actualiser 190.000, et que le calcul de base était donc par rapport à la formule: 
+190.000 = 150.000 * (1+r)^3. Je n'ai juste pas compris comment isoler le r.

@@ -1,0 +1,4 @@
+La réponse à la question 2 est 6,03 hors la formule démontre : 6,13 ==> (1 + 1,5%)^4 - 1
+Y a-t-il une erreur dans mon calcul ou une erreur dans vos arrondis ? 
+
+Merci.

@@ -1,0 +1,6 @@
+Bonjour,
+
+Je ne comprends pas comment on obtient un coefficient de corrélation entre l'action sans risque et l'actif indicé égal à 0 dans cet exercice.
+
+Bien à vous,
+Virginie

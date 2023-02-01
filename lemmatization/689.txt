@@ -1,0 +1,12 @@
+Bonjour , 
+
+ je avoir quelque question à propos de le leçon 10 : 
+
+ - pouvez vous me donner un définition de TRA , tre , et taux de rendement attendre . j’ avoue que je m’ y perdre entre le 3 et que ce n' être pas clair . 
+
+ - dans le video sur le impact de temps , je ne comprendre pas pourquoi , quand on inverse le graphique , le raisonnement être inverser ? où se situe l’ observateur de graphique , en t0 ou t100 ? je ne comprendre pas quelle être le raison qui faire que il y avoir un croissance de prix . pour le instant , je avoir le impression que cela se produire " par magie " sans raison apparent , mais je me doute bien que ce n' être pas le cas . 
+ - dans le video sur le structure par terme de taux , on nous présente un tableau reprendre le maturité , le taux zéro - coupon et le prix . de où venir ce tableau , qui l' établir et comment ? 
+
+ merci de avance pour votre explication , 
+
+ Hélène Moureau 

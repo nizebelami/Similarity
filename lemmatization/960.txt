@@ -1,0 +1,5 @@
+Bonjour , s' il vous pler je aimer avoir un confirmation :   lorsque je decide de investir dans un actif 
+ - si je detien un portefeuille bien diversifier alors le prime de risque que je aller exiger aller dependre de beta 
+ - par contre lorsque je ne dispose pas de un portefeuille le prime de risque = volatilité - taux sans risque 
+ est ce bien celà ? 
+ merci de avance . 

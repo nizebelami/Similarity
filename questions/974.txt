@@ -1,0 +1,5 @@
+Bonjour Madame,
+Je comprends tout ce que vous faites mais lorsque moi je calcule la VAN je trouve -29,35. Donnée qui ne me dit rien sur le fait si il y a ou non un ou plusieurs TRI. Comment construit-on un graphique comme dans la correction en examen lorsqu’on a ni tableur ni rien ? 
+On ne peut pas savoir qu’il y a un ou deux TRI et à quel taux ? 
+
+Cordialement

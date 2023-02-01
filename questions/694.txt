@@ -1,0 +1,9 @@
+Bonjour,
+
+Dans la question 2: Je n'arrive pas à comprendre les paramètres 1, 2 et 3 concernant les deux obligations ci-dessous:
+![][1]
+
+Merci d'avance.
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/15544871358657101.png

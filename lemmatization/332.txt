@@ -1,0 +1,13 @@
+Bonjour , 
+
+ je vouloir savoir s' il y avoir un autre possibilité pour résoudre ce calcul . 
+ en effet , de façon intuitif je avoir raisonné en me dire que avoir 18 année entre t67 et t85 , le montant dont je vouloir disposer être de :    18 x 12 000 euro = 216 000 euro . 
+
+ ensuite , je avoir faire un formule de actualisation où 216 000 euro = f x ( 1 - ( 1 plus 3.75%)^-37 )    /   3,75 pourcent 
+ je avoir tenter plusieurs formule , dont un capitalisation cependant je n' arrive pas à le bon réponse . 
+
+
+ pouvez vous me indiquer si ce façon de faire être juste ? 
+ si oui , pouvez - me guider au niveau de différent formule à employer ? 
+
+ un grand merci 

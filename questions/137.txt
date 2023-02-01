@@ -1,0 +1,7 @@
+Bonsoir,
+
+Lorsque j'utilise mon outil solveur de MS Excel pour résoudre le choix de mes projets, ma colonne "Bin" de mon tableau ne fonctionne pas comme une colonne binaire. C'est à dire j'initialise ma colonne "Bin" à "1". Et quand mon solveur me propose une solution, je constate dans ma colonne "Bin" des nombres à virgules (comme par exemples 0,82562, 0,67443, 0,223425 ...) au lieu de "1" ou "0". Pourtant le solveur fonctionnait bien pendant mes entraînements et les Quiz formatifs. 
+
+Est ce un problème de configuration de mon outil Excel ou y a t il quelque chose de particulier à faire? Car je ne trouve pas encore de solution dans l'aide d'Excel. 
+
+Merci par avance de votre aide. Bien à vous.

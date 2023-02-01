@@ -1,0 +1,11 @@
+Bonjour, 
+
+Le modèle d'actualisation des dividendes est assez clair.
+
+Mais il dépend fortement du rendement attendu des capitaux propres (Rcp). Comment celui-ci est-il calculé ?
+
+D'autre part, si je prends l'exemple de Total, qui a annoncé une augmentation forte du dividende (https://www.total.com/fr/actionnaires/action-et-dividende/dividende), en croissance annuelle de 3.23% alors qu'elle était de 1,21% auparavant, on aurait du constater une hausse importante du prix de l'action, a Rcp constant, ce qui n'a pas été le cas (il me semble).
+
+Merci d'avance pour votre avis.
+
+Laurent

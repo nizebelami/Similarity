@@ -1,0 +1,9 @@
+Bonjour,
+Fin de la leçon 12 :  “La prime de risque offerte par un actif sera donc déterminée par son risque systématique.” .. "Cette rentabilité espérée ne doit pas rémunérer le risque diversifiable. Elle ne doit rémunérer que le risque non diversifiable, le risque de marché."
+
+Je comprends bien ce principe pour les actions. En revanche, je ne comprends pas bien le principe quand il s'agit des obligations.
+
+Pour valoriser une obligation, on actualise les flux attendus à un taux égal à "taux sans risque + prime de risque". J'ai l'impression que cette prime de risque est  - pour une bonne partie - spécifique à l'émetteur. Cela voudrait dire que ce risque spécifique à l'émetteur est considéré comme non diversifiable ? 
+
+Merci d'avance.
+Ph. Gérard

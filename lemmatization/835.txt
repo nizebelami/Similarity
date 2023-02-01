@@ -1,0 +1,7 @@
+bonsoir , 
+
+ je me permettre de venir vers vous car je avoir un question quant à le question numéro 4 . pour le premier partie de réponse , je avoir bien comprendre que 2.236=2.15 * 1.04 . ensuite sur base de cela , on calcule le taux de rendement exigé par le actionnaire 8.97%=4%+2.236/45 . jusque là , je vous être car je avoir le même raisonnement . en revanche , pour le dernier partie de le exercice , je n' avoir pas trouver et malgré le réponse donner ainsi que le explication je ne comprendre toujours pas pourquoi vous avoir faire replacer le nombre 2.236 dans le formule 1.98%=8.97%-2.236/32 , car selon le formule ce être p0 = d1/(rcp - G ) . dans ce exercice - ci , d1 n' être pas 2.236 car il avoir déjà être utiliser dans le premier partie de le exercice . 
+ pouvez vous me éclairer svp car je ne comprendre toujours pas . 
+
+ bien à vous , 
+ Mostapha 

@@ -1,0 +1,3 @@
+Bonjour, Pouvez vous m'aider je ne comprends pas d'ou vient le 0.7 dans 5000= 1000*(1-1.06^-n)/0.06 N= LN 0.7 / LN 1.06 (il sort d'ou le 0.7 ???) N=6.12
+
+Merci d'avance

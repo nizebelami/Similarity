@@ -1,0 +1,2 @@
+Bonjour, si je prends l' exemple du Projet 1, son TRI est donné à 8%. 8% est la plus-value rapportée à l' investissement initial, au bout d'un an. J' avais compris que le TRI était le rendement qui permet d' annuler la VAN, et donc il y est associé une question d' actualisation. Or ici, le 8 % n'est pas actualisé. Pouvez-vous expliquer s'il vous plaît cette apparente contradiction?
+Merci.

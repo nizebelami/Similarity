@@ -1,0 +1,6 @@
+un complément de revenu à partir de 68 an ou 67 an ? 
+
+ bonjour , 
+ le calcul de le va au moment de le retraite qui être décrire dans le explication se base sur un premier versement effectuer à 68 an . or le énoncé stipule " un complément de revenu de 12000 euro par an à partir de 67 an " . je avoir donc faire le calcul suivant : ( 12000*(1-(1,0375)^-18)/0,0375 ) plus 12000 = 155045,53 plus 12000 = 167045,53 .    cela avoir biaiser le résultat de calcul suivant . où être le erreur dans mon raisonnement ? quelle être , dans le exercice , le convention de langage qui déterminer le utilisation de premier ou de second raisonnement ? 
+
+ merci 

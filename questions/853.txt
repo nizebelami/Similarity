@@ -1,0 +1,6 @@
+Bonjour,
+
+Pourquoi le projet 3 pourrait-il être entrepris si il a une VAN = 0 ? Si il ne crée pas de valeur (et n'en détruit pas), pourquoi serait-il intéressant de le retenir ?
+
+
+Merci

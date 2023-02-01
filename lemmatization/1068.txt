@@ -1,0 +1,3 @@
+Bonjour , 
+
+ Est-il toujours nécessaire de faire un représentation graphique pour mettre en évidence le problème lier au tri ou y avoir t' il possibilité de le prévoir sans passer par le graphique ( e : 2 valeur de tri possible ) ? cordialement Louis 

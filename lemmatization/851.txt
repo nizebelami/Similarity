@@ -1,0 +1,9 @@
+Bonjour , 
+
+ quand je calcule le valeur de le obligation , je n' atteinds pas le même résultat que dans le éxercice 2 . 
+ mon calcul : obligation c ( taux de coupon : 3 pourcent ) par exemple 
+ -- > 0.03/(1.05)^10 plus 1/(1.05)^10 = 63.23306 
+
+ comment arriver à 84,56 ? 
+
+ merci . 

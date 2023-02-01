@@ -1,0 +1,5 @@
+Bonjour
+
+Dans la q5 du quizz, je n'ai pas compris comment vous obteniez le taux d'actualisation qui égalise la VAN a la VA des flux futurs, ni même vraiment compris comment vous obteniez la VA des flux futurs?
+
+Merci!

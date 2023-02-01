@@ -1,0 +1,8 @@
+Bonjour,
+
+J'ai quelques problèmes de compréhension avec la question 6 du quiz certificatif:
+a) quelle difference y a-t'il entre "revenus générés"  et CA ?
+b) qu'entend-t'on ici par "valeur terminale du projet " ? - S'agit-t'il du CF de l'année 6 (incluant les BFR) ?
+c) dans l'analyse de sensitivité, s'agit-t-il de modifier la valeur initiale du CA en l'année 1, de manière a ce que le COC soit égal au TRI ?
+D'avance merci,
+José

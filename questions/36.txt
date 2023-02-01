@@ -1,0 +1,11 @@
+Bonjour,
+
+il s'agit de l'exercice du slide , ou l'on place 1000€ à un taux de 2% pour constituer une épargne cumulée de 50000€
+
+J'ai trouvé le N qui est de 35,003
+
+Par contre pour trouver la VF je ne comprends pas, car si je fais les 1000x (1,02)^35 , j'obtiens 1999,88 de montant à placer chaque année pour constituer l'épargne je suppose ? , d'où viennent les 49 994 48  indiqué en réponse ?
+
+De plus si je fais , 1999,98 X 35 ans j'obtiens 69996,13€
+
+Merci.

@@ -1,0 +1,6 @@
+Bonjour,
+
+ - Comment peut-on calculer le coût du capital de l'entreprise FOOTBOOK alors qu'elle a deux bêtas ? 
+ - Comment doit-on utiliser les "flux de trésorerie prévisionnels" pour résourdre ce problèmes ?
+
+Merci d'avance.

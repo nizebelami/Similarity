@@ -1,0 +1,3 @@
+Bonjour,
+Je m'embrouille pas mal lors des calculs entre les taux des capitaux propres et les taux des actifs, les deux étant lié via le taux de la dette et le levier.
+Est ce que vous pourriez faire un petit rappel sur la différence entre les deux ?

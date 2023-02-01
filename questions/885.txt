@@ -1,0 +1,5 @@
+Bonjour,
+Je n'ai pas compris pourquoi l'économie d'impôt théorique lié à l'investissement en t0 n'as pas été pris en compte dans le calcul de la van.
+et de façon plus générale pourquoi la ligne investissement est reporté dans le tableau du calcul du CF plutôt que dans celui de l'établissement du RN.
+merci
+Eglantine

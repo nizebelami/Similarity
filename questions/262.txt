@@ -1,0 +1,2 @@
+comment trouvez 15 ans ?
+La première chose à faire est déterminer le SRD sur l'emprunt existant. Ce SRD s'obtient comme la VA des mensualités futures à la date d'aujourd'hui. On connait la mensualité (850) et la maturité de l'emprunt (15 ans, soit 180 mois)

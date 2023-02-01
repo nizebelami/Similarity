@@ -1,0 +1,3 @@
+Bonjour , 
+
+ le solveur dcod me donne pour le formule 0=-250 plus 100/(1 plus 41.89%)+150/(1 plus 41.89%)^2+x/(1 plus 41.89%)^3      x = 1.95342 x 10 ^ 7 alors que avec le même formule , vous obtenir 300= > ? 

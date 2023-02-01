@@ -1,0 +1,1 @@
+bonjour je être bloquer pour le calcul de tri . tout être ok jusque à le VAN et ensuite je ne parvenir pas à compléter le solver correctement pour calculer le taux de équilibre . je devoir indiquer un formule pour le objectif et je bloque à ce niveau là 

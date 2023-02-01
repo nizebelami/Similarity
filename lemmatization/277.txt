@@ -1,0 +1,2 @@
+dans le exemple un peu plus compliqué de emprunt , lorsque je calcule le part de intérêt de le période 1 sur le solde restant devoir , je obtenir : 150 000 x 0,41 pourcent = 615 ( et non 611,12 ) . 
+ pourquoi je n' obtenir pas 611,12 alors que je applique exactement ce qui avoir être faire dans le vidéo précédent ? 

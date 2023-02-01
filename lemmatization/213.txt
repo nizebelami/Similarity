@@ -1,0 +1,24 @@
+bonsoir ,   je avoir traiter un exercice de un cours de finance et je avoir peur que le solution proposer ne être pas correct . 
+ ci dessous l' énoncer et le solution : 
+
+ * * problème * * 
+
+ On propose à un investisseur français l’ opportunité suivant : en échange de 20 000 euro compter , 
+ il recevoir 200 action gaz de France et 11 000 dollar . le prix de marché de un action GDF être de 40 euro et le taux de change euro / dollar être de 1,25 dollar pour 1 euro . l’ investisseur devoir il accepter ce placement ? 
+ que devoir il faire s’ il anticipe un dépréciation de dollar au cours de prochain mois ? 
+
+ * * solution * * 
+
+ pour savoir si le placement être intéressant , il falloir convertir le coût et le bénéfice dans un 
+ même unité . puisque l’ investisseur être français , le plus simple être de convertir tout le flux en 
+ euro . le coût de placement être de 20 000 euro . le bénéfice être de 200 action × 40 euro plus 11 000 dollar × 
+ 1,25 = 21 750 euro . le valeur net de ce placement être donc de 1 750 euro . l’ investisseur avoir tout intérêt 
+ à saisir l’ opportunité qui lui être offrir . le décision dépendre exclusivement de taux de change 
+ compter et de prix de l’ action GDF aujourd’hui . quell que être l’ anticipation de l’ investisseur 
+ quant au taux de change futur euro sur dollar , cela ne modifier   en rien le valeur net de projet et ne 
+ devoir donc pas influencer son décision . 
+
+ * * mon solution * * 
+
+ le bénéfice être de : ( ( 200 GDF * 40 euro ) plus ( 11 000 sur 1,25 ) )   -   20 000 = - 3 200 . 
+ je avoir donc déduire que le investisseur ne devoir pas accepter ce offre . 

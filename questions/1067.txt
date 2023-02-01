@@ -1,0 +1,11 @@
+Bonjour,
+
+J' ai du mal à intégrer la rente perpétuelle négatif de 100 000€ par an à l'infini au calcul.
+J'obtiens une VA de cette rente de -100000/10%= -1000000, que je soustrais au total des VA.
+
+J'obtiens une VAN de 1 462 210 je ne sais pas si celle-ci est correcte?
+Pourriez-vous détailler le calcul de la VAN?
+
+D'avance je vous remercie.
+
+Bien à vous

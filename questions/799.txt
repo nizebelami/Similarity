@@ -1,0 +1,11 @@
+Bonjour,
+
+L'un des éléments de l'exercice 4 est un TAP à 15 % avec remboursement mensuel.
+
+Je ne comprends pas pourquoi on peut "simplement" utiliser un TPP de 15%/12 dans les calculs d'actualisation. En effet, dans la leçon 4 vidéo 7, il est indiqué "Le TAP ne doit pas être utilisé comme taux d'actualisation quand on ne travaille pas en base annuelle, il faut le convertir en TAE". Pour cet exercice 4, j'avais donc calculé un TAE et ensuite un taux mensuel r1/12; taux que j'avais utilisé pour le calcul du DRA.
+
+Visiblement c'est incorrect mais j'ai beaucoup de difficultés à comprendre les réflexes à avoir lorsque les énoncés parlent de TAP. Je ne comprends pas bien ce que ça implique concrètement. Ma compréhension des TAP est qu'il s'agit d'un autre mécanisme financier (intérêts simples à la place de composés) que les taux "classiques" à intérêts composés qui implique des modalités de remboursement différentes au long de l'année (par exemple dans le cas d'un emprunt) mais qui, au final d'une année, représentera le même montant d'intérêts qu'un emprunt à intérêts composés. On peut donc, moyennant l'adaptation des taux, passer de l'un à l'autre dans les exercices.
+
+Pouvez-vous m'éclairer ?
+
+Cordialement

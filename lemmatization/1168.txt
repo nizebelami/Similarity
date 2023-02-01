@@ -1,0 +1,1 @@
+comment déterminer t on de façon aisé et intuitif le combinaison pour déterminer le prix de non arbitrage de un actif risquer à partir un autre actif dans un même tableau ? 

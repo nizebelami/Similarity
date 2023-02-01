@@ -1,0 +1,5 @@
+Bonsoir,
+Le bêta semble "réservé" aux actions. Techniquement, on pourrait calculer un bêta pour les obligations par rapport à une portefeuille de marché représentatif du marché obligataire. 
+Pourquoi personne ne fait cela ? 
+Merci d'avance
+Ph. Gérard

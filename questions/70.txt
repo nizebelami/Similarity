@@ -1,0 +1,2 @@
+Bonjour,
+J'ai constaté que la somme des coefficients de pondération des différents actifs était égale à 1 dans les quiz du chapitre 1 (ainsi que dans l'exercice 10 du quiz certificatif). Est-ce toujours le cas ? Je pose la question car, en résolvant la question 5 du quiz formatif, je trouve une somme  qui n'est pas égale a 1mais, en appliquant les coefficients trouvés, je trouve une des solutions proposées rejetée par le correcteur.

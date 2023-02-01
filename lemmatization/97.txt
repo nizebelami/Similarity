@@ -1,0 +1,7 @@
+Bonjour , 
+
+ je avoir voir un demande de élève pour savoir si on avoir le correction de quizz certificatif , mais pas encore de reponse de votre part ( je imagine pour un question de temps ) , cependant je être très intéresser de avoir un retour dans ce sens surtout pour le question 4 où je avoir avoir faux et même après avoir refaire le question plusieurs fois , je n' arrive pas à trouver le erreur de mon raisonnement . en effet , je avoir calculer le va de chacun de 2 période de rente avec un double actualisation de le deuxième période ( pour le ramener à t=0 ) et enfin je avoir sommer le 2 va . le résultat obtenir correspondre à le un de proposition mais ce n’ être pas le bon . je pense que il y avoir pouvoir être un subtilité dans le notion de coc que je n' avoir pas compris . 
+
+ Merci 
+
+ Aurélien 

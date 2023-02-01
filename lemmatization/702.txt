@@ -1,0 +1,13 @@
+bonjour à tout , 
+
+ lors de le vidéo n degré 3 de ce leçon 14 ( évaluer un projet avec prise en compte de financement et le cmpc ) , je me pose un question concerner le scénario numéro 2 . dans ce dernier , pour financer le nouveau projet de praline à le pulpe de fruit frais , Monsolini aller adopter un structure de financement légèrement différent de celui de son actif en place : Monsolini vouloir appliquer un levier de endettement égal à 0,5 . 
+
+ nous être donc amener à calculer le cmpc ( après impôt ) puisque nous tenir compte de le fiscalité . pour cela , dans le vidéo , nous prendre le cmpc en le absence de impôt auquel nous retirer un correction . dans ce scénario 2 , lors de calcul , nous tenir bien compte de nouveau levier pour le correction ( et nous obtenir 0,55 pourcent ) mais pour ce qui être de cmpc avant impôt , nous reprendre celui calculer plus avant ( et donc ce dernier être calculer avec le levier de 1 = = > nous avoir obtenir 10 pourcent ) . 
+
+ pourquoi , lors de ce calcul de cmpc après impôt , n' utiliser nous pas le cmpc en le absence de impôt mais en utiliser le nouveau levier ? en d' autre mot , pourquoi reprendre nous le résultat obtenir plus avant et ne changer nous pas aussi le levier dans le calcul de cmpc en le absence de impôt avant de y appliquer le correction ? 
+
+ je espérer avoir être clair , 
+ merci pour votre aide , 
+
+
+ Adrien LECLERCQ 

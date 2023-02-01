@@ -1,0 +1,2 @@
+Bonjour,
+Dans la question 4 du quiz formatif, vous avez indiqué qu'on peut la résoudre à l'aide du solveur. j'ai trouvé la solution seulement en visualisant l'ordre décroissant de l'indice de profitabilité, mais pas grâce au solveur!!!!!?

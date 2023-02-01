@@ -1,0 +1,16 @@
+Bonjour,
+
+Dans le second cas, à savoir quel CF pour une VF de 60000 dans 18 ans avec r = 7%, j'avais appliqué la même méthode que pour le premier cas quand on partait de la VA, à savoir repartir de la formule pour les rentes constantes, hors je ne retrouve pas le même résultat :
+Valeur Future d'une rente constante: VF=Fx((1+r)^n-1)/r	
+D'où F=VF/((1+r)^n-1)/r	
+
+CF = F = 1 833,69 €
+
+Hors dans votre démonstration vous utilisez un autre raisonnement avec la formule suivante et qui donne 1764,76 €
+Valeur Future d'une séquence de flux: VFn=VAx(1+r)^n	
+
+2 questions :
+     1) où est l'erreur de raisonnement qui fait que mon approche était mauvaise
+     2) je ne comprends pourquoi ni comment on passe de VF= VA (1+7%)^18 à une VF correspondant à une rente de 1 € pour donner les 34 € qui permette de finaliser le calcul
+
+D'avance merci pour vos lumières !!!

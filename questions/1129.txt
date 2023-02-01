@@ -1,0 +1,6 @@
+Bonjour, quelque chose m'échappe dans l'évaluation des CF de la question 5 : 
+
+> "Grâce aux données, on peut commencer par identifier les CF pour t=0 à t=5 (en milliers d'€): * * * * * * * * "
+Personnellement je trouve -1000; 700-150=550; 550-135=415; puis 428,5; 140,65 et 151,59. Je ne vois pas ce qu'il faut retrancher d'autre que les frais additionnels de marketing
+Merci
+Laurent

@@ -1,0 +1,9 @@
+Bonjour , 
+
+ pour ce question , on actualise logiquement le valeur de studio ( être donner que ilserer vendre au mieux dans un an ) . pour cela , comme on le voir dans le résolution , ce être le taux tap qui avoir être utiliser ... 
+
+ " on pouvoir déterminer le va de votre studio pour le banque : 115000/(1 + 3,99%)= 110587,56 . "      où 3,99 pourcent être le tap . n' avoir on pas de calculer le tae ? = ( 1+tap / k)^k - 1 = 4,06 pourcent ? ? 
+
+ de avance merci pour votre réponse . 
+
+ Romain 

@@ -1,0 +1,4 @@
+Bonjour,
+Je ne parviens pas à trouver les CF. Faut-il bien soustraire du CA-coût des ventes(810000), le coût des dettes(450.000) et le coût des capitaux propres (500.000), soustraire la variation BFR (97000) et ajouter l'amts (150000) et soustraire 500000 (inv.) en1?
+
+***Grâce aux informations du tableau, on peut déterminer les CF du projet; on obtient la suite de CF de l'année 0 à 5: -3000; 15; 600; 681; 119; 830***

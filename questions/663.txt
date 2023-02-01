@@ -1,0 +1,10 @@
+![excelfile qst 3][1]
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/15521379891305634.png
+
+Bonjour, 
+je ne comprends pas pourquoi ma VAN = 893526444% ?
+J'ai quand même utilisé la formule qu'on utilise toujours en excel? 
+
+Merci.

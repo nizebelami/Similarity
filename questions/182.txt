@@ -1,0 +1,2 @@
+Bonsoir, j'aimerais savoir la logique que vous faites afin de trouver ce resultat. "Si on regarde les flux générés par le 3ème actif, on peut s'apercevoir qu'ils peuvent être répliqués en investissant 1/3 dans l'actif sans risque et 2/3 dans le fonds indicé. Par AOA, on peut donc déterminer son prix qui devrait correspondre à 1/3 du prix de l'obligation plus 2/3 du prix du fonds indicé, soit (1/3*489+2/3*450) qui donne une valeur de 463"
+ Merci de bien vouloir me repondre.

@@ -1,0 +1,14 @@
+Bonjour à tous, 
+
+Lors de la résolution de la question N°5, j'ai éprouvé quelques difficultés dont j'aimerais vous faire part afin de voir si j'applique un raisonnement correct. 
+
+Tout d'abord, je pensais qu'il n'existait qu'un seul type de béta par action/entreprise et que ce dernier mesurait "le risque" de cette entreprise. Ici, je constate que plusieurs "types de beta" existent. 
+
+
+Lorsque je prends connaissance de la résolution, je n'éprouve pas de difficultés à déterminer le poids de chaque entreprise dans le secteur mais j'ai du mal à déterminer mon béta de l'actif. Quel est le raisonnement permettant de déterminer ce dernier ? On nous propose de multiplier la proportion de CP et de dette par leur beta respectif pour obtenir le beta de l'actif ? Cela signifie-t-il que le rendement de l'actif est le même que le rendement du passif (sorte de symétrie) ? 
+
+
+J'espère que vous pourrez m'aider,
+Bien à vous, 
+
+Adrien LECLERCQ

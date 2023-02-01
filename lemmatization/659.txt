@@ -1,0 +1,3 @@
+Bonjour , 
+ a le question 5 , le réponse " le tri être supérieur à 5 pourcent , le projet être rentable " être considérer comme faux mais le réponse " au coc de 5 pourcent , le projet être rentable " être considérer comme vrai . je ne comprendre pas pourquoi le premier être faux être donner que le tri être de 6 pourcent . 
+ merci de avance pour votre réponse 

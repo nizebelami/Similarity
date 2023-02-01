@@ -1,0 +1,1 @@
+Bonjour. Je commence par calculer un taux mensuel proportionnel puis le CF constant par an pendant 20 ans pour le premier. Je fais le même pour le second sauf que r = 3,25 % et que N est l'inconnue. Pouvez-vous m'indiquer si mon raisonnement est correct? Merci.

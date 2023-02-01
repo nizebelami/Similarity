@@ -1,0 +1,6 @@
+Bonjour , 
+ pour le question 4 lorsque il falloir calculer le droite de medaf : E(Ri)= rf plus bi * ( e(rm)-rf ) = >   je ne comprendre pas pourquoi pour le 2 secteur a et b vous n' avoir   pas soustraire le rf = > pourquoi vous avoir faire e(ri ) = 2 pourcent plus 0,9*(6%)= 7.4 pourcent et pas e(ri ) = 2 pourcent plus 0.9*(6%-2 pourcent ) ? 
+
+ bien à vous , 
+
+ Dounia 

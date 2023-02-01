@@ -1,0 +1,1 @@
+bonjour , je aimer bien apprendre le méthode utiliser pour trouver le valeur de un taux à le aide de solveur , surtout dans le exemple suivant : 775=55.38*(1-(1+TEG)^-15)/TEG . avec le outil valeur cibl , on trouve que le TEG=0.88 pourcent . et merci 

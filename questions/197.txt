@@ -1,0 +1,2 @@
+Bonjour,
+ j'ai une question sur la question 3 du quiz. Ma VA du gain par mois dans tous les tableurs et calculatrices que j'ai utilisés est différente de celle trouvée dans la solution proposée (239,12*(1-(1+0,234%)^(-240))/0,234%= 43872.38 et non 43850,11. J'ai pourtant utiliser la même démarche. J'aimerais avoir beaucoup plus d'infos svp.

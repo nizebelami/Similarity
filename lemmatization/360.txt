@@ -1,0 +1,14 @@
+Bonjour , 
+
+ pour le question 10 , il se agir donc de un calcul de VAN ajuster . 
+ je avoir quelque question pour être sûr de avoir bien compris . 
+ 1 . dans le cours , on dire que le actualisation de Cash Flows devoir se faire au coc , soit le cmpc avant impôt . il se agir donc de cmpc avant impôt de le entreprise ? 
+ 2 . le fait de emprunter ne modifier donc pas le valeur de ce cmpc ? 
+
+ si je être ce logique au calcul de VANA , je ne retombe pas sur le bon réponse .... 
+
+ pouvez vous me éclairer ? 
+
+ ! [ question 10][1 ] 
+
+   [ 1 ] : https://edxuploads.s3.amazonaws.com/14924597798350127.png 

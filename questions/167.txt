@@ -1,0 +1,6 @@
+Bonjour
+
+J'ai tout bon sur la question, mais j'ai un peu de mal a conceptualiser la méthode utilisée pour trouver les coefficients de pondération des différents taux.
+Pouvez vous m'expliquer un peu?
+
+merci

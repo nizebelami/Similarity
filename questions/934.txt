@@ -1,0 +1,4 @@
+Exercice 1
+La correction m'apparait fausse dans son point 4.Le flux de l'année 5 doit être réactualisé au temps 0
+de toute façon si l'on somme 3 et 4 on n'obtient pas le chiffre de 8521.
+Y a t'il un loup ou un facteur caché, ou suis- je à côté de la plaque ?

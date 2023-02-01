@@ -1,0 +1,7 @@
+Bonjour , 
+
+ je ne comprendre pas , pourquoi dans le calcul de va , le coût de machine être intégrer dans le calcul avec un signe positif , et pas un avec un signé négatif ( puisque il se agir de un investissement au t=0 ) ? 
+
+ merci et bon journée . 
+
+ Louison 

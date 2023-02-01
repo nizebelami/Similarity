@@ -1,0 +1,6 @@
+Bonjour,
+
+Pour la vidéo 5: structure par terme des taux,  dans l'exemple je n'ai pas compris comment vous avez fait pour trouver sur le Solveur 3.11%, pourriez-vous nous montrer une capture d'écran de ce calcul s'il vous plait? 
+Et aussi dans le même exemple je n'ai pas compris comment vous avez trouvé le 75.53 dans le VA (taux ZC).
+
+Merci beaucoup.

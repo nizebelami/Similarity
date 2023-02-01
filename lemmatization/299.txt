@@ -1,0 +1,3 @@
+Bonjour , 
+ Pourriez vous me expliquer comment un flux à t0 comme dans le exemple anémone pouvoir il être un flux positif ? il rapporte tout de suite 100 ? ? 
+ merci 

@@ -1,0 +1,12 @@
+Bonjour , 
+
+ dans le vidéo de le impact de temps pour le exercice 2 ( différence entre prix et cours ) . 
+ pour le hypothèse où le temps se écoule de 6 mois je n' arrive pas à le même réponse ( 102,47 ) . 
+
+ je faire le calcul suivre dans Excel : 
+
+ prix = 1*(1 plus 5%)^0,5 plus 5*(1-(1 plus 5%)^(-9))/5%+100/(1 plus 5%)^9 = 101,025 
+
+ pouvoir vous me dire où être le erreur ? 
+
+ merci 

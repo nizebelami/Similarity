@@ -1,0 +1,8 @@
+Bonjour, 
+Je pense avoir compris le raisonnement de l'exercice.
+
+Quand j'applique la formule donnée dans le corrigé : * * * * 
+Je trouve  5 191,19   dans Excel.
+Où est-ce que je fais l'erreur ? 
+Merci
+Nathalie

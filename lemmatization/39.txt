@@ -1,0 +1,7 @@
+Bonjour , 
+
+ ce être pour un éclaircissement . dans le vidéo sur " * * le prime de risque * * " , le professeur à dire ceci : " et lorsque un actif être risquer , le taux de actualisation que il falloir utiliser pour calculer son valeur actuel , devoir être égal au taux sans risque plus le prime de risque . or le prime de risque être le différence entre le rentabilité espérer de un actif risquer et le taux de intérêt sans risque . 
+
+ * * question * * : est qu' on pouvoir en déduire , en prendre un raccourci , de dire que le taux de actualisation être , en réalité , le rentabilité espérer ?   ou de dire que le taux de actualisation = le rentabilité espérer ? 
+
+ bien à vous . 

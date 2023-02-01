@@ -1,0 +1,9 @@
+Bonjour , 
+
+ je ne comprendre pas 2 chose : 
+
+ 1 ) ce être le taux de actualisation qui égalise le VAN ( 3000 ) à le va de flux futur . le valeur qu' on obtenir pour ce taux réel être égal à 1.97 pourcent . on faire comment pour obtenir ce 1.97 pourcent ? ? ? 
+
+ 2 ) on avoir le égalité suivant à résoudre : ( 1 plus taux nominal ) = ( 1 plus 1.97 pourcent ) * ( 1 plus 1.5 pourcent ) . le taux nominal valoir alors 3.5 pourcent . je ne comprendre pas pourquoi cela faire 3,5 pourcent parce que il me semble que le multiplication ne donne pas ce résultat ? 
+
+ en vous remercier de avance . 

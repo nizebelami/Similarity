@@ -1,0 +1,10 @@
+Bonjour, 
+
+1. Je ne parviens pas à calculer les CF a partir du tableau 
+Pourriez-vous me détailler le calcul?
+
+2. pourquoi applique-t-on la formule suivante pour le calcul de la VA de l'année 6? 830*(1+5%)/(10,36%-5%)
+
+Merci Beaucoup 
+
+Camille

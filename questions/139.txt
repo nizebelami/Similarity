@@ -1,0 +1,3 @@
+Bonsoir chers tous, merci de m'éclaircir sur toute la démarche avec explication par étape, car je suis perdu quant à trouver l'expression ci-après: VAN(r)=-10+1/r*(1-(1+r)^(-20))-0.1/r.
+D'où proviennent chacune de ces valeurs?
+Cordialement!

@@ -1,0 +1,1 @@
+Dans le question 3, les frais de 3000 ne sont ajoutés qu'à la fin. Mais dans le vidéo de l'exemple un peu plus compliqué, les frais de 4000 sont déja ajouté avant qu'on calcule le CF?

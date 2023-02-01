@@ -1,0 +1,2 @@
+Bonjour,
+Dans le calcul d'une VAN, on a tjrs retiré au coût du projet la valeur actualisée du CF en le divisant par (1+r)^n. Or, ici, on divise par 7% =>?

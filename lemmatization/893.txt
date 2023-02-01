@@ -1,0 +1,10 @@
+bonjour , 
+ je ne comprendre pas le formule cmpc après impot utiliser dans ce exercice . à vrai dire son application tel que dans le explication ressemble que partiellement à le formule de cours .  
+ 1 . le plupart de temps je voir que pour le prise en compte de le fiscalité vous n' appliquer jamais le ( 1-ti ) . ex . si le ennoncé dire que le taux de imposition être 30 pourcent .   je me attenderer à calculer ainsi : ( 1 - 30 pourcent ) néanmois vous juste mulitpliez par le 30 pourcent .   pourquoi ? 
+ 2 . 10/ 35 cela correspondre à quoi ? 
+ 3 . pourquoi un soustraction ? - 10/30 
+ en gros le formule que je avoir ce être : 
+ cmpc = vcp/(vd+vcp ) * rcp plus vd/(vd+vcp ) * rd * ( 1-ti ) 
+ grâce à le droite medaf on avoir trouver le rcp , on avoir également le rd .   mais voilà après vous appliquer le 30 pourcent direct sans faire ( 1 - 30 pourcent ) et le poids de le dette et de cp être passer où ?  
+ voici ce que vous écrire : 10,75 pourcent - 10/35 * 4,5 pourcent * 30 pourcent 
+ merci ! 

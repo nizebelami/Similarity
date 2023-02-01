@@ -1,0 +1,5 @@
+Bonjour , 
+
+ je ne être pas convaincre à le exercice 5 de chap 6 . en effet je avoir intégrer le coût de déchet en infini en faire va=100000 / r=2000000 . 
+ en tracer le courbe avec le fonction VAN ( ) de Excell , je ne trouve pas le même réponse . si vous vouloir , je pouvoir vous envoyer mon fichier Excel . le formule donner à le explication ne donne pas le même réponse que le fonction VAN ( ) de Excel ? ? ? 
+ cordialement 

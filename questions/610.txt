@@ -1,0 +1,1 @@
+est ce que la valeur du temps ne prend qu'en compte les interets compose.En fait on utilise VF=VO(1+r)2 rien que lorsqu il s'agit des interets composés?

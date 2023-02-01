@@ -1,0 +1,9 @@
+Bonjour,
+
+Pour cette question, la demande est de déterminer le gain (sous entendu en VA) fait grâce au changement du taux d'emprunt. 
+
+Ma question est : Pourquoi, pour l'actualisation des gains mensuels, on utilise le taux d'actualisation de 0,234% qui est le taux du second emprunt (emprunt actuel) ?
+
+D'avance merci pour vos réponses.
+
+Romain

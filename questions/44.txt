@@ -1,0 +1,1 @@
+En reportant les calculs sur excel, je me retrouve avec une valeur de 21659.99014 donc 21660 mais la réponse est considérée comme fausse. Je ne comprends pas.

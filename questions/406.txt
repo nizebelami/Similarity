@@ -1,0 +1,4 @@
+Bonjour,
+je n'arrive pas à retrouver les résultats énoncés pour la question 5 bien que j'ai les mêmes résultats intermédiaires. serait-il possible d'avoir plus de détails (tableaux d'amortissement complets par exemple) afin de comprendre ou se situe mon erreur?
+merci,
+Julien

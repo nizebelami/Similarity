@@ -1,0 +1,1 @@
+Je m'interroge sur les valeurs "0" des Actifs A et D.  Est-ce possible d'avoir une valeur positive en conjoncture défavorable et 0 en conjoncture favorable pour un même t=1 ?

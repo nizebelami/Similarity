@@ -1,0 +1,13 @@
+Pour la question 1, j'ai trouvé le même résultat, mais j'ai procédé autrement (mais ça revient à la même chose). J'ai essayé à chaque fois de déduire le TAE, pour calculer, par la suite le taux équivalent de capitalisation sur 5 ans (en utilisant les deux formules du cours données par madame Isabelle, voidéo de taux équivalents). et comparer donc les taux équivalents de 5 ans, des 4 comptes. En fait, 
+
+1) Pour le compte 1: j'ai calculé directement r5ans= (1+3%)^5 -1= 15,93%,
+
+2) Pour le compte2: r1/2= 1,5% donc j'ai utilisé la formule du cours, pour le TAE r= (1+1,5%)^2 -1= 3,0225%, ensuite j'aicalculé r5ans (en utilisant l'autre formule de rn) r5ans= (1+3,0225%)^5-1= 16,05%
+
+3) Pour le compte 3: r1,25= 3,5% donc r= (1+3,5%)^0,8 -1= 2,79%  (étant donné que 15 mois= 1 an et 1/4 de l'an et 1/1,25= 0,8), puis j'ai déduit r5ans= (1+2,79%)^5-1= 14,75%;
+
+4) Pour le compte 4: r1/12= 0,25% donc r= (1+0,25%)^12 -1= 3,042% et donc r5ans= (1+3,042%)^5-1=16,17%;
+
+ainsi j'ai trouvé que le taux équivalent effectif de la capitalisation sur 5 ans du compte 4 qui est le plus important et donc c'est la bonne réponse 
+
+Abir ELTAIEF

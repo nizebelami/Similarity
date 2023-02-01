@@ -1,0 +1,9 @@
+Bonjour,
+
+1) Je ne comprends pas les calculs effectués à partir de l'indice Euronext 100 (ni à partir de l'estimation du titre Michelin, vu que ce sont les mêmes calculs).
+Pourriez-vous illustrer ceci avec les chiffres utilisés "calcul des rendements mensuels à partir desquels on calcule la moyenne arithmétique qui, annualisée, permet de calculer le rendement annuel moyen" ?
+
+2) Concernant le calcul du bêta par la régression linéaire, je n'ai pas l'impression que la vidéo explique comment on arrive à calculer le bêta. Serait-il possible d'avoir un peu plus d'explications à ce sujet?
+
+D'avance merci pour vos réponses.
+A Naglieri

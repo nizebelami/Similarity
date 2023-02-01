@@ -1,0 +1,19 @@
+Bonjour,
+
+Je me permets d'envoyer ce message car je bloque complètement sur une question du quizz formatif! Je vous mets ci dessous l'énoncé! J'ai trouvé un CMPC après impôts de 0,0977! J'actualise donc mes flux avec ce taux mais je ne trouve pas la réponse donnée pas le logiciel (5200). Les couts fixes sont bien à prendre en compte? Je n'ai pas vu non plus de revente...Et j'ai bien calculé la valeur à l'année 3 selon un taux de croissance de 3%...Bref, je suis noyé dans le problème...Pouvez-vous m'aider?
+
+Merci!
+
+
+L’entreprise YAHOU envisage un projet d’expansion pour ses activités actuelles dont l’estimation des principaux flux est présentée dans le tableau ci-dessous pour les 3 prochaines années. Au-delà de cet horizon, la direction de l’entreprise estime que les flux connaîtront une croissance annuelle de 3%, ce qui correspond au taux de croissance moyen du secteur d’activité.
+
+YAHOU supporte actuellement un coût de 12% pour ses capitaux propres et sa capitalisation boursière (la valeur de marché des capitaux propres) est de 2 000 000€. La valeur de son actif économique est aujourd'hui estimée à 2 800 000€ et l’entreprise a une dette pour laquelle elle paie 7% d’intérêts par an. Son taux d'imposition s'élève à 40%. Selon les experts financiers, le taux sans risque est actuellement de 2% et la rentabilité du portefeuille de marché est de 8%.
+
+Quelle est la VAN du projet si ce dernier est financé avec un levier de 1 (supposé constant et pour lequel le coût de la dette reste constant à 7%)? (en milliers d'euros, arrondis à l'unité)
+
+(en milliers d'euros)	0	1	2	3
+Investissement	1000			
+CA		520	780	1170
+Couts variables		182	273	410
+Charges fixes		75	75	75
+Amortissements		50	50	50

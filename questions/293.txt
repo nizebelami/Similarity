@@ -1,0 +1,2 @@
+Bonjour, lorsque j'applique la formule de la VAN, j'obtiens une VAN toujours négative peu importe r alors que j'applique la même formule que vous. Pouvez-vous m'indiquer une piste de là où se trouve éventuellement mon erreur ? 
+Merci d'avance !

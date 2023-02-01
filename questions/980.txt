@@ -1,0 +1,4 @@
+bonjour
+je ne vois pas comment vous parvenez à calculer l'IP avec ces données restreintes.
+pouvez-vous m'éclairer car la formule est inapplicable ?
+merci

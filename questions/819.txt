@@ -1,0 +1,4 @@
+Bonjour,
+Pourquoi dans l'exemple de la Vidéo 2, indiquez vous dans la ligne de temps qu'à t=0 l'obligation vaut 100,03 et non 99,163 alors que c'est son prix d'émission, et non, non plus, 1000?
+Merci par avance!
+Clara

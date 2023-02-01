@@ -1,0 +1,7 @@
+Bonjour,
+
+J'ai compris le raisonnement à suivre pour trouver la bonne réponse mais je ne comprends pas votre développement.
+Pourriez-vous indiquer comment vous isolez le TAP à partir de la formule ((1+TAP/k)^k)-1 ?
+
+Merci.
+Alice

@@ -1,0 +1,2 @@
+Bonjour , lorsque je applique le formule de le VAN , je obtenir un VAN toujours négatif peu import r alors que je applique le même formule que vous . pouvoir vous me indiquer un piste de là où se trouve éventuellement mon erreur ? 
+ merci de avance ! 

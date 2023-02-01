@@ -1,0 +1,19 @@
+Bonjour , 
+ pour le calcul de le rentabilité historique , le formule à utiliser être : 
+
+ ( p(t1)+d(t1)-p(t0))/p(t0 ) 
+
+ pour le premier trimestre , je obtenir bien le même réponse que vous , mais pour le autre trimestre , je obtenir respectivement 
+
+ ( 91 plus 2 - 98)/98 = -5.1 pourcent 
+
+ ( 100 plus 2.5 - 98)/98 = 4.59 pourcent 
+
+ ( 105 plus 2.5 - 98)/98 = 9.69 pourcent 
+
+ ce résultat être bien différent de celui le solution , entraîner donc un rentabilité effectif différent également . 
+ pouvez vous me éclairer ? 
+
+ merci de avance , 
+
+ Mathieu 

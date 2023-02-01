@@ -1,0 +1,4 @@
+Bonjour , 
+ je faire et refaire le calculer avec le deux méthode ( solveur et valeur cibl ) et je trouve 16 ( 0.16 pourcent ) pour le taux de actualisation ! . 
+ je n' arrive pas à trouver le prb ? 
+ merci pour votre aide 

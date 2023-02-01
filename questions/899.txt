@@ -1,0 +1,11 @@
+Bonjour,
+
+Dans la vidéo 1 de Bruno Colmant il dit  : **"les dettes que nous avons contractées qui sont censées être remboursées dans le futur deviennent de plus en plus chères puisque ces dettes n'arrivent pas à être mangées par le phénomène du taux d'intérêt."** je ne comprend pas très bien ce qu'on veut dire par "mangées par le phénomène du taux d'intérêt".  
+
+Est-ce que c'est liè au fait que dans le cas d'un monde où à l'instant 't1' le taux d’intérêt 'r1' devient négatif, une même somme aurait plus de valeur dans le future ? 
+
+Ce qui impliquerait que les emprunts (à taux d'intérêt positif 'r01') contractés dans le passé à l'instant 't0', serait équivalent à des empreints à taux positif 'r02' dans un monde où le taux d’intérêt reste constant et positif durant le temps avec r02 >> r01 ? 
+
+Merci,
+
+Simo

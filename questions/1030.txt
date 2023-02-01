@@ -1,0 +1,3 @@
+Bonjour,
+
+Je ne comprends pas la partie de la résolution de l'exercice qui calcule la rentabilité espérée du fonds balanced. Apres avoir trouve la valeur actuelle du fonds balanced, je calcule d'abord le taux d'intérêt en situation favorable puis en défavorable du fonds balanced. J'applique le calcul 0.5xtaux intérêt favorable + 0.5 x taux d'intérêt défavorable. Alors que dans le corrigé il est calculé différemment.

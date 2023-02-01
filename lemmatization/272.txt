@@ -1,0 +1,5 @@
+Bonjour , 
+
+ je ne trouve pas quel formule il falloir appliquer dans le solver pour trouver le valeur de 1.97 pourcent . je avoir appliquer ce formule : 47000 = ( 20000/(1+r))+(20000/(1+r)^2)+(15000/(1+r)^3 ) mais je trouve alors r=8.71 pourcent . pouvoir vous me dire quel être le erreur dans mon formule ? 
+
+ merci de avance ! 

@@ -1,0 +1,7 @@
+bonsoir , 
+ je avoir relire avec soin tout le discussion se référer à ce question 1 . cela me avoir aider à corriger certain de mon erreur . cependant , je avoir encore quelque zone de ombre sur mon chiffre et sur le actualisation de le valeur terminal . 
+ 1 . bien que je avoir suivre votre conseil dans le question de camarade , je trouve un vt=16 254,17 . de coup , mon VAN me donne 8 527,22 alors que tout mon résultat précédent être exactement celui que vous avoir présenter dans le correction . 
+ 2 . est-il juste de calculer le vt de ce façon : 830/(10.36%-5 pourcent ) et l' actualiser sur 5 an au lieu de 830*(1 plus 5%)/(10.36 - 5 pourcent ) . si non , pourquoi ? 
+ 3 . pourquoi le actualisation de de le vt n' être pas calculer comme suivre : 830*(1 plus 5%)/(10.36 - 5 pourcent ) , n' être pas actualiser sur 6 an , mais sur 5 an ? 
+ je avoir tout de même envoyer mon fichier excel sur financeandstrategy7777@gmail.com , mail que je avoir prendre dans le conversation précédent , au cas où vous juger de le regarder . 
+ merci de avance ! ! ! 

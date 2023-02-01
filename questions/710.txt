@@ -1,0 +1,8 @@
+![excel file qst1][1]
+
+Bonjour, Est-ce que vous pouvez  m'expliquer pourquoi je ne trouve pas la bonne solution de la VAN?
+merci!
+Justine
+
+
+  [1]: https://edxuploads.s3.amazonaws.com/15553321108038201.png

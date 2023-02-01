@@ -1,0 +1,9 @@
+bonjour . 
+ si je avoir bien compris le valeur actuel de un rente perpetuell valoir le flux diviser par le taux sans risque . 
+ pourer on envisager de determiner le valeur actuel de un maison dont le loyer annuel être de 12000 euro , avec ce formule ? 
+ pour le taux sans risque je avoir prix le taux de livret a ( livret sans risque en France , r = 0,0075 ) . 
+
+ mais le résultat être beaucoup trop elevé . 
+ le rente perpetuell ne être lui pas applicable à ce cas ? 
+
+ merci de avance 

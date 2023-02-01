@@ -1,0 +1,1 @@
+Pour la question 4 comment puis-je trouver le prix du fond balanced pour t=0

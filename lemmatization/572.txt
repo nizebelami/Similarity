@@ -1,0 +1,9 @@
+Bonjour , 
+
+ je ne saisir pas complètement ce dernier problème dans calcul de taux de intéret où le entreprise avoir le choix entre payer 40.000 en 1 ou 15 000 en 4 fois . 
+ si je comprendre bien vous essayer de calculer le valeur actuel de un prêt sur 4 période de 15.000 selon un taux inconnu . et donc il falloir que ce va être inférieur à 40.000 . vous retrouver un solution où le taux être de 18 pourcent . 
+ je n' avoir pas complètement comprendre ce que cela représenter : cela vouloir il dire que je devoir accepter tout offre de le banque à payer en 4 x 15.000 si le taux être supérieur à 18 pourcent ? ? ? ce qui me semble bizarre dans mon tête . 
+
+ merci de avance pour le éclaircissement , 
+
+ Paul 

@@ -1,0 +1,15 @@
+Bonjour,
+
+Je ne comprends pas le cheminement pour aboutir au TAEG. Pour ma part, j'ai procédé comme suit: 1.Calcule du TAE TAE= (1+5.7%)/12)^12-1=5.85% Je ne comprends pas pourquoi vous utilisé le TAP mensualisé pour TAP/12 et pas le TAE
+
+2.Calcul ensuite de la VF avec le TAE: VF= 800*(1+5.85%)^(15/12)=858.92€
+
+    Je cherche ensuite le TAEG par l’intégration des frais en posant l'égalité suivante:
+
+(800-25)=858.92/(1+TAEG)^(15/12)
+
+soit TAEG=( (858.92/775)^12/15)-1=9%
+
+Pouvez vous m'expliquer pourquoi cette démarche est erronée?
+
+Merci

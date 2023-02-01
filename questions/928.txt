@@ -1,0 +1,10 @@
+Bonjour, 
+merci pour ce cours très instructif.
+
+Pourquoi y a-t-il une différence entre les 2 techniques de calcul de la VAN ?
+
+VAN de la formule Excel = 419 554 €	 
+VAN de la somme des VA des CF à t=0 = 461 509 €
+
+Merci !
+Nathalie

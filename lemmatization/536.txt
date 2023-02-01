@@ -1,0 +1,27 @@
+Bonjour , 
+
+ tout de abord , merci pour ce mooc et votre vidéo très intéressant et enrichissant . 
+
+ je avoir plusieurs question sur ce section consacrer à emprunt : 
+
+ 1 ) vous avoir introduire 4 type de emprunt en vous appuyer sur un exemple directeur . je constate que si je totalise tout le cf , je obtenir : 
+
+ avoir ) 25526 euro pour un remboursement total in fin 
+
+ b ) 25000 euro pour un remboursement in fin 
+
+ c ) 23200 euro pour un remboursement par amortissement constant 
+
+ d ) 23095 euro pour un remboursement par annuité constant 
+
+ = > je avoir croire comprendre que il ne falloir pas ajouter un somme qui survenir en un temps différent . cependant , dans un bilan sur sur mon relevé de compte en banque , ce être bien ce somme qui aller apparaître . * * quel être donc le emprunt le plus intéressant ? comment comparer ce différent mode de remboursement ? * * 
+
+ 2 ) vous aborder à plusieurs reprise le idée de refinancement ( vidéo " exemple un peu plus compliqué " , question 2 , 3 et 4 ) . à chaque fois , cependant , le durée de refinancement court sur le durée restant de le emprunt initial ( sauf question 2 où il falloir justement déterminer le durée de refinancement ) . 
+
+ dans le vidéo " exemple un peu plus compliqué " : le durée total de prêt initial être de 20 an . au bout de 5 an , se pose le question de refinancement qui aller porter sur 15 an . ce qui nous permettre de comparer le cf_refinancement et le CF_prêt_initial . * * comment savoir si ce refinancement " valoir le coût " si le durée de refinancement n' être pas de 15 an mais 10 an par exemple et si le cf_refinancement être différent de CF_prêt_initial ( cf. question 2 ) ? * * 
+
+ 3 ) dans le section sur le taux , vous indiquer que le taeg être utile pour comparer différents opération de financement . * * comment calculer ce taeg pour le question 5 ? * * 
+
+ de avance , merci pour votre aide ! 
+
+ Shifumy . 

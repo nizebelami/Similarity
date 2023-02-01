@@ -1,0 +1,4 @@
+Bonjour , dans le conversion de tap 9%=>taeg , on avoir 150 euro de frais = > 3000 - 150 = 2850 . 
+ tpp = TAP/12 = 9%/12 . tae = ( 1 plus 9%/12)^12 - 1 = 9.38 pourcent 
+ vf de 3000= 3000x(1 plus 9.38 pourcent ) = 3.281,42 . 
+ 2850 = 3281,42/(1+TAEG)= > taeg = ( 2850/3281.42)-1 = 0,13147357 or réponse = 15,14 pourcent , je avoir devoir trébucher quelque part entre un 3 et un 5 ; o ( 

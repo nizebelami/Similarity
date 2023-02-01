@@ -1,0 +1,9 @@
+Bonjour à tous,
+
+Je ne suis pas trop habitué à résoudre des équations, et je ne comprends pas comment on passe de 50 000=1 000x((1+2%)n-1)/2%  à   (1+2%)n = 1+2%x (5000/1000)
+
+n étant un exposant.
+Quelqu'un pourrait-il m'aider avec le raisonnement à utiliser? 
+
+Merci d'avance, 
+Max

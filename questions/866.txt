@@ -1,0 +1,12 @@
+Bonjour,
+
+- A 01:45, il est dit : "Ceci implique que la rentabilité exigée par les actionnaires
+sur les fonds propres est exactement égale à la rentabilité que ces mêmes
+actionnaires exigent sur les actifs réels de l'entreprise."
+
+Est-ce que ceci signifie que la rentabilité qui sera offerte aux actionnaires grâce aux actions émises par l'entreprise doit être égale à la rentabilité des projets dans lesquels l'entreprise est active (afin d'obtenir un bénéfice en hausse pour pouvoir rétribuer les actionnaires) ? Je ne comprends en fait pas bien la partie "que ces mêmes actionnaires exigent sur les actifs réels de l'entreprise" car les actionnaires sont uniquement détenteurs de parts de la société et non d'actifs réels de l'entreprise : ils sont dont "d'un seul côté" de la structure actif/passif de l'entreprise.
+
+- A 11:43, on parle d'un taux pour actualiser les CF. Est-il bien question ici du taux pour actualiser les CF d'un projet sur lequel la société travaille (soit un actif réel) pour faire par exemple un calcul de VAN et ce taux est-il bien tout à fait différent des taux des capitaux propres et de la dette ?
+
+
+Cordialement.

@@ -1,0 +1,9 @@
+bonsoir , 
+ je avoir deux question : 
+
+ 1- pourquoi nous n' avoir pas prendre en considération le récupération de bfr à le année 6 . 
+
+ 2- pour le calcul de cmpc , pourquoi ne pas le calculer de ce manière : 
+ CMPC=(25/35)*10.75%+(10/35)*4.5%=8.964 pourcent 
+
+ merci 

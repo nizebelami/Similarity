@@ -1,0 +1,5 @@
+Bonjour, 
+
+Serait-il possible, s'il vous plait, d'obtenir la résolution de cet exemple (comment obtient-on le taux r de 18.45%) par le biais d'une résolution de l'équation manuellement où les calculs sont résolus à l'aide d'une calculatrice et non d'un solveur Excel ? 
+
+Je vous remercie d'avance.

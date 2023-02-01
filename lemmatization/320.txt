@@ -1,0 +1,3 @@
+van(r)=-10 plus 1 sur r*(1-(1+r)^(-20))-0.1 / r 
+ que représente le ( -0.1 / r ) dans ce formule ? 
+ merci 

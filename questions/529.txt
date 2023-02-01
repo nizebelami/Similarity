@@ -1,0 +1,12 @@
+Dans la question 5 nous avons comme réponse,
+
+ =(-0.5^2*18%^2+1.5^2*38%^2+2*(-0.5)*1.5*18%*38%*42%)^0.5 =53.84%
+
+D'où vient le (42%) ^0.5 ?
+
+Je suppose que c'est le Sigma Ri, Rj mais comment on l'obtient ?
+Parce qu'obtenir une version avec un exposant ça ne ressemble pas à ce qui a été vu dans le cours.
+
+Merci beaucoup 
+
+Guillaume

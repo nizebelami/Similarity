@@ -1,0 +1,4 @@
+Bonjour, 
+
+Je ne comprends pas bien le calcul de l'espérance... Pouvez-vous le détailler? J'obtiens 21600 en faisant le calcul "classique" de 20 000 x 1,08
+Merci

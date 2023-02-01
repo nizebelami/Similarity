@@ -1,0 +1,1 @@
+Bonjour , pouvoir vous me indiquer le raisonnement pour trouver le beta avec le donnée que l' on avoir : 9,77%=2,5%+beta*(8%-2,5 pourcent ) ? ? merci beaucoup . 

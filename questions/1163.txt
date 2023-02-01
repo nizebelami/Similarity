@@ -1,0 +1,11 @@
+Bonjour,
+
+Dans la solution de la question 2, ce calcul est indiqué :  "850*((1-(1+0.565%)^-180)/0.565%), soit 95844.88"
+
+Cependant, lorsque je fais le calcul à la calculatrice, sur le tableur et même en recréant le tableau d'amortissement depuis le début, j'obtiens systématiquement la réponse suivante :  95874,72764
+
+J'ai beau essayer toutes les méthodes, je n'obtiens pas la même réponse que celle indiquée dans la solution. S'agit-il d'une erreur dans mes calculs que je ne perçois pas ou est-il possible que le calcul dans la solution soit erronné ?
+
+Merci d'avance pour votre réponse !
+
+Lucas W

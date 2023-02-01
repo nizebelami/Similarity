@@ -1,0 +1,5 @@
+Bonjour,
+
+Je ne vois pas comment nous pouvons savoir qu'il y a deux TRI possibles à savoir 0% et 19%. J'ai en effet trouvé 19% en utilisant Excel mais comment pouvons-nous trouver 0%? Car diviser par 0% est impossible.. 
+Je vous remercie d'avance,
+Eugénie

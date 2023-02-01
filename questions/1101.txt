@@ -1,0 +1,9 @@
+Bonjour, 
+
+Concernant la question 3, je ne comprends pas comment calculer la covariance ? Comment arrivez-vous à 0,000875 ? 
+
+Concernant la question 5, je ne comprends pas d'où vient le 42% à la dernière étape ? Comment le calculer ? 
+
+D'avance merci.
+
+Bien à vous.

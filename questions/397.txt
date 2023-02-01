@@ -1,0 +1,6 @@
+Bonjour
+
+Je voulais savoir à quoi est du le taux d’actualisation que l'on utilise dans un calcul de VA ou de VF en pratique ? Peut être est-ce qu'un élément théorique ? Ou est ce du à l'inflation ? au quel cas les taux utilisés me semble un peu excessif...
+Et une seconde question : le COC constitue bien le taux d'actualisation à utiliser dans le cas d'un actif risqué (et il est donc égal à taux sans risque + prime de risque)?
+
+Merci bien pour vos réponses !

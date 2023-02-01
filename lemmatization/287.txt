@@ -1,0 +1,8 @@
+Bonjour , 
+ je vous contacte car pour le question 1 , pour Irena , je avoir calculer le vf = 650*((1 plus 2%)^4 ) +650 mais je obtenir comme réponse 1353,58 et je ne parvenir pas à trouver mon erreur 
+
+ pour le question 3 , je ne comprendre pas pourquoi on avoir 1000 en t=1 alors que dans le énoncé on dire que il reste 1000 euro à payer à le fin de cette année , et comme dire en début de chaque quiz , nous être en t=0 
+
+ bien à vous 
+
+ Mauréna 

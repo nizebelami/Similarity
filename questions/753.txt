@@ -1,0 +1,1 @@
+A partir de quelle valeur de l'inflation peut-on utiliser l'approximation au lieu de la formule exacte pour calculer le taux d'intérêt réel? Extrêmement faible reste pour moi un peu abstrait.

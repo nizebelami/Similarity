@@ -1,0 +1,5 @@
+Bonjour, 
+
+J'ai juste besoin d'un éclaircissement. Dans la vidéo 5, nous abordons le théorème de séparation. L'application de ce théorème n'est possible que lorsque nous avons des opportunités d'arbitrage ? Est-ce exact ? (vu qu'en situation d'AOA, la VAN est nulle)
+
+Bien à vous,

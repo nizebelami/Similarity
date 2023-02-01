@@ -1,0 +1,4 @@
+Bonjour , et désolé s' il y avoir doublon de le question ( erreur de mon part ) . 
+
+ dans le question le van être négatif si on ne prendre pas en compte le économie sur emprunt . mais le calcul de le VAN être effectuer sans prendre en compte de économie de taxe sur le investissement . si on considérer le entreprise dans son ensemble , ne falloir il pas déduire son éventuel économie ( à savoir investissement x taux de imposition ? ) . 
+ dans ce cas le projet ne être il pas à VAN positif peu importe le méthode de financement ? 

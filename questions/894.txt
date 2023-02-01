@@ -1,0 +1,1 @@
+En revoyant cette partie du cours, je ne comprend pas pourquoi dans  le calcul effectué par Catherine pour calculer la rentabilité effective sur la période 2010-2013 (4:22') elle rajoute -1 à la fin.

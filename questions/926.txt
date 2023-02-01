@@ -1,0 +1,7 @@
+Bonjour,
+
+Je ne comprends pas pourquoi le TPP est calculé avec k=12 (pour TPP=TAP/k).
+Dans l'énoncé il est question d'une durée de 15 mois, alors pourquoi le calcul est sur 12 période au lieu de 15 ?
+
+Merci par avance,
+Gwenvael

@@ -1,0 +1,6 @@
+Bonjour , selon le formule p0 = d1 sur rcp - gramme , on pouvoir le transformée afin de pouvoir obtenir rcp ? si on avoir le prix de le action , le dividende en t1 et le taux de croissance . 
+
+ dans le vidéo , on voir le cas où le croissance être constant et de manière perpétuel . mais comment faire , si on à un période de croissance avec un certain taux gramme et un autre période ( lui perpétuel ) avec un autre taux gramme ? ce type de exercice être reprendre dans le quiz ( Q2 ) préparatif au quiz certificatif final . 
+ je avoir de abord essayer en actualiser le flux de le premier période et en appliquer le formule pour le croissance perpétuel et ensuite faire le moyenne de deux taux mais je être loin un proposition de réponse donné ... quell formule falloir il appliquer ? 
+
+ merci 

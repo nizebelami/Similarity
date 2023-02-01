@@ -1,0 +1,12 @@
+Bonsoir,
+
+Je voudrais vous demander d'où vient le choix de désigner "le montant emprunté" par "K".
+Qu'est ce qui motive le choix de cette lettre ?
+
+Pourquoi pas "F"  ? Afin de garder une continuité avec les formules vu précédemment ? 
+
+Car dans le cours précédent, "k" désignait les périodes dans "TPP = TAP / k".
+
+Je trouve que cela prête à confusion.
+
+Merci d'avance pour vôtre réponse.

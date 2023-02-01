@@ -1,0 +1,13 @@
+Bonjour Marie-Ange,
+
+alors j'ai plusieurs préoccupations pour le coup:
+
+- la première concerne la question 2, quelle est la formule utilisé pour déterminer le dividende ? parce que j'ai retourné la formule de gordon-shapiro dans tous les sens j'y arrive pas;
+
+- ensuite pourquoi utilisé le BPA (bénéfice par actions) comme étant g (taux de croissance du BPA);
+
+- enfin pour la question 3, comment déterminer g lors du calcul de la valeur de l'action en t=4 ?
+
+Comme toujours, merci d'avance pour tes explications.
+
+bien à toi.

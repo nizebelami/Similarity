@@ -1,0 +1,6 @@
+Bonjour , 
+
+ dans le solution , on indique que le tri de projet 2 être de 5 pourcent mais je obtenir 9 pourcent ( [ 2180 - 2000]/2000 ) . avec ce valeur , le projet 2 avoir donc un VAN positif ( coc = 6 pourcent ) et ce être alors le projet 1,2 et 4 qu' il falloir choisir ... le solution contenir lui un erreur ou avoir je louper quelque chose ? 
+
+ de avance merci , 
+ Michaël 

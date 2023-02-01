@@ -1,0 +1,1 @@
+Bonjour, dans le quiz 3, j'ai calculé la somme en utilisant la formule du cours et une approximation e=2.71 comme donné dans la vidéo, mais cela donne 21660, réponse fausse/ Il m'a fallu calculer avec 5 décimales soit e=2.71828 pour obtenir la bonne réponse 21666
