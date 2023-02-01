@@ -1,8 +1,6 @@
-# faq #
+# Question Similarity #
 
-TODO Describe the plugin shortly here.
-
-TODO Provide more detailed description here.
+TODO Link the Database
 
 ## Installing via uploaded ZIP file ##
 
